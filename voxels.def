@@ -3,28 +3,33 @@
 
 //Props
 	
-voxel "KVX/5703_RAKE.kvx"					{ tile 5703 } // Dzierzan
-voxel "KVX/5704_SHOVEL.kvx"					{ tile 5704 } // Dzierzan
-voxel "KVX/6612_TOILETPAPER.kvx"			{ tile 6551 } // Dzierzan
-voxel "KVX/6551_BOTTLE.kvx"					{ tile 6551 } // Dzierzan
-voxel "KVX/6555_MUG.kvx"					{ tile 6555 } // Dzierzan
-voxel "KVX/6557_BROOM.kvx"					{ tile 6557 } // Dzierzan
-voxel "KVX/6656_SHELL.kvx"					{ tile0 6656 tile1 6660 } // Dzierzan
-voxel "KVX/7549_PIPES1.kvx"					{ tile 7549 } // fgsfds
-voxel "KVX/7550_PIPES2.kvx"					{ tile 7550 } // fgsfds
-voxel "KVX/8280_LADDER1.kvx"				{ tile 8280 } // fgsfds
-voxel "KVX/8281_LADDER2.kvx"				{ tile 8281 } // fgsfds
-voxel "KVX/8282_LADDER3.kvx"				{ tile 8282 } // fgsfds
-voxel "KVX/9082_BOTTLE_SIDE.kvx"			{ tile0 9082 tile1 9093 } // fgsfds
-voxel "KVX/9152_LADDER1_TOP.kvx"			{ tile 9152 } // fgsfds
-voxel "KVX/9153_LADDER1_BOTTOM.kvx"			{ tile 9153 } // fgsfds
+voxel "KVX/5703_RAKE.kvx"					{ tile 5703 } 				// Dzierzan
+voxel "KVX/5704_SHOVEL.kvx"					{ tile 5704 } 				// Dzierzan
+voxel "KVX/6612_TOILETPAPER.kvx"			{ tile 6551 } 				// Dzierzan
+voxel "KVX/6551_BOTTLE.kvx"					{ tile 6551 } 				// Dzierzan
+voxel "KVX/6555_MUG.kvx"					{ tile 6555 } 				// Dzierzan
+voxel "KVX/6557_BROOM.kvx"					{ tile 6557 } 				// Dzierzan
+voxel "KVX/6656_SHELL.kvx"					{ tile0 6656 tile1 6660 } 	// Dzierzan
+voxel "KVX/7549_PIPES1.kvx"					{ tile 7549 } 				// fgsfds
+voxel "KVX/7550_PIPES2.kvx"					{ tile 7550 } 				// fgsfds
+voxel "KVX/8280_LADDER1.kvx"				{ tile 8280 } 				// fgsfds
+voxel "KVX/8281_LADDER2.kvx"				{ tile 8281 } 				// fgsfds
+voxel "KVX/8282_LADDER3.kvx"				{ tile 8282 } 				// fgsfds
+voxel "KVX/9082_BOTTLE_SIDE.kvx"			{ tile0 9082 tile1 9093 } 	// fgsfds
+voxel "KVX/9152_LADDER1_TOP.kvx"			{ tile 9152 } 				// fgsfds
+voxel "KVX/9153_LADDER1_BOTTOM.kvx"			{ tile 9153 } 				// fgsfds
+voxel "KVX/14111_BALLOON.kvx"				{ tile 14111 } 				// Dzierzan
+voxel "KVX/14111_BALLOON_HANDLE_1.kvx"		{ tile 14112 } 				// Dzierzan
+voxel "KVX/14111_BALLOON_HANDLE_2.kvx"		{ tile 14113 } 				// Dzierzan
+voxel "KVX/14111_BALLOON_HANDLE_3.kvx"		{ tile 14114 } 				// Dzierzan
+
 
 //Animals
-voxel "KVX/9981_COCKROACH_A.kvx"			{ tile 9981 } // Dzierzan
-voxel "KVX/9982_COCKROACH_B.kvx"			{ tile 9982 } // Dzierzan
+voxel "KVX/9981_COCKROACH_A.kvx"			{ tile 9981 } 				// Dzierzan
+voxel "KVX/9982_COCKROACH_B.kvx"			{ tile 9982 } 				// Dzierzan
 
 //Gibs
-voxel "KVX/8561_EYE_GIB.kvx"				{ tile 8561 } // Dzierzan
+voxel "KVX/8561_EYE_GIB.kvx"				{ tile 8561 } 				// Dzierzan
 
 //		OFFICIAL VOXELS
 
