@@ -10,5 +10,5 @@ Clone the project or download the zip and put all the content in Ion Fury direct
 
 # Voxel artists
 
-fgsfds (https://twitter.com/fgsfds228)
-Dzierzan (https://twitter.com/Dzierzan23)
+1. fgsfds (https://twitter.com/fgsfds228)
+2. Dzierzan (https://twitter.com/Dzierzan23)
