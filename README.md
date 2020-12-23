@@ -1,11 +1,8 @@
-![](https://imgur.com/z6NI021)
+![](https://imgur.com/z6NI021.png)
 
 # About
 
 This repository contains custom voxels created for Ion Fury game developed by Voidpoint, published by 3D Realms.
-
-# Status
-
 
 # How to use it
 
