@@ -6,10 +6,11 @@
 voxel "KVX/5703_RAKE.kvx"					{ tile 5703 } 				// Dzierzan
 voxel "KVX/5704_SHOVEL.kvx"					{ tile 5704 } 				// Dzierzan
 voxel "KVX/5707_HAMMER.kvx"					{ tile 5707 } 				// Dzierzan
-voxel "KVX/6612_TOILETPAPER.kvx"			{ tile 6551 } 				// Dzierzan
+voxel "KVX/6612_TOILETPAPER.kvx"			{ tile 6612 } 				// Dzierzan
 voxel "KVX/6551_BOTTLE.kvx"					{ tile 6551 } 				// Dzierzan
 voxel "KVX/6555_MUG.kvx"					{ tile 6555 } 				// Dzierzan
 voxel "KVX/6557_BROOM.kvx"					{ tile 6557 } 				// Dzierzan
+voxel "KVX/6585_OGAY.kvx"					{ tile 6585 } 				// Dzierzan
 voxel "KVX/6656_SHELL.kvx"					{ tile0 6656 tile1 6660 } 	// Dzierzan
 voxel "KVX/7549_PIPES1.kvx"					{ tile 7549 } 				// fgsfds
 voxel "KVX/7550_PIPES2.kvx"					{ tile 7550 } 				// fgsfds
