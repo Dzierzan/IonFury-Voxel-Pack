@@ -14,6 +14,7 @@ voxel "KVX/6560_FLASK_EMPTY.kvx"			{ tile 6560 } 				// Dzierzan
 voxel "KVX/6561_FLASK_FULL_BRIGHT.kvx"		{ tile 6561 } 				// Dzierzan
 voxel "KVX/6562_FLASK_FULL_DARK.kvx"		{ tile 6562 } 				// Dzierzan
 voxel "KVX/6583_ATOMIZER.kvx"				{ tile 6583 } 				// Dzierzan
+voxel "KVX/6584_DETERGENT.kvx"				{ tile 6584 } 				// Dzierzan
 voxel "KVX/6585_OGAY.kvx"					{ tile 6585 } 				// Dzierzan
 voxel "KVX/6656_SHELL.kvx"					{ tile0 6656 tile1 6660 } 	// Dzierzan
 voxel "KVX/7549_PIPES1.kvx"					{ tile 7549 } 				// fgsfds
