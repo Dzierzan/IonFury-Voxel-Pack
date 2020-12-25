@@ -10,6 +10,8 @@ voxel "KVX/6612_TOILETPAPER.kvx"			{ tile 6612 } 				// Dzierzan
 voxel "KVX/6551_BOTTLE.kvx"					{ tile 6551 } 				// Dzierzan
 voxel "KVX/6555_MUG.kvx"					{ tile 6555 } 				// Dzierzan
 voxel "KVX/6557_BROOM.kvx"					{ tile 6557 } 				// Dzierzan
+voxel "KVX/6558_GLASS_EMPTY.kvx"			{ tile 6558 } 				// Dzierzan
+voxel "KVX/6559_GLASS_FULL.kvx"				{ tile 6559 } 				// Dzierzan
 voxel "KVX/6560_FLASK_EMPTY.kvx"			{ tile 6560 } 				// Dzierzan
 voxel "KVX/6561_FLASK_FULL_BRIGHT.kvx"		{ tile 6561 } 				// Dzierzan
 voxel "KVX/6562_FLASK_FULL_DARK.kvx"		{ tile 6562 } 				// Dzierzan
