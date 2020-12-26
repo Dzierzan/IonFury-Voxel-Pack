@@ -22,6 +22,7 @@ voxel "KVX/6656_SHELL.kvx"					{ tile0 6656 tile1 6660 } 	// Dzierzan
 voxel "KVX/6776_BRICK.kvx"					{ tile 6776 } 				// Dzierzan
 voxel "KVX/7549_PIPES1.kvx"					{ tile 7549 } 				// fgsfds
 voxel "KVX/7550_PIPES2.kvx"					{ tile 7550 } 				// fgsfds
+voxel "KVX/8188_WEB.kvx"					{ tile 8188 } 				// Dzierzan
 voxel "KVX/8280_LADDER1.kvx"				{ tile 8280 } 				// fgsfds
 voxel "KVX/8281_LADDER2.kvx"				{ tile 8281 } 				// fgsfds
 voxel "KVX/8282_LADDER3.kvx"				{ tile 8282 } 				// fgsfds
