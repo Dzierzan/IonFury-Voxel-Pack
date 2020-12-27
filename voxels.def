@@ -45,9 +45,9 @@ voxel "KVX/14055_KNOB1.kvx"					{ tile 14055 } 				// Dzierzan
 voxel "KVX/14056_KNOB2.kvx"					{ tile 14056 } 				// Dzierzan
 voxel "KVX/14057_KNOB3.kvx"					{ tile 14057 } 				// Dzierzan
 voxel "KVX/14111_BALLOON.kvx"				{ tile 14111 } 				// Dzierzan
-voxel "KVX/14111_BALLOON_HANDLE_1.kvx"		{ tile 14112 } 				// Dzierzan
-voxel "KVX/14111_BALLOON_HANDLE_2.kvx"		{ tile 14113 } 				// Dzierzan
-voxel "KVX/14111_BALLOON_HANDLE_3.kvx"		{ tile 14114 } 				// Dzierzan
+voxel "KVX/14112_BALLOON_HANDLE_1.kvx"		{ tile 14112 } 				// Dzierzan
+voxel "KVX/14113_BALLOON_HANDLE_2.kvx"		{ tile 14113 } 				// Dzierzan
+voxel "KVX/14114_BALLOON_HANDLE_3.kvx"		{ tile 14114 } 				// Dzierzan
 
 
 //Animals
