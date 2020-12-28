@@ -42,6 +42,9 @@ voxel "KVX/9944_MARTINIGLASS_FULL.kvx"		{ tile 9944 } 				// Dzierzan
 voxel "KVX/9947_GLASS_EMPTY.kvx"			{ tile 9947 } 				// Dzierzan
 voxel "KVX/9948_GLASS_FULL.kvx"				{ tile 9947 } 				// Dzierzan
 voxel "KVX/9973_FAUCET_KNOB.kvx"			{ tile 9973 } 				// Dzierzan
+voxel "KVX/10955_KETCHUP.kvx"				{ tile 10955 } 				// Dzierzan
+voxel "KVX/10963_KETCHUP_DARK.kvx"			{ tile 10963 } 				// Dzierzan
+voxel "KVX/10964_KETCHUP_BRIGHT.kvx"		{ tile 10964 } 				// Dzierzan
 voxel "KVX/11077_PENDRIVE.kvx"				{ tile 11077 } 				// Dzierzan
 voxel "KVX/14055_KNOB1.kvx"					{ tile 14055 } 				// Dzierzan
 voxel "KVX/14056_KNOB2.kvx"					{ tile 14056 } 				// Dzierzan
