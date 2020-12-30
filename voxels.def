@@ -39,6 +39,8 @@ voxel "KVX/9152_LADDER1_TOP.kvx"			{ tile 9152 } 				// fgsfds
 voxel "KVX/9153_LADDER1_BOTTOM.kvx"			{ tile 9153 } 				// fgsfds
 voxel "KVX/9943_MARTINIGLASS_EMPTY.kvx"		{ tile 9943 } 				// Dzierzan
 voxel "KVX/9944_MARTINIGLASS_FULL.kvx"		{ tile 9944 } 				// Dzierzan
+voxel "KVX/9945_GLASS_EMPTY.kvx"			{ tile 9945 } 				// Dzierzan
+voxel "KVX/9946_GLASS_FULL.kvx"				{ tile 9946 } 				// Dzierzan
 voxel "KVX/9947_GLASS_EMPTY.kvx"			{ tile 9947 } 				// Dzierzan
 voxel "KVX/9948_GLASS_FULL.kvx"				{ tile 9947 } 				// Dzierzan
 voxel "KVX/9973_FAUCET_KNOB.kvx"			{ tile 9973 } 				// Dzierzan
