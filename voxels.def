@@ -44,6 +44,8 @@ voxel "KVX/8668_RAILING_DAMAGED2.kvx"		{ tile 8668 } 				// Dzierzan
 voxel "KVX/9082_BOTTLE_SIDE.kvx"			{ tile0 9082 tile1 9093 } 	// fgsfds
 voxel "KVX/9152_LADDER1_TOP.kvx"			{ tile 9152 } 				// fgsfds
 voxel "KVX/9153_LADDER1_BOTTOM.kvx"			{ tile 9153 } 				// fgsfds
+voxel "KVX/9158_CHAIN.kvx"					{ tile 9158 } 				// Dzierzan
+voxel "KVX/9159_CHAIN.kvx"					{ tile 9159 } 				// Dzierzan
 voxel "KVX/9943_MARTINIGLASS_EMPTY.kvx"		{ tile 9943 } 				// Dzierzan
 voxel "KVX/9944_MARTINIGLASS_FULL.kvx"		{ tile 9944 } 				// Dzierzan
 voxel "KVX/9945_GLASS_EMPTY.kvx"			{ tile 9945 } 				// Dzierzan
