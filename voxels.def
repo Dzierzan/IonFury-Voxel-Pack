@@ -60,6 +60,7 @@ voxel "KVX/9947_GLASS_EMPTY.kvx"			{ tile 9947 } 				// Dzierzan
 voxel "KVX/9948_GLASS_FULL.kvx"				{ tile 9948 } 				// Dzierzan
 voxel "KVX/9949_GLASS_EMPTY.kvx"			{ tile 9949 } 				// Dzierzan
 voxel "KVX/9950_GLASS_FULL.kvx"				{ tile 9950 } 				// Dzierzan
+voxel "KVX/9972_FAUCET_KNOB.kvx"			{ tile 9972 } 				// Dzierzan
 voxel "KVX/9973_FAUCET_KNOB.kvx"			{ tile 9973 } 				// Dzierzan
 voxel "KVX/10955_KETCHUP.kvx"				{ tile 10955 } 				// Dzierzan
 voxel "KVX/10963_KETCHUP_DARK.kvx"			{ tile 10963 } 				// Dzierzan
