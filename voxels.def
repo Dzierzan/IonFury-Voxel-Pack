@@ -27,6 +27,8 @@ voxel "KVX/6561_FLASK_FULL_BRIGHT.kvx"		{ tile 6561 } 				// Dzierzan
 voxel "KVX/6562_FLASK_FULL_DARK.kvx"		{ tile 6562 } 				// Dzierzan
 voxel "KVX/6565_CLOCK.kvx"					{ tile 6565 } 				// Dzierzan
 voxel "KVX/6566_CLOCK_DAMAGED.kvx"			{ tile 6566 } 				// Dzierzan
+voxel "KVX/6580_PLATE.kvx"					{ tile 6580 } 				// Dzierzan
+voxel "KVX/6581_PLATES.kvx"					{ tile 6581 } 				// Dzierzan
 voxel "KVX/6582_MOP.kvx"					{ tile 6582 } 				// Dzierzan
 voxel "KVX/6583_ATOMIZER.kvx"				{ tile 6583 } 				// Dzierzan
 voxel "KVX/6584_DETERGENT.kvx"				{ tile 6584 } 				// Dzierzan
