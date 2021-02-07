@@ -13,6 +13,10 @@ voxel "KVX/6446_CABLES.kvx"					{ tile 6446 } 				// Dzierzan
 voxel "KVX/6447_CABLES.kvx"					{ tile 6447 } 				// Dzierzan
 voxel "KVX/6448_POLE.kvx"					{ tile 6448 } 				// Dzierzan
 voxel "KVX/6523_CABLES.kvx"					{ tile 6523 } 				// Dzierzan
+voxel "KVX/6524_PIPES.kvx"					{ tile 6524 } 				// Dzierzan
+voxel "KVX/6525_PIPES.kvx"					{ tile 6525 } 				// Dzierzan
+voxel "KVX/6526_PIPES.kvx"					{ tile 6526 } 				// Dzierzan
+voxel "KVX/6527_PIPES.kvx"					{ tile 6527 } 				// Dzierzan
 voxel "KVX/6551_BOTTLE.kvx"					{ tile 6551 } 				// Dzierzan
 voxel "KVX/6555_MUG.kvx"					{ tile 6555 } 				// Dzierzan
 voxel "KVX/6557_BROOM.kvx"					{ tile 6557 } 				// Dzierzan
