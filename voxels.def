@@ -67,6 +67,9 @@ voxel "KVX/9973_FAUCET_KNOB.kvx"			{ tile 9973 } 				// Dzierzan
 voxel "KVX/10955_KETCHUP.kvx"				{ tile 10955 } 				// Dzierzan
 voxel "KVX/10963_KETCHUP_DARK.kvx"			{ tile 10963 } 				// Dzierzan
 voxel "KVX/10964_KETCHUP_BRIGHT.kvx"		{ tile 10964 } 				// Dzierzan
+voxel "KVX/11051_CANDLE.kvx"				{ tile 11051 } 				// Dzierzan
+voxel "KVX/11052_CANDLE_A.kvx"				{ tile 11052 } 				// Dzierzan
+voxel "KVX/11053_CANDLE_B.kvx"				{ tile 11053 } 				// Dzierzan
 voxel "KVX/11077_PENDRIVE.kvx"				{ tile 11077 } 				// Dzierzan
 voxel "KVX/14055_KNOB1.kvx"					{ tile 14055 } 				// Dzierzan
 voxel "KVX/14056_KNOB2.kvx"					{ tile 14056 } 				// Dzierzan
