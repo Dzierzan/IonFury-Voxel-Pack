@@ -6,7 +6,11 @@
 voxel "KVX/5703_RAKE.kvx"					{ tile 5703 } 				// Dzierzan
 voxel "KVX/5704_SHOVEL.kvx"					{ tile 5704 } 				// Dzierzan
 voxel "KVX/5705_WRENCH.kvx"					{ tile 5705 } 				// Dzierzan
+voxel "KVX/5706_WRENCH.kvx"					{ tile 5706 } 				// Dzierzan
 voxel "KVX/5707_HAMMER.kvx"					{ tile 5707 } 				// Dzierzan
+voxel "KVX/5708_CHOPPER.kvx"				{ tile 5708 } 				// Dzierzan
+voxel "KVX/5709_KNIFE.kvx"					{ tile 5709 } 				// Dzierzan
+voxel "KVX/5710_KNIFE.kvx"					{ tile 5710 } 				// Dzierzan
 voxel "KVX/5846_PIN.kvx"					{ tile0 5846 tile1 5854 } 	// Dzierzan
 voxel "KVX/6612_TOILETPAPER.kvx"			{ tile 6612 } 				// Dzierzan
 voxel "KVX/6446_CABLES.kvx"					{ tile 6446 } 				// Dzierzan
