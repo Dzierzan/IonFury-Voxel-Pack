@@ -2,7 +2,8 @@
 
 
 //Props
-	
+
+voxel "KVX/5702_SHEARS.kvx"					{ tile 5702 } 				// Dzierzan	
 voxel "KVX/5703_RAKE.kvx"					{ tile 5703 } 				// Dzierzan
 voxel "KVX/5704_SHOVEL.kvx"					{ tile 5704 } 				// Dzierzan
 voxel "KVX/5705_WRENCH.kvx"					{ tile 5705 } 				// Dzierzan
