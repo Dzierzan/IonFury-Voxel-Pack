@@ -1,0 +1,5 @@
+mapinfo {
+	mapfile "maps/z2a4.map"
+	mapmd4 2aae539cafa8c350dd6d219deeda6dcf
+	mhkfile "maphacks/z2a4.mhk"
+}
