@@ -1,6 +1,6 @@
 include maphacks/maphacks.def
-//		CUSTOM VOXELS
 
+//		CUSTOM VOXELS
 
 //Props
 
@@ -84,7 +84,6 @@ voxel "KVX/14111_BALLOON.kvx"				{ tile 14111 } 				// Dzierzan
 voxel "KVX/14112_BALLOON_HANDLE_1.kvx"		{ tile 14112 } 				// Dzierzan
 voxel "KVX/14113_BALLOON_HANDLE_2.kvx"		{ tile 14113 } 				// Dzierzan
 voxel "KVX/14114_BALLOON_HANDLE_3.kvx"		{ tile 14114 } 				// Dzierzan
-
 
 //Animals
 voxel "KVX/9981_COCKROACH_A.kvx"			{ tile 9981 } 				// Dzierzan
