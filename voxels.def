@@ -90,6 +90,10 @@ voxel "KVX/11077_PENDRIVE.kvx"				{ tile 11077 } 				// Dzierzan
 voxel "KVX/14055_KNOB1.kvx"					{ tile 14055 } 				// Dzierzan
 voxel "KVX/14056_KNOB2.kvx"					{ tile 14056 } 				// Dzierzan
 voxel "KVX/14057_KNOB3.kvx"					{ tile 14057 } 				// Dzierzan
+voxel "KVX/14082_NUNCHAKU.kvx"				{ tile 14082 } 				// Dzierzan
+voxel "KVX/14083_SAI.kvx"					{ tile 14083 } 				// Dzierzan
+voxel "KVX/14084_KATANA.kvx"				{ tile 14084 } 				// Dzierzan
+voxel "KVX/14085_BO.kvx"					{ tile 14085 } 				// Dzierzan
 voxel "KVX/14111_BALLOON.kvx"				{ tile 14111 } 				// Dzierzan
 voxel "KVX/14112_BALLOON_HANDLE_1.kvx"		{ tile 14112 } 				// Dzierzan
 voxel "KVX/14113_BALLOON_HANDLE_2.kvx"		{ tile 14113 } 				// Dzierzan
