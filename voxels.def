@@ -23,6 +23,8 @@ voxel "KVX/6524_PIPES.kvx"					{ tile 6524 } 				// Dzierzan
 voxel "KVX/6525_PIPES.kvx"					{ tile 6525 } 				// Dzierzan
 voxel "KVX/6526_PIPES.kvx"					{ tile 6526 } 				// Dzierzan
 voxel "KVX/6527_PIPES.kvx"					{ tile 6527 } 				// Dzierzan
+voxel "KVX/6532_RAILING.kvx"				{ tile 6532 } 				// Dzierzan
+voxel "KVX/6533_RAILING_PLATE.kvx"			{ tile 6533 } 				// Dzierzan
 voxel "KVX/6551_BOTTLE.kvx"					{ tile 6551 } 				// Dzierzan
 voxel "KVX/6555_MUG.kvx"					{ tile 6555 } 				// Dzierzan
 voxel "KVX/6557_BROOM.kvx"					{ tile 6557 } 				// Dzierzan
@@ -86,6 +88,9 @@ voxel "KVX/10964_KETCHUP_BRIGHT.kvx"		{ tile 10964 } 				// Dzierzan
 voxel "KVX/11051_CANDLE.kvx"				{ tile 11051 } 				// Dzierzan
 voxel "KVX/11052_CANDLE_A.kvx"				{ tile 11052 } 				// Dzierzan
 voxel "KVX/11053_CANDLE_B.kvx"				{ tile 11053 } 				// Dzierzan
+voxel "KVX/11168_RAILING_PLATE.kvx"			{ tile 11168 } 				// Dzierzan
+voxel "KVX/11169_RAILING_PLATE.kvx"			{ tile 11169 } 				// Dzierzan
+voxel "KVX/11170_RAILING_PLATE.kvx"			{ tile 11170 } 				// Dzierzan
 voxel "KVX/11077_PENDRIVE.kvx"				{ tile 11077 } 				// Dzierzan
 voxel "KVX/14055_KNOB1.kvx"					{ tile 14055 } 				// Dzierzan
 voxel "KVX/14056_KNOB2.kvx"					{ tile 14056 } 				// Dzierzan
