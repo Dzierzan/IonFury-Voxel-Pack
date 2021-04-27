@@ -48,6 +48,7 @@ voxel "KVX/7550_PIPES2.kvx"					{ tile 7550 } 				// fgsfds
 voxel "KVX/7551_CABLES.kvx"					{ tile 7551 } 				// Dzierzan
 voxel "KVX/7929_PLASTIC_BOTTLE.kvx"			{ tile 7929 } 				// Dzierzan
 voxel "KVX/7930_PLASTIC_BOTTLE_LABEL.kvx"	{ tile 7930 } 				// Dzierzan
+voxel "KVX/7934_STAMPLER.kvx"				{ tile 7934 } 				// Dzierzan
 voxel "KVX/8188_WEB.kvx"					{ tile 8188 } 				// Dzierzan
 voxel "KVX/8280_LADDER1.kvx"				{ tile 8280 } 				// fgsfds
 voxel "KVX/8281_LADDER2.kvx"				{ tile 8281 } 				// fgsfds
@@ -108,7 +109,6 @@ voxel "KVX/14113_BALLOON_HANDLE_2.kvx"		{ tile 14113 } 				// Dzierzan
 voxel "KVX/14114_BALLOON_HANDLE_3.kvx"		{ tile 14114 } 				// Dzierzan
 
 //Decals
-
 voxel "KVX/11063_COIN_INSERTER.kvx"			{ tile 11063 } 				// Dzierzan
 
 //Animals
