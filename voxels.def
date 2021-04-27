@@ -107,6 +107,10 @@ voxel "KVX/14112_BALLOON_HANDLE_1.kvx"		{ tile 14112 } 				// Dzierzan
 voxel "KVX/14113_BALLOON_HANDLE_2.kvx"		{ tile 14113 } 				// Dzierzan
 voxel "KVX/14114_BALLOON_HANDLE_3.kvx"		{ tile 14114 } 				// Dzierzan
 
+//Decals
+
+voxel "KVX/11063_COIN_INSERTER.kvx"			{ tile 11063 } 				// Dzierzan
+
 //Animals
 voxel "KVX/9981_COCKROACH_A.kvx"			{ tile 9981 } 				// Dzierzan
 voxel "KVX/9982_COCKROACH_B.kvx"			{ tile 9982 } 				// Dzierzan
