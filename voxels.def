@@ -26,6 +26,7 @@ voxel "KVX/6527_PIPES.kvx"					{ tile 6527 } 				// Dzierzan
 voxel "KVX/6532_RAILING.kvx"				{ tile 6532 } 				// Dzierzan
 voxel "KVX/6533_RAILING_PLATE.kvx"			{ tile 6533 } 				// Dzierzan
 voxel "KVX/6551_BOTTLE.kvx"					{ tile 6551 } 				// Dzierzan
+voxel "KVX/6552_JACKDANIELS.kvx"			{ tile 6552 } 				// Dzierzan
 voxel "KVX/6555_MUG.kvx"					{ tile 6555 } 				// Dzierzan
 voxel "KVX/6557_BROOM.kvx"					{ tile 6557 } 				// Dzierzan
 voxel "KVX/6558_GLASS_EMPTY.kvx"			{ tile 6558 } 				// Dzierzan
@@ -60,6 +61,7 @@ voxel "KVX/8654_RAILING.kvx"				{ tile 8654 } 				// Dzierzan
 voxel "KVX/8655_RAILING_DAMAGED3.kvx"		{ tile 8655 } 				// Dzierzan
 voxel "KVX/8667_RAILING_DAMAGED1.kvx"		{ tile 8667 } 				// Dzierzan
 voxel "KVX/8668_RAILING_DAMAGED2.kvx"		{ tile 8668 } 				// Dzierzan
+voxel "KVX/8826_JACKDANIELS_EMPTY.kvx"		{ tile 8826 } 				// Dzierzan
 voxel "KVX/8977_STREETLAMP_POLE.kvx"		{ tile 8977 } 				// Dzierzan
 voxel "KVX/8981_STREETLAMP_POLE.kvx"		{ tile 8981 } 				// Dzierzan
 voxel "KVX/8982_STREETLAMP_OFF.kvx"			{ tile 8982 } 				// Dzierzan
