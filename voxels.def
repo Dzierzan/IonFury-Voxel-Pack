@@ -113,6 +113,12 @@ voxel "KVX/11053_CANDLE_B.kvx"				{ tile 11053 } 				// Dzierzan
 voxel "KVX/11168_RAILING_PLATE.kvx"			{ tile 11168 } 				// Dzierzan
 voxel "KVX/11169_RAILING_PLATE.kvx"			{ tile 11169 } 				// Dzierzan
 voxel "KVX/11170_RAILING_PLATE.kvx"			{ tile 11170 } 				// Dzierzan
+voxel "KVX/11171_RAILING_SLOPE.kvx"			{ tile 11171 } 				// Dzierzan
+voxel "KVX/11172_RAILING_SLOPE.kvx"			{ tile 11172 } 				// Dzierzan
+voxel "KVX/11173_RAILING_SLOPE.kvx"			{ tile 11173 } 				// Dzierzan
+voxel "KVX/11174_RAILING_SLOPE.kvx"			{ tile 11174 } 				// Dzierzan
+voxel "KVX/11175_RAILING_SLOPE.kvx"			{ tile 11175 } 				// Dzierzan
+voxel "KVX/11176_RAILING_SLOPE.kvx"			{ tile 11176 } 				// Dzierzan
 voxel "KVX/11077_PENDRIVE.kvx"				{ tile 11077 } 				// Dzierzan
 voxel "KVX/14055_KNOB1.kvx"					{ tile 14055 } 				// Dzierzan
 voxel "KVX/14056_KNOB2.kvx"					{ tile 14056 } 				// Dzierzan
