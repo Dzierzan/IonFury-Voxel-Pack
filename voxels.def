@@ -112,6 +112,7 @@ voxel "KVX/10964_KETCHUP_BRIGHT.kvx"		{ tile 10964 } 				// Dzierzan
 voxel "KVX/11051_CANDLE.kvx"				{ tile 11051 } 				// Dzierzan
 voxel "KVX/11052_CANDLE_A.kvx"				{ tile 11052 } 				// Dzierzan
 voxel "KVX/11053_CANDLE_B.kvx"				{ tile 11053 } 				// Dzierzan
+voxel "KVX/11081_CABLES.kvx"				{ tile 11081 } 				// Dzierzan
 voxel "KVX/11133_ELEVATOR_POWER_SIGN.kvx"	{ tile 11133 } 				// Dzierzan
 voxel "KVX/11168_RAILING_PLATE.kvx"			{ tile 11168 } 				// Dzierzan
 voxel "KVX/11169_RAILING_PLATE.kvx"			{ tile 11169 } 				// Dzierzan
