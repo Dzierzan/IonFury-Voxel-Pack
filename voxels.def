@@ -25,6 +25,7 @@ voxel "KVX/6526_PIPES.kvx"					{ tile 6526 } 				// Dzierzan
 voxel "KVX/6527_PIPES.kvx"					{ tile 6527 } 				// Dzierzan
 voxel "KVX/6532_RAILING.kvx"				{ tile 6532 } 				// Dzierzan
 voxel "KVX/6533_RAILING_PLATE.kvx"			{ tile 6533 } 				// Dzierzan
+voxel "KVX/6550_COFFEE.kvx"					{ tile 6550 } 				// Dzierzan
 voxel "KVX/6551_BOTTLE.kvx"					{ tile 6551 } 				// Dzierzan
 voxel "KVX/6552_JACKDANIELS.kvx"			{ tile 6552 } 				// Dzierzan
 voxel "KVX/6555_MUG.kvx"					{ tile 6555 } 				// Dzierzan
@@ -43,6 +44,7 @@ voxel "KVX/6583_ATOMIZER.kvx"				{ tile 6583 } 				// Dzierzan
 voxel "KVX/6584_DETERGENT.kvx"				{ tile 6584 } 				// Dzierzan
 voxel "KVX/6585_OGAY.kvx"					{ tile 6585 } 				// Dzierzan
 voxel "KVX/6611_HANDRAIL.kvx"				{ tile 6611 } 				// Dzierzan
+voxel "KVX/6613_COFFEE_EMPTY.kvx"			{ tile 6613 } 				// Dzierzan
 voxel "KVX/6656_SHELL.kvx"					{ tile0 6656 tile1 6660 } 	// Dzierzan
 voxel "KVX/6776_BRICK.kvx"					{ tile 6776 } 				// Dzierzan
 voxel "KVX/7549_PIPES1.kvx"					{ tile 7549 } 				// fgsfds
