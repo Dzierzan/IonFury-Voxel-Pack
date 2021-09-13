@@ -28,6 +28,7 @@ voxel "KVX/6533_RAILING_PLATE.kvx"			{ tile 6533 } 				// Dzierzan
 voxel "KVX/6550_COFFEE.kvx"					{ tile 6550 } 				// Dzierzan
 voxel "KVX/6551_BOTTLE.kvx"					{ tile 6551 } 				// Dzierzan
 voxel "KVX/6552_JACKDANIELS.kvx"			{ tile 6552 } 				// Dzierzan
+voxel "KVX/6554_CUP.kvx"					{ tile 6554 } 				// Dzierzan
 voxel "KVX/6555_MUG.kvx"					{ tile 6555 } 				// Dzierzan
 voxel "KVX/6557_BROOM.kvx"					{ tile 6557 } 				// Dzierzan
 voxel "KVX/6558_GLASS_EMPTY.kvx"			{ tile 6558 } 				// Dzierzan
