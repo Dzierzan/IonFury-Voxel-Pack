@@ -57,7 +57,7 @@ voxel "KVX/7551_CABLES.kvx"					{ tile 7551 } 				// Dzierzan
 voxel "KVX/7928_FLASK.kvx"					{ tile 7928 } 				// Dzierzan
 voxel "KVX/7929_PLASTIC_BOTTLE.kvx"			{ tile 7929 } 				// Dzierzan
 voxel "KVX/7930_PLASTIC_BOTTLE_LABEL.kvx"	{ tile 7930 } 				// Dzierzan
-voxel "KVX/7931_FLASK.kvx"					{ tile 7931 } 				// Dzierzan
+voxel "KVX/7931_MEASURING_FLASK.kvx"		{ tile 7931 } 				// Dzierzan
 voxel "KVX/7933_FLASK.kvx"					{ tile 7933 } 				// Dzierzan
 voxel "KVX/7934_STAMPLER.kvx"				{ tile 7934 } 				// Dzierzan
 voxel "KVX/8188_WEB.kvx"					{ tile 8188 } 				// Dzierzan
