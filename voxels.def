@@ -60,6 +60,7 @@ voxel "KVX/7930_PLASTIC_BOTTLE_LABEL.kvx"	{ tile 7930 } 				// Dzierzan
 voxel "KVX/7931_MEASURING_FLASK.kvx"		{ tile 7931 } 				// Dzierzan
 voxel "KVX/7933_FLASK.kvx"					{ tile 7933 } 				// Dzierzan
 voxel "KVX/7934_STAMPLER.kvx"				{ tile 7934 } 				// Dzierzan
+voxel "KVX/7935_BONG_GLASS.kvx"				{ tile 7935 } 				// Dzierzan
 voxel "KVX/7996_ALARM_SWITCH.kvx"			{ tile 7996 } 				// Dzierzan
 voxel "KVX/8188_WEB.kvx"					{ tile 8188 } 				// Dzierzan
 voxel "KVX/8280_LADDER1.kvx"				{ tile 8280 } 				// fgsfds
