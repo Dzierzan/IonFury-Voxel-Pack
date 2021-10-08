@@ -61,7 +61,6 @@ voxel "KVX/7931_MEASURING_FLASK.kvx"		{ tile 7931 } 				// Dzierzan
 voxel "KVX/7933_FLASK.kvx"					{ tile 7933 } 				// Dzierzan
 voxel "KVX/7934_STAMPLER.kvx"				{ tile 7934 } 				// Dzierzan
 voxel "KVX/7935_BONG_GLASS.kvx"				{ tile 7935 } 				// Dzierzan
-voxel "KVX/7996_ALARM_SWITCH.kvx"			{ tile 7996 } 				// Dzierzan
 voxel "KVX/8188_WEB.kvx"					{ tile 8188 } 				// Dzierzan
 voxel "KVX/8280_LADDER1.kvx"				{ tile 8280 } 				// fgsfds
 voxel "KVX/8281_LADDER2.kvx"				{ tile 8281 } 				// fgsfds
@@ -91,6 +90,8 @@ voxel "KVX/9158_CHAIN.kvx"					{ tile 9158 } 				// Dzierzan
 voxel "KVX/9159_CHAIN.kvx"					{ tile 9159 } 				// Dzierzan
 voxel "KVX/9164_ROADBLOCK.kvx"				{ tile 9164 } 				// Dzierzan
 voxel "KVX/9272_FLUSH.kvx"					{ tile 9272 } 				// Dzierzan
+voxel "KVX/9522_THIN_RAILING.kvx"			{ tile 9522 } 				// Dzierzan
+voxel "KVX/9527_THIN_RAILING.kvx"			{ tile 9527 } 				// Dzierzan
 voxel "KVX/9943_MARTINIGLASS_EMPTY.kvx"		{ tile 9943 } 				// Dzierzan
 voxel "KVX/9944_MARTINIGLASS_FULL.kvx"		{ tile 9944 } 				// Dzierzan
 voxel "KVX/9945_GLASS_EMPTY.kvx"			{ tile 9945 } 				// Dzierzan
@@ -148,7 +149,8 @@ voxel "KVX/14113_BALLOON_HANDLE_2.kvx"		{ tile 14113 } 				// Dzierzan
 voxel "KVX/14114_BALLOON_HANDLE_3.kvx"		{ tile 14114 } 				// Dzierzan
 
 //Decals
-voxel "KVX/11063_COIN_SLOT.kvx"			{ tile 11063 } 				// Dzierzan
+voxel "KVX/7996_ALARM_SWITCH.kvx"			{ tile 7996 } 				// Dzierzan
+voxel "KVX/11063_COIN_SLOT.kvx"				{ tile 11063 } 				// Dzierzan
 
 //Animals
 voxel "KVX/9981_COCKROACH_A.kvx"			{ tile 9981 } 				// Dzierzan
