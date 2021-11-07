@@ -1,1 +1,10 @@
-sprite 3135 angoff 1024 // tile9164 roadblock
+// Ion Fury Maphacks by Dzierzan
+
+// Title    : Inhospitable Hospitality
+// Author   : Corentin 'MetHy (MetHunter)' Dallay aka 'Ness' & Vitaliy '_DNV_' Bondarenko & Artem Brullov
+// Filename : z5a1.map
+// mapmd4   : 5d2e7e5b11435f71786e665f4b941a6c // 2021-09-29 (fury.grp 2.0)
+
+// Curr.IFVP: r0.0.89
+
+sprite  3135 angoff     1024       // tile09164 (roadblock)

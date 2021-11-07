@@ -1,22 +1,31 @@
+// Ion Fury Maphacks by Dzierzan
+
+// Title    : D.C. Meltdown
+// Author   : Leonardo 'DavoX' Pellegrini
+// Filename : z2a4.map
+// mapmd4   : 14ac5a37419ef9d4915c5dd31b595a3a // 2021-09-29 (fury.grp 2.0)
+
+// Curr.IFVP: r0.0.89
+
 // Perfume store
 // Left
-sprite 2262 angoff 1536 // tile6585 ogay_handsoap
-sprite 2263 angoff 1536 // tile6585 ogay_handsoap
-sprite 2264 angoff 1536 // tile6585 ogay_handsoap
-sprite 2265 angoff 1536 // tile6585 ogay_handsoap
-sprite 2266 angoff 1536 // tile6585 ogay_handsoap
-sprite 2267 angoff 1536 // tile6585 ogay_handsoap
+sprite  2262 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2263 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2264 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2265 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2266 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2267 angoff    -512        // tile06585 a_handsoap (ogay)
 // Right
-sprite 2298 angoff 1536 // tile6585 ogay_handsoap
-sprite 2299 angoff 1536 // tile6585 ogay_handsoap
-sprite 2300 angoff 1536 // tile6585 ogay_handsoap
-sprite 2301 angoff 1536 // tile6585 ogay_handsoap
-sprite 2302 angoff 1536 // tile6585 ogay_handsoap
-sprite 2303 angoff 1536 // tile6585 ogay_handsoap
-//Middle
-sprite 2340 angoff 1563 // tile6585 ogay_handsoap
-sprite 2341 angoff 1563 // tile6585 ogay_handsoap
-sprite 2342 angoff 1563 // tile6585 ogay_handsoap
-sprite 2343 angoff 1563 // tile6585 ogay_handsoap
-sprite 2344 angoff 1563 // tile6585 ogay_handsoap
-sprite 2345 angoff 1563 // tile6585 ogay_handsoap
+sprite  2298 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2299 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2300 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2301 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2302 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2303 angoff    -512        // tile06585 a_handsoap (ogay)
+// Middle
+sprite  2340 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2341 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2342 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2343 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2344 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite  2345 angoff    -512        // tile06585 a_handsoap (ogay)

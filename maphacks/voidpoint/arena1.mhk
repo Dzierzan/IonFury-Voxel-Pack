@@ -1,0 +1,13 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : The DC Chaingun Massacre
+// Author   : 
+// Filename : arena1.map
+// mapmd4   : 9685c37207cd429d20a622b89309478b // 2020-05-25 (fury.grp 1.1/2.0)
+
+// Curr.IFVP: r0.0.89
+
+sprite  4497 angoff     256        // tile00215 i_bulletvest
+sprite   710 angoff     640        // tile06569 a_trashcan
+sprite  1130 angoff    -512        // tile06569 a_trashcan
+sprite  1126 angoff    -384        // tile06569 a_trashcan

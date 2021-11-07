@@ -1,0 +1,31 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : JungleFury
+// Author   : Truck Stop Santa Claus
+// Filename : junglefury.map
+// mapmd4   : cde676804b948961683b1ee3ce0477d9 // 2020-01-05
+
+// Curr.IFVP: r0.0.89
+
+sprite   492 angoff     512        // tile00214 i_medkit
+sprite   328 angoff     256        // tile00213 i_medicomp
+sprite   326 angoff     0          // tile00224 i_shotgun
+sprite   370 angoff     0          // tile00215 i_bulletvest
+sprite   357 angoff     768        // tile00213 i_medicomp
+sprite   330 angoff     682        // tile00232 i_bowlingbomb_pickup
+sprite   331 angoff    -682        // tile00232 i_bowlingbomb_pickup
+sprite   358 angoff     0          // tile00214 i_medkit
+sprite   446 angoff     768        // tile00232 i_bowlingbomb_pickup
+sprite   448 angoff     512        // tile00220 i_plasmacrossbow
+sprite   692 angoff     0          // tile00230 i_smg
+sprite   880 angoff     768        // tile00212 i_medpack
+sprite   686 angoff    -256        // tile00232 i_bowlingbomb_pickup
+sprite   679 angoff    -512        // tile11371 a_gdf_body_5
+sprite   735 angoff     1024       // tile00213 i_medicomp
+sprite   905 angoff    -768        // tile00232 i_bowlingbomb_pickup
+sprite   906 angoff    -256        // tile00227 i_smg_ammo
+sprite   877 angoff     512        // tile11373 a_gdf_body_7
+sprite  1022 angoff     1024       // tile00213 i_medicomp
+sprite   909 angoff    -640        // tile00218 i_minigun_ammo
+sprite   907 angoff     128        // tile00221 i_minigun
+sprite  1114 angoff     256        // tile11371 a_gdf_body_5
