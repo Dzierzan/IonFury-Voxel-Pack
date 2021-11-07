@@ -1,0 +1,35 @@
+//
+// Ion Fury User Maps (sorted by title)
+//
+
+mapinfo {
+  maptitle "Ion Piercer"
+  //author "Olipro"
+  mapfile  "ionpiercer-1.map"
+  mapmd4   f06083d2251c7d9378a235436c940c24 // 2019-08-24
+  mhkfile  "maphacks/usermaps/ionpiercer-1.mhk"
+}
+
+mapinfo {
+  maptitle "JungleFury"
+  //author "Truck Stop Santa Claus"
+  mapfile  "junglefury.map"
+  mapmd4   cde676804b948961683b1ee3ce0477d9 // 2020-01-05
+  mhkfile  "maphacks/usermaps/junglefury.mhk"
+}
+
+mapinfo {
+  maptitle "Overland"
+  //author "kayy"
+  mapfile  "overland.map"
+  mapmd4   5e02ea5a3be4dcaa70ed44e3ac0ccd7a // 2019-08-30
+  mhkfile  "maphacks/usermaps/overland.mhk"
+}
+
+mapinfo {
+  maptitle "SPYmaps Ion Fury"
+  //author "Leon 'SPYmaps' Brinkmann"
+  mapfile  "SPYmapsIONFURY.map"
+  mapmd4   0fa64ef55db453be4d9769e861f1b8f3 // 2019-11-01
+  mhkfile  "maphacks/usermaps/SPYmapsIONFURY.mhk"
+}

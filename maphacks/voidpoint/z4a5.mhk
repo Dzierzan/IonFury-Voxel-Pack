@@ -1,0 +1,13 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : Twist of Freight
+// Author   : Jarmo 'Daedolon' Kylmäaho
+// Filename : z4a5.map
+// mapmd4   : 8bfd0e32119ec0e288beb2312b74cc0b // 2021-09-30 (fury.grp 2.0)
+
+// Curr.IFVP: r0.0.89
+
+sprite    26 angoff     896        // tile00213 i_medicomp
+sprite    23 angoff    -896        // tile00212 i_medpack
+sprite    43 angoff     128        // tile00227 i_smg_ammo
+sprite    44 angoff    -128        // tile00227 i_smg_ammo

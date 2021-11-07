@@ -1,7 +1,7 @@
 
-// Ion Fury Maps
+// Ion Fury game levels by Voidpoint
 
-/*
+
 // Main episode "Capital Offense"
 mapinfo {
    maptitle "The All-Seeing Eye"
@@ -23,6 +23,7 @@ mapinfo {
    mapmd4   85ae5a0f70c833d7a1bff58bfe4ebdaa // 2021-09-20 (fury.grp 2.0)
    mhkfile  "maphacks/voidpoint/z1a2.mhk"
 }
+/*
 mapinfo {
    maptitle "Fan Service"
    //author "Leonardo 'DavoX' Pellegrini"
@@ -192,6 +193,7 @@ mapinfo {
    mapmd4   81d6ab25f28ed501ab9e316b6cbb949a // 2021-10-05 (fury.grp 2.0)
    mhkfile  "maphacks/voidpoint/z4a4.mhk"
 }
+*/
 mapinfo {
    maptitle "Twist of Freight"
    //author "Jarmo 'Daedolon' Kylmäaho"
@@ -201,7 +203,6 @@ mapinfo {
    mapmd4   8bfd0e32119ec0e288beb2312b74cc0b // 2021-09-30 (fury.grp 2.0)
    mhkfile  "maphacks/voidpoint/z4a5.mhk"
 }
-*/
 mapinfo {
    maptitle "Inhospitable Hospitality"
    //author "Corentin 'MetHy (MetHunter)' Dallay aka 'Ness' & Vitaliy '_DNV_' Bondarenko & Artem Brullov"
@@ -231,6 +232,7 @@ mapinfo {
    mapmd4   2a8d8d897d050114b47039710d162fbd // 2021-09-28 (fury.grp 2.0)
    mhkfile  "maphacks/voidpoint/z5a3.mhk"
 }
+*/
 mapinfo {
    maptitle "Hellmouth"
    //author "Corentin 'MetHy (MetHunter)' Dallay aka 'Ness' & Vitaliy '_DNV_' Bondarenko"
@@ -241,6 +243,7 @@ mapinfo {
    mapmd4   7afe3f6cf981f6259b752325e6d91cdd // 2021-09-28 (fury.grp 2.0)
    mhkfile  "maphacks/voidpoint/z6a1.mhk"
 }
+/*
 mapinfo {
    maptitle "Hazard Disposal"
    //author "Corentin 'MetHy (MetHunter)' Dallay aka 'Ness' & Vitaliy '_DNV_' Bondarenko"
@@ -340,6 +343,7 @@ mapinfo {
    mapmd4   1c7c05efc1f29531d1147886eed6f43f // 2021-09-28 (fury.grp 2.0)
    mhkfile  "maphacks/voidpoint/preview_hhoh.mhk"
 }
+*/
 
 // Episode "Queen of the Hill"
 mapinfo {
@@ -352,4 +356,3 @@ mapinfo {
    mapmd4   9685c37207cd429d20a622b89309478b // 2020-05-25 (fury.grp 1.1/2.0)
    mhkfile  "maphacks/voidpoint/arena1.mhk"
 }
-*/

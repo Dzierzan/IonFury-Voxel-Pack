@@ -1,0 +1,148 @@
+                   ==========================================
+                   |           Ion Fury Maphacks            |
+                   |                for the                 |
+                   |          Ion Fury Voxel Pack           |
+                   |                 (IFVP)                 |
+                   |                by LeoD                 |
+                   ==========================================
+                   |      Version: 0.0.89 (2021-11-07)      |
+                   ==========================================
+
+=======================
+CONTENTS OF THIS README
+=======================
+
+1) About
+2) Installation
+3) Notes
+4) License
+5) Contact/Links
+6) Credits
+7) Changelog
+
+
+1) ABOUT
+========
+ Maphacks are used to edit the positioning of objects and other parts of Ion 
+Fury levels. These maphacks' goal is to improve the compatibility of both the
+original game's and user created maps with the Ion Fury Voxel Pack.
+ Since there is no central site for map downloads, patching the maps directly
+would lead to quite some confusion among players about their respective
+versions. By distributing separated maphacks the original map download archives
+can be kept unchanged.
+
+What maphacks can do:
+ - prevent objects from clipping into walls or each other
+   - by rotating them
+   - by moving their visible representation (not yet implemented for voxels*)
+ - turn the front side of objects to the most likely player position
+ - turn off unintended voxel animations
+ - prevent wall-aligned decorations from showing up as voxels
+ - prevent wall-aligned sprites from flickering (no issue with IF's renderers?)
+
+
+2) INSTALLATION
+===============
+ * For the time being, "moving" voxels is only provided by a patched executable
+   ('notrans' feature from main branch included), which you can download here:
+     https://www.mediafire.com/file/w70bv4yddm2ccos/fury-for-maphacks.7z
+   Rename the *.exe of your choice to "fury.exe".
+
+ Technically this is like an IFVP update pack with maphack additions and 
+updates only - therefore, if your current IFVP's version number is greater 
+than ours, don't use this pack.
+
+a) Unzip this pack into your Ion Fury folder, over the Ion Fury Voxel Pack files
+
+OR
+
+b) Drop this pack into the autoload folder alongside a zipped IFVP, and add the
+   line "NoAutoLoad = 0" to the [Setup] section of fury.cfg
+
+OR
+
+c) Standalone invocation: fury -g IonFuryMapHacks.zip -mh maphacks/maphacks.def
+
+
+ Your fury.log/eduke32.log should contain one or more lines similar to this 
+after playing:
+   Loaded map hack file "maphacks/usermaps/foobar.mhk"
+
+
+3) NOTES
+========
+ The main goal is to get rid of the most annoying IFVP-related problems of 
+popular (highly rated by reviewers) and recently released user maps. 
+Due to the late introduction of some voxels in the Ion Fury game design, even 
+some originals game's maps need some adjustments. 
+
+
+You can help:
+
+ - If you find anything you consider worthy correcting in an already maphacked
+level, don't hesitate to report it (DNCOORDS!), and which renderer/IFVP version
+you are using.
+
+ - You can contribute your own maphacks. Basic information is available at:
+     https://wiki.eduke32.com/wiki/Maphack_Language
+
+ - If you have a newer version of an already maphacked level, please let LeoD
+   know. (But compare the checksums first.)
+
+
+4) LICENSE
+==========
+ You are free to copy, alter, reproduce, and redistribute all maphack files
+as long as their original author[s] are credited in each *.mhk, respectively.
+
+
+5) CONTACT/LINKS
+================
+ You can check the related EDuke32 forum thread over at Duke4.net:
+  https://forums.duke4.net/index.php?showtopic=6070
+
+Contact:
+--------
+  https://forums.duke4.net/index.php?showuser=1299
+
+Related Links:
+--------------
+  Ion Fury (Voidpoint) ........................ http://www.ionfury.com
+  Duke4.net ................................... https://duke4.net
+  EDuke32 port ................................ https://eduke32.com
+  RHash checksum generator ...... https://sourceforge.net/projects/rhash
+  Maphack Wiki entry ............ https://wiki.eduke32.com/wiki/Maphack_Language
+  Ion Fury Voxel Pack ........... https://github.com/Dzierzan/IonFury-Voxel-Pack
+  Ion Fury (3DRealms) ........... https://3drealms.com/catalog/ion-maiden_56
+
+Advertisement:
+--------------
+  Other Stuff by LeoD ....... https://forums.duke4.net/index.php?showtopic=3513
+
+
+6) CREDITS
+==========
+ Anyone who has contributed to EDuke32, the IFVP, or the user maps listed herein
+
+
+7) CHANGELOG
+============
+
+r0.0.89 (2021-11-07)
+--------------------
+initial release
+  Map Title               File Name          Map Author                 Maphacks
+  ------------------------------------------------------------------------------
+  Ion Piercer             ionpiercer-1.map   Olipro                        LeoD
+  JungleFury              junglefury.map     Truck Stop Santa Claus        LeoD
+  Overland                overland.map       kayy                          LeoD
+  SPYmaps Ion Fury        SPYmapsIONFURY.map Leon 'SPYmaps' Brinkmann      LeoD
+
+  Ion Fury Maps:
+    The All-Seeing Eye        z1a1.map       Voidpoint                     LeoD
+    Trouble in Paradise       z1a2.map       Voidpoint                     LeoD
+    D.C. Meltdown             z2a4.map       Voidpoint                 Dzierzan
+    Twist of Freight          z4a5.map       Voidpoint                     LeoD
+    Inhospitable Hospitality  z5a1.map       Voidpoint                 Dzierzan
+    Hellmouth                 z6a1.map       Voidpoint                     LeoD
+    The DC Chaingun Massacre  arena1.map     Voidpoint                     LeoD

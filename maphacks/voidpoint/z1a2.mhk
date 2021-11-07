@@ -1,0 +1,53 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : Trouble in Paradise
+// Author   : Leonardo 'DavoX' Pellegrini"
+// Filename : z1a2.map
+// mapmd4   : 85ae5a0f70c833d7a1bff58bfe4ebdaa // 2021-09-20 (fury.grp 2.0)
+
+// Curr.IFVP: r0.0.89
+
+sprite  2798 angoff    -205        // tile00232 i_bowlingbomb_pickup
+sprite  2799 angoff    -410        // tile00232 i_bowlingbomb_pickup
+sprite  2796 angoff    -615        // tile00232 i_bowlingbomb_pickup
+sprite  2797 angoff    -820        // tile00232 i_bowlingbomb_pickup
+sprite  2795 angoff     0          // tile00232 i_bowlingbomb_pickup
+sprite  1386 angoff     1024       // tile00213 i_medicomp
+sprite  1259 angoff     0          // tile00214 i_medkit
+sprite  2542 angoff     1024       // tile00213 i_medicomp
+sprite   420 angoff    -512        // tile06553 a_soda_1
+sprite  1127 angoff    -256        // tile09002 i_soda_stand
+sprite   615 angoff    -512        // tile06569 a_trashcan
+sprite   603 angoff    -512        // tile06569 a_trashcan
+sprite   613 angoff    -768        // tile06569 a_trashcan
+sprite   949 angoff     1024       // tile00212 i_medpack
+sprite   601 angoff     256        // tile06569 a_trashcan
+sprite   798 angoff     1024       // tile00214 i_medkit
+sprite  2278 angoff     128        // tile00224 i_shotgun
+sprite   956 angoff     1024       // tile00215 i_bulletvest
+sprite   817 angoff     0          // tile00217 i_accesscard [yellow]
+sprite   950 angoff     1024       // tile00212 i_medpack
+sprite   608 angoff     384        // tile06569 a_trashcan
+sprite  2366 angoff    -128        // tile00209 i_baton
+sprite   607 angoff    -128        // tile06569 a_trashcan
+sprite   606 angoff    -640        // tile06569 a_trashcan
+sprite     1 angoff    -896        // tile00230 i_smg
+sprite   931 angoff     128        // tile00227 i_smg_ammo
+sprite   932 angoff    -640        // tile00227 i_smg_ammo
+sprite   945 angoff     896        // tile00213 i_medicomp
+sprite   604 angoff     640        // tile06569 a_trashcan
+sprite  1282 angoff     128        // tile06569 a_trashcan
+sprite  1284 angoff     0          // tile00220 i_plasmacrossbow
+sprite  1015 angoff     0          // tile00216 i_armorvest
+sprite  1016 angoff     0          // tile00214 i_medkit
+sprite   653 angoff     0          // tile00217 i_accesscard [blue]
+sprite   610 angoff     128        // tile06569 a_trashcan
+sprite   947 angoff     1024       // tile00212 i_medpack
+sprite   564 pitch      1          // tile06527 (pipes)
+sprite   564 mdzoff     200000     // tile06527 (pipes)
+sprite   609 angoff     256        // tile06569 a_trashcan
+sprite  2600 pitch     -1          // tile06540 a_fireext
+sprite  2600 mdzoff     100000     // tile06540 a_fireext
+sprite   946 angoff    -896        // tile00213 i_medicomp
+sprite   953 angoff     128        // tile00211 i_loverboy_ammo
+sprite  1336 angoff    -768        // tile00223 i_techvest

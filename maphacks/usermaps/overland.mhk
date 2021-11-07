@@ -1,0 +1,92 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : Overland
+// Author   : kayy
+// Filename : overland.map
+// mapmd4   : 5e02ea5a3be4dcaa70ed44e3ac0ccd7a // 2019-08-30
+
+// Curr.IFVP: r0.0.89
+
+sprite  1115 angoff    -128        // tile06800 i_bowlingbomb
+sprite  1114 angoff     1024       // tile06800 i_bowlingbomb
+sprite  1113 angoff     256        // tile06800 i_bowlingbomb
+sprite   855 angoff     1024       // tile00213 i_medicomp
+sprite  1073 angoff     1024       // tile00224 i_shotgun
+sprite  1073 pitch      1          // tile00224 i_shotgun
+sprite  1073 mdxoff     10000      // tile00224 i_shotgun
+sprite  1073 mdzoff     400000     // tile00224 i_shotgun
+sprite   853 angoff     384        // tile06556 a_bucket_1
+sprite   852 angoff    -896        // tile06556 a_bucket_1
+sprite   854 angoff     768        // tile07929 a_jug_1
+sprite   850 angoff     896        // tile06583 a_glasscleaner
+sprite   850 pitch     -1          // tile06583 a_glasscleaner
+sprite   850 mdxoff     5000       // tile06583 a_glasscleaner
+sprite   849 angoff     640        // tile06556 a_bucket_1
+sprite   638 pitch      1          // tile00213 i_medicomp
+sprite   638 mdzoff     400000     // tile00213 i_medicomp
+sprite   601 angoff     0          // tile00215 i_bulletvest
+sprite   171 angoff     768        // tile06556 a_bucket_1
+sprite   173 angoff     768        // tile06564 a_papertowel
+sprite  1786 angoff     0          // tile00214 i_medkit
+sprite   708 angoff     768        // tile06556 a_bucket_1
+sprite   710 angoff     512        // tile06564 a_papertowel
+sprite  1768 angoff     1024       // tile00212 i_medpack
+sprite   421 angoff     512        // tile06612 a_toiletpaper
+sprite   701 angoff     896        // tile10962 a_togochinese
+sprite   393 angoff    -640        // tile06612 a_toiletpaper
+sprite  2182 angoff    -640        // tile09082 a_bottleside_1
+sprite  2166 angoff     128        // tile06552 a_bottle_2
+sprite  2165 angoff     512        // tile06552 a_bottle_2
+sprite  2177 angoff     512        // tile06552 a_bottle_2
+sprite  2178 angoff     768        // tile06552 a_bottle_2
+sprite  2164 angoff     640        // tile06552 a_bottle_2
+sprite  2163 angoff     256        // tile06552 a_bottle_2
+sprite  2224 angoff     1024       // tile00213 i_medicomp
+sprite  2211 angoff     0          // tile00217 i_accesscard [blue]
+sprite  2289 angoff     960        // tile00214 i_medkit
+sprite  2294 angoff     341        // tile00232 i_bowlingbomb_pickup
+sprite  2295 angoff     1024       // tile00232 i_bowlingbomb_pickup
+sprite  2296 angoff    -341        // tile00232 i_bowlingbomb_pickup
+sprite  2359 angoff     1024       // tile00211 i_loverboy_ammo
+sprite  1559 pitch     -1          // tile07550 (pipes2)
+sprite  1559 mdzoff     300000     // tile07550 (pipes2)
+sprite   865 notmd                 // tile07550 (pipes2)
+sprite   107 angoff     1024       // tile00230 i_smg
+sprite    92 pitch      1          // tile07829 a_canister_1
+sprite    92 mdxoff     2000       // tile07829 a_canister_1
+sprite   152 pitch     -1          // tile07550 (pipes2)
+sprite   152 mdzoff     200000     // tile07550 (pipes2)
+sprite   135 angoff     1024       // tile00214 i_medkit
+sprite   156 angoff     1024       // tile00212 i_medpack
+sprite   649 angoff     1024       // tile07550 (pipes2)
+sprite   651 pitch     -1          // tile07550 (pipes2)
+sprite   651 mdxoff     9999999    // tile07550 (pipes2)
+sprite  2435 angoff     1024       // tile00230 i_smg
+sprite  2435 roll      -1          // tile00230 i_smg
+sprite  2435 mdzoff     200000     // tile00230 i_smg
+sprite  1535 angoff     512        // tile07929 a_jug_1
+sprite  1536 angoff     256        // tile06556 a_bucket_1
+sprite    20 pitch     -1          // tile07550 (pipes2)
+sprite    20 mdzoff     400000     // tile07550 (pipes2)
+sprite  1582 angoff     1024       // tile00212 i_medpack
+sprite  1581 angoff     0          // tile00220 i_plasmacrossbow
+sprite  1264 pitch     -4          // tile10423 (wooden railing)
+sprite  1264 roll      -1          // tile10423 (wooden railing)
+sprite  1264 mdzoff     10000      // tile10423 (wooden railing)
+sprite  1263 angoff     16         // tile10422 (wooden railing)
+sprite  1263 pitch     -1          // tile10422 (wooden railing)
+sprite  1263 mdzoff     50000      // tile10422 (wooden railing)
+sprite  1499 angoff     512        // tile06552 a_bottle_2
+sprite  1500 angoff    -256        // tile06552 a_bottle_2
+sprite  1501 angoff     128        // tile06552 a_bottle_2
+sprite  1490 angoff     384        // tile06552 a_bottle_2
+sprite  1589 angoff     0          // tile00217 i_accesscard [yellow]
+sprite  2413 angoff    -768        // tile06543 a_garbage
+sprite  2384 angoff    -640        // tile06569 a_trashcan
+sprite  2412 angoff     1024       // tile06543 a_garbage
+sprite  2414 angoff     128        // tile06569 a_trashcan
+sprite  2416 angoff     512        // tile06543 a_garbage
+sprite  2415 angoff     640        // tile06569 a_trashcan
+sprite  2417 angoff    -512        // tile06543 a_garbage
+sprite  2423 pitch      1          // tile07829 a_canister_1
+sprite  2423 mdxoff     2000       // tile07829 a_canister_1
