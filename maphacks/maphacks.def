@@ -1,10 +1,6 @@
-mapinfo {
-	mapfile "maps/z2a4.map"
-	mapmd4 2aae539cafa8c350dd6d219deeda6dcf
-	mhkfile "maphacks/z2a4.mhk"
-}
-mapinfo {
-	mapfile "maps/z5a1.map"
-	mapmd4 14bc623d100b6d6b39bfcec7f04ffe33
-	mhkfile "maphacks/z5a1.mhk"
-}
+
+// Ion Fury Maphacks
+
+include maphacks/voidpoint/voidpoint_mhk.def // Ion Fury levels by Voidpoint
+
+//include maphacks/usermaps/usermaps_mhk.def   // User Maps
