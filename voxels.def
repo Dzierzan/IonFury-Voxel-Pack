@@ -1,165 +1,9 @@
-include maphacks/maphacks.def
 
-//		CUSTOM VOXELS
+//echo "Ion Fury 2.0 Voxel Pack (version 0.0.91)"
+echo "Ion Fury 2.0 Voxel Pack - Repository Snapshot >= 0.0.91"
 
-//Props
-
-voxel "KVX/05702_SHEARS.kvx"				{ tile 5702 } 				// Dzierzan	
-voxel "KVX/05703_RAKE.kvx"					{ tile 5703 } 				// Dzierzan
-voxel "KVX/05704_SHOVEL.kvx"				{ tile 5704 } 				// Dzierzan
-voxel "KVX/05705_WRENCH.kvx"				{ tile 5705 } 				// Dzierzan
-voxel "KVX/05706_WRENCH.kvx"				{ tile 5706 } 				// Dzierzan
-voxel "KVX/05707_HAMMER.kvx"				{ tile 5707 } 				// Dzierzan
-voxel "KVX/05708_CHOPPER.kvx"				{ tile 5708 } 				// Dzierzan
-voxel "KVX/05709_KNIFE.kvx"					{ tile 5709 } 				// Dzierzan
-voxel "KVX/05710_KNIFE.kvx"					{ tile 5710 } 				// Dzierzan
-voxel "KVX/05846_PIN.kvx"					{ tile0 5846 tile1 5854 } 	// Dzierzan
-voxel "KVX/06612_TOILETPAPER.kvx"			{ tile 6612 } 				// Dzierzan
-voxel "KVX/06446_CABLES.kvx"				{ tile 6446 } 				// Dzierzan
-voxel "KVX/06447_CABLES.kvx"				{ tile 6447 } 				// Dzierzan
-voxel "KVX/06448_POLE.kvx"					{ tile 6448 } 				// Dzierzan
-voxel "KVX/06523_CABLES.kvx"				{ tile 6523 } 				// Dzierzan
-voxel "KVX/06524_PIPES.kvx"					{ tile 6524 } 				// Dzierzan
-voxel "KVX/06525_PIPES.kvx"					{ tile 6525 } 				// Dzierzan
-voxel "KVX/06526_PIPES.kvx"					{ tile 6526 } 				// Dzierzan
-voxel "KVX/06527_PIPES.kvx"					{ tile 6527 } 				// Dzierzan
-voxel "KVX/06532_RAILING.kvx"				{ tile 6532 } 				// Dzierzan
-voxel "KVX/06533_RAILING_PLATE.kvx"			{ tile 6533 } 				// Dzierzan
-voxel "KVX/06550_COFFEE.kvx"				{ tile 6550 notrans } 		// Dzierzan
-voxel "KVX/06551_BOTTLE.kvx"				{ tile 6551 notrans } 		// Dzierzan
-voxel "KVX/06552_JACKDANIELS.kvx"			{ tile 6552 notrans } 		// Dzierzan
-voxel "KVX/06554_CUP.kvx"					{ tile 6554 } 				// Dzierzan
-voxel "KVX/06555_MUG.kvx"					{ tile 6555 } 				// Dzierzan
-voxel "KVX/06556_BUCKET.kvx"				{ tile 6556 } 				// Dzierzan
-voxel "KVX/06557_BROOM.kvx"					{ tile 6557 } 				// Dzierzan
-voxel "KVX/06558_GLASS_EMPTY.kvx"			{ tile 6558 notrans } 		// Dzierzan
-voxel "KVX/06559_GLASS_FULL.kvx"			{ tile 6559 notrans } 		// Dzierzan
-voxel "KVX/06560_FLASK_EMPTY.kvx"			{ tile 6560 notrans } 		// Dzierzan
-voxel "KVX/06561_FLASK_FULL_BRIGHT.kvx"		{ tile 6561 notrans } 		// Dzierzan
-voxel "KVX/06562_FLASK_FULL_DARK.kvx"		{ tile 6562 notrans } 		// Dzierzan
-voxel "KVX/06563_SMALL_PLATE.kvx"			{ tile 6563 } 				// Dzierzan
-voxel "KVX/06564_PAPERTOWEL.kvx"			{ tile 6564 } 				// Dzierzan
-voxel "KVX/06565_CLOCK.kvx"					{ tile 6565 } 				// Dzierzan
-voxel "KVX/06566_CLOCK_DAMAGED.kvx"			{ tile 6566 } 				// Dzierzan
-voxel "KVX/06580_PLATE.kvx"					{ tile 6580 } 				// Dzierzan
-voxel "KVX/06581_PLATES.kvx"				{ tile 6581 } 				// Dzierzan
-voxel "KVX/06582_MOP.kvx"					{ tile 6582 } 				// Dzierzan
-voxel "KVX/06583_ATOMIZER.kvx"				{ tile 6583 } 				// Dzierzan
-voxel "KVX/06584_DETERGENT.kvx"				{ tile 6584 } 				// Dzierzan
-voxel "KVX/06585_OGAY.kvx"					{ tile 6585 } 				// Dzierzan
-voxel "KVX/06611_HANDRAIL.kvx"				{ tile 6611 } 				// Dzierzan
-voxel "KVX/06613_COFFEE_EMPTY.kvx"			{ tile 6613 notrans } 		// Dzierzan
-voxel "KVX/06656_SHELL.kvx"					{ tile0 6656 tile1 6660 } 	// Dzierzan
-voxel "KVX/06776_BRICK.kvx"					{ tile 6776 } 				// Dzierzan
-voxel "KVX/07549_PIPES1.kvx"				{ tile 7549 } 				// fgsfds
-voxel "KVX/07550_PIPES2.kvx"				{ tile 7550 } 				// fgsfds
-voxel "KVX/07551_CABLES.kvx"				{ tile 7551 } 				// Dzierzan
-voxel "KVX/07928_FLASK.kvx"					{ tile 7928 notrans } 		// Dzierzan
-voxel "KVX/07929_PLASTIC_BOTTLE.kvx"		{ tile 7929 } 				// Dzierzan
-voxel "KVX/07930_PLASTIC_BOTTLE_LABEL.kvx"	{ tile 7930 } 				// Dzierzan
-voxel "KVX/07931_MEASURING_FLASK.kvx"		{ tile 7931 notrans } 		// Dzierzan
-voxel "KVX/07933_FLASK.kvx"					{ tile 7933 notrans } 		// Dzierzan
-voxel "KVX/07934_STAMPLER.kvx"				{ tile 7934 } 				// Dzierzan
-voxel "KVX/07935_BONG_GLASS.kvx"			{ tile 7935 notrans } 		// Dzierzan
-voxel "KVX/08188_WEB.kvx"					{ tile 8188 } 				// Dzierzan
-voxel "KVX/08280_LADDER1.kvx"				{ tile 8280 } 				// fgsfds
-voxel "KVX/08281_LADDER2.kvx"				{ tile 8281 } 				// fgsfds
-voxel "KVX/08282_LADDER3.kvx"				{ tile 8282 } 				// fgsfds
-voxel "KVX/08652_RAILING.kvx"				{ tile 8652 } 				// Dzierzan
-voxel "KVX/08653_RAILING.kvx"				{ tile 8653 } 				// Dzierzan
-voxel "KVX/08654_RAILING.kvx"				{ tile 8654 } 				// Dzierzan
-voxel "KVX/08655_RAILING_DAMAGED3.kvx"		{ tile 8655 } 				// Dzierzan
-voxel "KVX/08667_RAILING_DAMAGED1.kvx"		{ tile 8667 } 				// Dzierzan
-voxel "KVX/08668_RAILING_DAMAGED2.kvx"		{ tile 8668 } 				// Dzierzan
-voxel "KVX/08739_LAMP_OFF.kvx"				{ tile 8739 } 				// Dzierzan
-voxel "KVX/08740_LAMP_ON.kvx"				{ tile 8740 } 				// Dzierzan
-voxel "KVX/08826_JACKDANIELS_EMPTY.kvx"		{ tile 8826 notrans } 		// Dzierzan
-voxel "KVX/08977_STREETLAMP_POLE.kvx"		{ tile 8977 } 				// Dzierzan
-voxel "KVX/08981_STREETLAMP_POLE.kvx"		{ tile 8981 } 				// Dzierzan
-voxel "KVX/08982_STREETLAMP_OFF.kvx"		{ tile 8982 } 				// Dzierzan
-voxel "KVX/08983_STREETLAMP_ON.kvx"			{ tile 8983 } 				// Dzierzan
-voxel "KVX/08984_STREETLAMP_DAMAGED.kvx"	{ tile 8984 } 				// Dzierzan
-voxel "KVX/08985_STREETLAMP_POLE.kvx"		{ tile 8985 } 				// Dzierzan
-voxel "KVX/08986_STREETLAMP_OFF.kvx"		{ tile0 8986 tile1 8990 } 	// Dzierzan
-voxel "KVX/08991_STREETLAMP_ON.kvx"			{ tile0 8991 tile1 8995 } 	// Dzierzan
-voxel "KVX/08996_STREETLAMP_DAMAGED.kvx"	{ tile0 8996 tile1 9000 } 	// Dzierzan
-voxel "KVX/09082_BOTTLE_SIDE.kvx"			{ tile0 9082 tile1 9093 } 	// fgsfds
-voxel "KVX/09152_LADDER1_TOP.kvx"			{ tile 9152 } 				// fgsfds
-voxel "KVX/09153_LADDER1_BOTTOM.kvx"		{ tile 9153 } 				// fgsfds
-voxel "KVX/09158_CHAIN.kvx"					{ tile 9158 } 				// Dzierzan
-voxel "KVX/09159_CHAIN.kvx"					{ tile 9159 } 				// Dzierzan
-voxel "KVX/09164_ROADBLOCK.kvx"				{ tile 9164 } 				// Dzierzan
-voxel "KVX/09272_FLUSH.kvx"					{ tile 9272 } 				// Dzierzan
-voxel "KVX/09522_THIN_RAILING.kvx"			{ tile 9522 } 				// Dzierzan
-voxel "KVX/09527_THIN_RAILING.kvx"			{ tile 9527 } 				// Dzierzan
-voxel "KVX/09943_MARTINIGLASS_EMPTY.kvx"	{ tile 9943 notrans } 		// Dzierzan
-voxel "KVX/09944_MARTINIGLASS_FULL.kvx"		{ tile 9944 notrans } 		// Dzierzan
-voxel "KVX/09945_GLASS_EMPTY.kvx"			{ tile 9945 notrans } 		// Dzierzan
-voxel "KVX/09946_GLASS_FULL.kvx"			{ tile 9946 notrans } 		// Dzierzan
-voxel "KVX/09947_GLASS_EMPTY.kvx"			{ tile 9947 notrans } 		// Dzierzan
-voxel "KVX/09948_GLASS_FULL.kvx"			{ tile 9948 notrans } 		// Dzierzan
-voxel "KVX/09949_GLASS_EMPTY.kvx"			{ tile 9949 notrans } 		// Dzierzan
-voxel "KVX/09950_GLASS_FULL.kvx"			{ tile 9950 notrans } 		// Dzierzan
-voxel "KVX/09972_FAUCET_KNOB.kvx"			{ tile 9972 } 				// Dzierzan
-voxel "KVX/09973_FAUCET_KNOB.kvx"			{ tile 9973 } 				// Dzierzan
-voxel "KVX/10166_CROSS.kvx"					{ tile 10166 } 				// Dzierzan
-voxel "KVX/10422_WOODEN_RAILING.kvx"		{ tile 10422 } 				// Dzierzan
-voxel "KVX/10423_WOODEN_RAILING.kvx"		{ tile 10423 } 				// Dzierzan
-voxel "KVX/10424_WOODEN_RAILING.kvx"		{ tile 10424 } 				// Dzierzan
-voxel "KVX/10425_WOODEN_RAILING.kvx"		{ tile 10425 } 				// Dzierzan
-voxel "KVX/10426_WOODEN_RAILING.kvx"		{ tile 10426 } 				// Dzierzan
-voxel "KVX/10430_WOODEN_RAILING.kvx"		{ tile 10430 } 				// Dzierzan
-voxel "KVX/10740_WOODEN_RAILING.kvx"		{ tile 10740 } 				// Dzierzan
-voxel "KVX/10741_WOODEN_RAILING.kvx"		{ tile 10741 } 				// Dzierzan
-voxel "KVX/10742_WOODEN_RAILING.kvx"		{ tile 10742 } 				// Dzierzan
-voxel "KVX/10743_WOODEN_RAILING.kvx"		{ tile 10743 } 				// Dzierzan
-voxel "KVX/10744_WOODEN_RAILING.kvx"		{ tile 10744 } 				// Dzierzan
-voxel "KVX/10745_WOODEN_RAILING.kvx"		{ tile 10745 } 				// Dzierzan
-voxel "KVX/10746_WOODEN_RAILING.kvx"		{ tile 10746 } 				// Dzierzan
-voxel "KVX/10747_WOODEN_RAILING.kvx"		{ tile 10747 } 				// Dzierzan
-voxel "KVX/10748_WOODEN_RAILING.kvx"		{ tile 10748 } 				// Dzierzan
-voxel "KVX/10955_KETCHUP.kvx"				{ tile 10955 } 				// Dzierzan
-voxel "KVX/10963_KETCHUP_DARK.kvx"			{ tile 10963 } 				// Dzierzan
-voxel "KVX/10964_KETCHUP_BRIGHT.kvx"		{ tile 10964 } 				// Dzierzan
-voxel "KVX/11051_CANDLE.kvx"				{ tile 11051 } 				// Dzierzan
-voxel "KVX/11052_CANDLE_A.kvx"				{ tile 11052 } 				// Dzierzan
-voxel "KVX/11053_CANDLE_B.kvx"				{ tile 11053 } 				// Dzierzan
-voxel "KVX/11081_CABLES.kvx"				{ tile 11081 } 				// Dzierzan
-voxel "KVX/11133_ELEVATOR_POWER_SIGN.kvx"	{ tile 11133 } 				// Dzierzan
-voxel "KVX/11168_RAILING_PLATE.kvx"			{ tile 11168 } 				// Dzierzan
-voxel "KVX/11169_RAILING_PLATE.kvx"			{ tile 11169 } 				// Dzierzan
-voxel "KVX/11170_RAILING_PLATE.kvx"			{ tile 11170 } 				// Dzierzan
-voxel "KVX/11171_RAILING_SLOPE.kvx"			{ tile 11171 } 				// Dzierzan
-voxel "KVX/11172_RAILING_SLOPE.kvx"			{ tile 11172 } 				// Dzierzan
-voxel "KVX/11173_RAILING_SLOPE.kvx"			{ tile 11173 } 				// Dzierzan
-voxel "KVX/11174_RAILING_SLOPE.kvx"			{ tile 11174 } 				// Dzierzan
-voxel "KVX/11175_RAILING_SLOPE.kvx"			{ tile 11175 } 				// Dzierzan
-voxel "KVX/11176_RAILING_SLOPE.kvx"			{ tile 11176 } 				// Dzierzan
-voxel "KVX/11077_PENDRIVE.kvx"				{ tile 11077 } 				// Dzierzan
-voxel "KVX/14055_KNOB1.kvx"					{ tile 14055 } 				// Dzierzan
-voxel "KVX/14056_KNOB2.kvx"					{ tile 14056 } 				// Dzierzan
-voxel "KVX/14057_KNOB3.kvx"					{ tile 14057 } 				// Dzierzan
-voxel "KVX/14082_NUNCHAKU.kvx"				{ tile 14082 } 				// Dzierzan
-voxel "KVX/14083_SAI.kvx"					{ tile 14083 } 				// Dzierzan
-voxel "KVX/14084_KATANA.kvx"				{ tile 14084 } 				// Dzierzan
-voxel "KVX/14085_BO.kvx"					{ tile 14085 } 				// Dzierzan
-voxel "KVX/14111_BALLOON.kvx"				{ tile 14111 } 				// Dzierzan
-voxel "KVX/14112_BALLOON_HANDLE_1.kvx"		{ tile 14112 } 				// Dzierzan
-voxel "KVX/14113_BALLOON_HANDLE_2.kvx"		{ tile 14113 } 				// Dzierzan
-voxel "KVX/14114_BALLOON_HANDLE_3.kvx"		{ tile 14114 } 				// Dzierzan
-
-//Decals
-voxel "KVX/07996_ALARM_SWITCH.kvx"			{ tile 7996 } 				// Dzierzan
-voxel "KVX/11063_COIN_SLOT.kvx"				{ tile 11063 } 				// Dzierzan
-
-//Animals
-voxel "KVX/09981_COCKROACH_A.kvx"			{ tile 9981 } 				// Dzierzan
-voxel "KVX/09982_COCKROACH_B.kvx"			{ tile 9982 } 				// Dzierzan
-
-//Gibs
-voxel "KVX/08561_EYE_GIB.kvx"				{ tile 8561 } 				// Dzierzan
-
-//		OFFICIAL VOXELS
+// Ion Fury original game's voxels from fury.grp (2.0) first,
+// Voxel Pack stuff appended.
 
 //Pickups
 voxel "voxels/209_BATON.kvx"			{ tile 209 }
@@ -242,8 +86,8 @@ voxel "voxels/7831_CANISTER_BRK_B.kvx"	{ tile 7831 }
 voxel "voxels/9983_WATERBRL.kvx"		{ tile 9983 }
 
 voxel "voxels/6569_TRASHCAN.kvx"		{ tile 6569 }
-voxel "voxels/6546_TRASHCAN_BRK_A.kvx"	{ tile 6546 }
-voxel "voxels/6547_TRASHCAN_BRK_B.kvx"	{ tile 6547 }
+voxel "voxels/6546_TRASHCAN_BRK_A.kvx"		{ tile 6546 }
+voxel "voxels/6547_TRASHCAN_BRK_B.kvx"		{ tile 6547 }
 voxel "voxels/9213_LID.kvx"				{ tile 9213 }
 voxel "voxels/9222_TRASHCAN_GIB.kvx"	{ tile 9222 }
 
@@ -396,3 +240,5 @@ voxel "voxels/3658_VALVE2_H.kvx"		{ tile 3658 }
 
 voxel "voxels/3659_SOCKET1.kvx"			{ tile 3659 }
 voxel "voxels/3660_SOCKET2.kvx"			{ tile 3660 }
+
+include KVX/voxelpack_kvx.def
