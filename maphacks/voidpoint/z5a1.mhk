@@ -7,4 +7,6 @@
 
 // Curr.IFVP: r0.0.89
 
+sprite  1385 angoff     1024       // tile09164 (roadblock)
 sprite  3135 angoff     1024       // tile09164 (roadblock)
+sprite  2121 angoff     1024       // tile09164 (roadblock)
