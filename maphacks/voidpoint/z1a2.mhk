@@ -35,6 +35,12 @@ sprite     1 angoff    -896        // tile00230 i_smg
 sprite   931 angoff     128        // tile00227 i_smg_ammo
 sprite   932 angoff    -640        // tile00227 i_smg_ammo
 sprite   945 angoff     896        // tile00213 i_medicomp
+sprite   399 mdposzoff  99999      // tile06532 (railing)
+sprite   407 mdposzoff  99999      // tile06532 (railing)
+sprite   409 mdposzoff  99999      // tile06532 (railing)
+sprite   405 mdposzoff  99999      // tile06532 (railing)
+sprite   403 mdposzoff  99999      // tile06532 (railing)
+sprite   401 mdposzoff  99999      // tile06532 (railing)
 sprite   604 angoff     640        // tile06569 a_trashcan
 sprite  1282 angoff     128        // tile06569 a_trashcan
 sprite  1284 angoff     0          // tile00220 i_plasmacrossbow
@@ -51,3 +57,8 @@ sprite  2600 mdpivzoff  100000     // tile06540 a_fireext
 sprite   946 angoff    -896        // tile00213 i_medicomp
 sprite   953 angoff     128        // tile00211 i_loverboy_ammo
 sprite  1336 angoff    -768        // tile00223 i_techvest
+sprite  2732 angoff     1024       // tile00228 i_armor_shard
+sprite  2734 angoff     768        // tile00228 i_armor_shard
+sprite  2733 angoff     512        // tile00228 i_armor_shard
+sprite  2746 angoff    -512        // tile00228 i_armor_shard
+sprite  2747 angoff     896        // tile00228 i_armor_shard
