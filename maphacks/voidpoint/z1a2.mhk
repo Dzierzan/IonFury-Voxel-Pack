@@ -44,10 +44,10 @@ sprite   653 angoff     0          // tile00217 i_accesscard [blue]
 sprite   610 angoff     128        // tile06569 a_trashcan
 sprite   947 angoff     1024       // tile00212 i_medpack
 sprite   564 pitch      1          // tile06527 (pipes)
-sprite   564 mdzoff     200000     // tile06527 (pipes)
+sprite   564 mdpivzoff  200000     // tile06527 (pipes)
 sprite   609 angoff     256        // tile06569 a_trashcan
 sprite  2600 pitch     -1          // tile06540 a_fireext
-sprite  2600 mdzoff     100000     // tile06540 a_fireext
+sprite  2600 mdpivzoff  100000     // tile06540 a_fireext
 sprite   946 angoff    -896        // tile00213 i_medicomp
 sprite   953 angoff     128        // tile00211 i_loverboy_ammo
 sprite  1336 angoff    -768        // tile00223 i_techvest
