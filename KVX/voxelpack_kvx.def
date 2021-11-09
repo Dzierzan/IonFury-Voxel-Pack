@@ -1,8 +1,6 @@
 
 // The Voxel Pack's contents definitions
 
-include maphacks/maphacks.def
-
 //Props
 
 voxel "KVX/05702_SHEARS.kvx"				{ tile 5702 } 				// Dzierzan	

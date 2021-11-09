@@ -54,10 +54,10 @@ mapinfo {
    mapmd4   f0cff0045e3a1d22b7dbc94e90f2b7ba // 2021-10-06 (fury.grp 2.0)
    mhkfile  "maphacks/voidpoint/z1a5.mhk"
 }
-
+*/
 mapinfo {
    maptitle "Abandonment Issues"
-   //author ""
+   //author "Leonardo 'DavoX' Pellegrini"
    mapfile  "z2a1.map"
    //mapmd4   e011a0af503405c57b31a65c322eb7c8 // 2019-08-14 (fury.grp 1.0)
    //mapmd4   a55fd2c815866226d2b7ed7f3a56e40f // 2019-08-27 (fury.grp 1.02)
@@ -65,6 +65,7 @@ mapinfo {
    mapmd4   57320cd6840a29bf262836de7193d5d9 // 2021-10-06 (fury.grp 2.0)
    mhkfile  "maphacks/voidpoint/z2a1.mhk"
 }
+/*
 mapinfo {
    maptitle "Alphabet Soup"
    //author "Leonardo 'DavoX' Pellegrini"
