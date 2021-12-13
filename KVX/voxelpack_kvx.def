@@ -120,6 +120,7 @@ voxel "KVX/10748_WOODEN_RAILING.kvx"		{ tile 10748 } 				// Dzierzan
 voxel "KVX/10955_KETCHUP.kvx"				{ tile 10955 } 				// Dzierzan
 voxel "KVX/10963_KETCHUP_DARK.kvx"			{ tile 10963 } 				// Dzierzan
 voxel "KVX/10964_KETCHUP_BRIGHT.kvx"		{ tile 10964 } 				// Dzierzan
+voxel "KVX/10973_KITCHEN_OBJECTS.kvx"		{ tile 10973 } 				// Dzierzan
 voxel "KVX/11051_CANDLE.kvx"				{ tile 11051 } 				// Dzierzan
 voxel "KVX/11052_CANDLE_A.kvx"				{ tile 11052 } 				// Dzierzan
 voxel "KVX/11053_CANDLE_B.kvx"				{ tile 11053 } 				// Dzierzan
