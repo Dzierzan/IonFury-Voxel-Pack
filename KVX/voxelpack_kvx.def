@@ -137,6 +137,7 @@ voxel "KVX/11176_RAILING_SLOPE.kvx"			{ tile 11176 } 				// Dzierzan
 voxel "KVX/11077_PENDRIVE.kvx"				{ tile 11077 } 				// Dzierzan
 voxel "KVX/11272_LAMP_OFF.kvx"				{ tile 11272 } 				// Dzierzan
 voxel "KVX/11273_LAMP_ON.kvx"				{ tile 11273 } 				// Dzierzan
+voxel "KVX/11291_KITCHEN_OBJECT.kvx"		{ tile 11291 } 				// Dzierzan
 voxel "KVX/14055_KNOB1.kvx"					{ tile 14055 } 				// Dzierzan
 voxel "KVX/14056_KNOB2.kvx"					{ tile 14056 } 				// Dzierzan
 voxel "KVX/14057_KNOB3.kvx"					{ tile 14057 } 				// Dzierzan
