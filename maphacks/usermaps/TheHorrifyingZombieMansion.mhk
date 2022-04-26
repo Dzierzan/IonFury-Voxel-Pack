@@ -1,0 +1,216 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : The Horrifying Zombie Mansion
+// Author   : DannyFromNewOrleans
+// Filename : TheHorrifyingZombieMansion.map
+// mapmd4   : c9b7db7d1813bf0b30cd9f28acb10089 // 2021-12-24
+
+// Curr.IFVP: r0.0.106
+
+sprite   408 angoff     768        // tile00212 i_medpack
+sprite   409 angoff    -768        // tile00212 i_medpack
+sprite   410 angoff    -256        // tile00212 i_medpack
+sprite   411 angoff     256        // tile00212 i_medpack
+sprite   405 angoff    -32         // tile00221 i_minigun
+sprite   405 pitch     -1          // tile00221 i_minigun
+sprite   405 mdpivzoff  200000     // tile00221 i_minigun
+sprite   406 angoff     512        // tile00218 i_minigun_ammo
+sprite   407 angoff    -512        // tile00218 i_minigun_ammo
+sprite   323 angoff     1024       // tile00217 i_accesscard [blue]
+sprite   469 pitch     -1          // tile09947 a_wineglass_empty
+sprite   469 mdpivzoff  50000      // tile09947 a_wineglass_empty
+sprite   471 pitch      1          // tile09947 a_wineglass_empty
+sprite   471 mdpivzoff  50000      // tile09947 a_wineglass_empty
+sprite   476 angoff     1024       // tile06557 a_broom_1
+sprite   476 pitch     -1          // tile06557 a_broom_1
+sprite   476 mdpivyoff  300000     // tile06557 a_broom_1
+sprite   476 mdpivzoff  400000     // tile06557 a_broom_1
+sprite  1022 angoff    -768        // tile00212 i_medpack
+sprite  1023 angoff    -768        // tile00212 i_medpack
+sprite  1025 angoff    -768        // tile00212 i_medpack
+sprite  1024 angoff    -768        // tile00212 i_medpack
+sprite   762 angoff    -512        // tile00214 i_medkit
+sprite  1489 angoff     0          // tile00216 i_armorvest
+sprite   662 angoff    -512        // tile09903 (headless female dummy)
+sprite   626 angoff     1024       // tile09903 (headless female dummy)
+sprite   661 angoff     512        // tile09903 (headless female dummy)
+sprite   628 angoff    -512        // tile09903 (headless female dummy)
+sprite   658 angoff     1024       // tile09903 (headless female dummy)
+sprite   630 angoff     1024       // tile09903 (headless female dummy)
+sprite   660 angoff     512        // tile09903 (headless female dummy)
+sprite   580 angoff     512        // tile11438 a_civ_body_22
+sprite   584 angoff     640        // tile11390 a_civ_body_13
+sprite   519 angoff    -512        // tile13069 (12960 a_brute_top)
+sprite   939 angoff     1024       // tile00218 i_minigun_ammo
+sprite  1252 angoff     0          // tile00226 i_grenadelauncher_ammo
+sprite  1253 angoff     512        // tile00218 i_minigun_ammo
+sprite  1255 angoff    -512        // tile00218 i_minigun_ammo
+sprite  1111 angoff    -512        // tile10954 a_togocoffee
+sprite  1110 angoff     1024       // tile10954 a_togocoffee
+sprite  1214 angoff     1024       // tile00218 i_minigun_ammo
+sprite  1215 angoff     1024       // tile00218 i_minigun_ammo
+sprite  1216 angoff     1024       // tile00218 i_minigun_ammo
+sprite  1225 angoff     1024       // tile00218 i_minigun_ammo
+sprite  1226 angoff     1024       // tile00218 i_minigun_ammo
+sprite  1217 angoff     1024       // tile00218 i_minigun_ammo
+sprite   634 angoff    -512        // tile06552 a_bottle_2
+sprite   635 angoff     256        // tile06553 a_soda_1
+sprite   848 angoff     256        // tile11387 a_civ_body_10
+sprite  1275 angoff    -384        // tile00232 i_bowlingbomb_pickup
+sprite  1275 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1275 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1274 angoff    -256        // tile00232 i_bowlingbomb_pickup
+sprite  1274 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1274 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1280 angoff    -128        // tile00232 i_bowlingbomb_pickup
+sprite  1280 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1280 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1281 angoff     128        // tile00232 i_bowlingbomb_pickup
+sprite  1281 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1281 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1272 angoff     256        // tile00232 i_bowlingbomb_pickup
+sprite  1272 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1272 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1271 angoff     384        // tile00232 i_bowlingbomb_pickup
+sprite  1271 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1271 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1277 angoff     640        // tile00232 i_bowlingbomb_pickup
+sprite  1277 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1277 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1278 angoff     768        // tile00232 i_bowlingbomb_pickup
+sprite  1278 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1278 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1273 angoff     896        // tile00232 i_bowlingbomb_pickup
+sprite  1273 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1273 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1282 angoff    -896        // tile00232 i_bowlingbomb_pickup
+sprite  1282 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1282 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1279 angoff    -768        // tile00232 i_bowlingbomb_pickup
+sprite  1279 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1279 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1276 angoff    -670        // tile00232 i_bowlingbomb_pickup
+sprite  1276 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1276 mdpivzoff  300000     // tile00232 i_bowlingbomb_pickup
+sprite  1284 roll      -1          // tile00213 i_medicomp
+sprite  1284 mdpivzoff  300000     // tile00213 i_medicomp
+sprite  1283 roll       1          // tile00213 i_medicomp
+sprite  1283 mdpivzoff  200000     // tile00213 i_medicomp
+sprite  1228 angoff     1024       // tile00217 i_accesscard [red]
+sprite  1488 angoff     128        // tile00223 i_techvest
+sprite  1482 angoff     800        // tile00218 i_minigun_ammo
+sprite  1487 angoff     800        // tile00218 i_minigun_ammo
+sprite  1486 angoff     800        // tile00218 i_minigun_ammo
+sprite  1485 angoff     800        // tile00218 i_minigun_ammo
+sprite  1484 angoff     800        // tile00218 i_minigun_ammo
+sprite  1483 angoff     800        // tile00218 i_minigun_ammo
+sprite  1476 pitch      0          // tile00226 i_grenadelauncher_ammo
+sprite  1476 mdpivzoff  100000     // tile00226 i_grenadelauncher_ammo
+sprite  1473 pitch     -1          // tile00226 i_grenadelauncher_ammo
+sprite  1473 mdpivzoff  200000     // tile00226 i_grenadelauncher_ammo
+sprite  1474 pitch     -1          // tile00226 i_grenadelauncher_ammo
+sprite  1474 mdpivzoff  400000     // tile00226 i_grenadelauncher_ammo
+sprite  1475 pitch     -1          // tile00226 i_grenadelauncher_ammo
+sprite  1475 mdpivzoff  60000      // tile00226 i_grenadelauncher_ammo
+sprite  1477 pitch     -1          // tile00226 i_grenadelauncher_ammo
+sprite  1477 mdpivzoff  260000     // tile00226 i_grenadelauncher_ammo
+sprite  1478 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  1478 mdpivzoff  80000      // tile00226 i_grenadelauncher_ammo
+sprite  1479 pitch     -1          // tile00226 i_grenadelauncher_ammo
+sprite  1479 mdpivzoff  120000     // tile00226 i_grenadelauncher_ammo
+sprite  1480 pitch     -1          // tile00226 i_grenadelauncher_ammo
+sprite  1480 mdpivzoff  320000     // tile00226 i_grenadelauncher_ammo
+sprite  1481 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  1481 mdpivzoff  20000      // tile00226 i_grenadelauncher_ammo
+sprite  1472 pitch     -1          // tile00226 i_grenadelauncher_ammo
+sprite  1472 mdpivzoff  180000     // tile00226 i_grenadelauncher_ammo
+sprite  1749 angoff     768        // tile00221 i_minigun
+sprite  1749 pitch      1          // tile00221 i_minigun
+sprite  1749 roll       1          // tile00221 i_minigun
+sprite  1749 mdpivzoff  200000     // tile00221 i_minigun
+sprite  1642 angoff     1024       // tile00231 i_grenadelauncher
+/*
+sprite  1752 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1753 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1753 roll      -1          // tile00232 i_bowlingbomb_pickup
+sprite  1753 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1750 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1750 roll      -1          // tile00232 i_bowlingbomb_pickup
+sprite  1750 mdpivzoff  500000     // tile00232 i_bowlingbomb_pickup
+sprite  1754 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1754 roll      -1          // tile00232 i_bowlingbomb_pickup
+sprite  1754 mdpivzoff  170000     // tile00232 i_bowlingbomb_pickup
+sprite  1751 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1751 roll      -1          // tile00232 i_bowlingbomb_pickup
+sprite  1751 mdpivzoff  420000     // tile00232 i_bowlingbomb_pickup
+sprite  1756 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1756 roll      -1          // tile00232 i_bowlingbomb_pickup
+sprite  1756 mdpivzoff  80000      // tile00232 i_bowlingbomb_pickup
+sprite  1755 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1755 roll      -1          // tile00232 i_bowlingbomb_pickup
+sprite  1755 mdpivzoff  330000     // tile00232 i_bowlingbomb_pickup
+sprite  1757 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1757 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  1757 mdpivzoff  10000      // tile00232 i_bowlingbomb_pickup
+sprite  1758 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1758 roll      -1          // tile00232 i_bowlingbomb_pickup
+sprite  1758 mdpivzoff  240000     // tile00232 i_bowlingbomb_pickup
+sprite  1759 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1759 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  1759 mdpivzoff  100000     // tile00232 i_bowlingbomb_pickup
+*/
+sprite  1759 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1759 pitch     -1          // tile00232 i_bowlingbomb_pickup
+sprite  1759 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1758 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1758 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1758 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1757 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1757 pitch     -1          // tile00232 i_bowlingbomb_pickup
+sprite  1757 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1755 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1755 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1755 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1756 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1756 pitch     -1          // tile00232 i_bowlingbomb_pickup
+sprite  1756 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1751 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1751 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1751 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1754 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1754 pitch     -1          // tile00232 i_bowlingbomb_pickup
+sprite  1754 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1750 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1750 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1750 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1753 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1753 pitch     -1          // tile00232 i_bowlingbomb_pickup
+sprite  1753 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1752 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  1752 pitch      1          // tile00232 i_bowlingbomb_pickup
+sprite  1752 mdpivzoff  250000     // tile00232 i_bowlingbomb_pickup
+sprite  1645 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  1645 roll       1          // tile00226 i_grenadelauncher_ammo
+sprite  1645 mdpivzoff  100000     // tile00226 i_grenadelauncher_ammo
+sprite  1646 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  1646 roll       1          // tile00226 i_grenadelauncher_ammo
+sprite  1646 mdpivzoff  100000     // tile00226 i_grenadelauncher_ammo
+sprite  1644 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  1644 roll       1          // tile00226 i_grenadelauncher_ammo
+sprite  1644 mdpivzoff  100000     // tile00226 i_grenadelauncher_ammo
+sprite  1643 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  1643 roll       1          // tile00226 i_grenadelauncher_ammo
+sprite  1643 mdpivzoff  100000     // tile00226 i_grenadelauncher_ammo
+sprite  1649 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  1649 roll       1          // tile00226 i_grenadelauncher_ammo
+sprite  1649 mdpivzoff  100000     // tile00226 i_grenadelauncher_ammo
+sprite  1650 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  1650 roll       1          // tile00226 i_grenadelauncher_ammo
+sprite  1650 mdpivzoff  100000     // tile00226 i_grenadelauncher_ammo
+sprite  1648 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  1648 roll       1          // tile00226 i_grenadelauncher_ammo
+sprite  1648 mdpivzoff  100000     // tile00226 i_grenadelauncher_ammo
+sprite  1647 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  1647 roll       1          // tile00226 i_grenadelauncher_ammo
+sprite  1647 mdpivzoff  100000     // tile00226 i_grenadelauncher_ammo
+sprite  1552 angoff     1024       // tile00217 i_accesscard [yellow]

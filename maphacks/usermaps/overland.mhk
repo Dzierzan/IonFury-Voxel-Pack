@@ -59,7 +59,7 @@ sprite   152 mdpivzoff  200000     // tile07550 (pipes2)
 sprite   135 angoff     1024       // tile00214 i_medkit
 sprite   156 angoff     1024       // tile00212 i_medpack
 sprite   649 angoff     1024       // tile07550 (pipes2)
-sprite   651 mdposzoff  99999      // tile07550 (pipes2)
+sprite   651 mdposzoff  999999     // tile07550 (pipes2)
 sprite  2435 angoff     1024       // tile00230 i_smg
 sprite  2435 roll      -1          // tile00230 i_smg
 sprite  2435 mdpivzoff  200000     // tile00230 i_smg

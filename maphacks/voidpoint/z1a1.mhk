@@ -17,7 +17,7 @@ sprite   174 mdpivzoff  150000     // tile09947 a_wineglass_empty
 sprite   173 angoff     384        // tile09947 a_wineglass_empty
 sprite   173 pitch      1          // tile09947 a_wineglass_empty
 sprite   173 mdpivzoff  160000     // tile09947 a_wineglass_empty
-sprite   172 mdposzoff  99999      // tile09947 a_wineglass_empty
+sprite   172 mdposzoff  999999     // tile09947 a_wineglass_empty
 sprite   171 angoff     384        // tile09947 a_wineglass_empty
 sprite   171 pitch      1          // tile09947 a_wineglass_empty
 sprite   171 roll       2          // tile09947 a_wineglass_empty
@@ -64,7 +64,7 @@ sprite  2554 pitch      2          // tile09947 a_wineglass_empty
 sprite  2554 roll      -1          // tile09947 a_wineglass_empty
 sprite  2554 mdpivxoff  6000       // tile09947 a_wineglass_empty
 sprite  2554 mdpivzoff  25000      // tile09947 a_wineglass_empty
-sprite  2553 mdposzoff  99999      // tile09947 a_wineglass_empty
+sprite  2553 mdposzoff  999999     // tile09947 a_wineglass_empty
 sprite  2552 angoff    -640        // tile09947 a_wineglass_empty
 sprite  2552 pitch      1          // tile09947 a_wineglass_empty
 sprite  2552 roll      -5          // tile09947 a_wineglass_empty
@@ -141,7 +141,7 @@ sprite   187 angoff     384        // tile09947 a_wineglass_empty
 sprite   187 pitch      1          // tile09947 a_wineglass_empty
 sprite   187 roll      -2          // tile09947 a_wineglass_empty
 sprite   187 mdpivzoff  150000     // tile09947 a_wineglass_empty
-sprite   186 mdposzoff  99999      // tile09947 a_wineglass_empty
+sprite   186 mdposzoff  999999     // tile09947 a_wineglass_empty
 sprite   185 angoff     384        // tile09947 a_wineglass_empty
 sprite   185 pitch      1          // tile09947 a_wineglass_empty
 sprite   185 mdpivzoff  160000     // tile09947 a_wineglass_empty
@@ -184,9 +184,9 @@ sprite  2547 roll       5          // tile09947 a_wineglass_empty
 sprite  2547 mdpivxoff  12000      // tile09947 a_wineglass_empty
 sprite  2547 mdpivzoff  50000      // tile09947 a_wineglass_empty
 sprite  2546 angoff    -640        // tile09947 a_wineglass_empty
-sprite  2546 mdposzoff  99999      // tile09947 a_wineglass_empty
+sprite  2546 mdposzoff  999999     // tile09947 a_wineglass_empty
 sprite  2545 angoff     0          // tile09947 a_wineglass_empty
-sprite  2545 mdposzoff  99999      // tile09947 a_wineglass_empty
+sprite  2545 mdposzoff  999999     // tile09947 a_wineglass_empty
 sprite  2544 angoff    -640        // tile09947 a_wineglass_empty
 sprite  2544 pitch      2          // tile09947 a_wineglass_empty
 sprite  2544 roll      -7          // tile09947 a_wineglass_empty
@@ -223,7 +223,7 @@ sprite   774 pitch     -1          // tile06557 a_broom_1
 sprite   774 mdpivzoff  600000     // tile06557 a_broom_1
 sprite   784 pitch     -1          // tile06581 a_plate_stack
 sprite   784 mdpivzoff  300000     // tile06581 a_plate_stack
-sprite   785 mdposzoff  99999      // tile06581 a_plate_stack
+sprite   785 mdposzoff  999999     // tile06581 a_plate_stack
 sprite   783 pitch     -1          // tile06581 a_plate_stack
 sprite   783 mdpivzoff  300000     // tile06581 a_plate_stack
 sprite   781 angoff    -256        // tile06583 a_glasscleaner

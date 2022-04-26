@@ -33,3 +33,19 @@ mapinfo {
   mapmd4   0fa64ef55db453be4d9769e861f1b8f3 // 2019-11-01
   mhkfile  "maphacks/usermaps/SPYmapsIONFURY.mhk"
 }
+
+mapinfo {
+  maptitle "The Horrifying Zombie Mansion"
+  //author "DannyFromNewOrleans"
+  mapfile  "TheHorrifyingZombieMansion.map"
+  mapmd4   c9b7db7d1813bf0b30cd9f28acb10089 // 2021-12-24
+  mhkfile  "maphacks/usermaps/TheHorrifyingZombieMansion.mhk"
+}
+
+mapinfo {
+  maptitle "Zombie Fury"
+  //author "Truck Stop Santa Claus"
+  mapfile  "zombiefury.map"
+  mapmd4   c30c269bbe32ff499b24ae8a2a85b0bb // 2019-10-03
+  mhkfile  "maphacks/usermaps/zombiefury.mhk"
+}

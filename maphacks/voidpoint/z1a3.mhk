@@ -1,0 +1,108 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : Fan Service
+// Author   : Leonardo 'DavoX' Pellegrini"
+// Filename : z1a3.map
+// mapmd4   : 2b45a4ecc543bb8c9892c266ccff92d7 // 2021-09-29 (fury.grp 2.0)
+
+// Curr.IFVP: r0.0.106
+
+sprite  1883 angoff     1024       // tile00213 i_medicomp
+sprite  2674 angoff     256        // tile00213 i_medicomp
+sprite  1309 pitch      1          // tile06532 (railing)
+sprite  1309 mdpivzoff  100000     // tile06532 (railing)
+sprite  3990 angoff     0          // tile00224 i_shotgun
+sprite   502 pitch      1          // tile06527 (pipes)
+sprite   502 mdpivzoff  200000     // tile06527 (pipes)
+sprite   765 pitch      1          // tile06527 (pipes)
+sprite   765 mdpivzoff  200000     // tile06527 (pipes)
+sprite   764 pitch      1          // tile06527 (pipes)
+sprite   764 mdpivzoff  200000     // tile06527 (pipes)
+sprite   507 pitch      1          // tile06527 (pipes)
+sprite   507 mdpivzoff  200000     // tile06527 (pipes)
+sprite   508 pitch      1          // tile06527 (pipes)
+sprite   508 mdpivzoff  200000     // tile06527 (pipes)
+sprite   232 mdposzoff  999999     // tile08652 (railing)
+sprite  4048 pitch      1          // tile08652 (railing)
+sprite  4048 mdpivzoff  100000     // tile08652 (railing)
+sprite  4053 mdposzoff  999999     // tile08652 (railing)
+sprite   233 pitch      1          // tile08652 (railing)
+sprite   233 mdpivzoff  100000     // tile08652 (railing)
+sprite    79 mdposzoff  999999     // tile08652 (railing)
+sprite   234 pitch      1          // tile08652 (railing)
+sprite   234 mdpivzoff  100000     // tile08652 (railing)
+sprite  4410 mdposzoff  999999     // tile06532 (railing)
+sprite  4411 pitch      1          // tile06532 (railing)
+sprite  4411 mdpivzoff  100000     // tile06532 (railing)
+sprite   237 mdposzoff  999999     // tile08652 (railing)
+sprite  4295 pitch      1          // tile06532 (railing)
+sprite  4295 mdpivzoff  100000     // tile06532 (railing)
+sprite  4052 mdposzoff  999999     // tile08652 (railing)
+sprite    93 pitch      1          // tile08652 (railing)
+sprite    93 mdpivzoff  100000     // tile08652 (railing)
+sprite  4051 mdposzoff  999999     // tile08652 (railing)
+sprite  4049 pitch      1          // tile08652 (railing)
+sprite  4049 mdpivzoff  100000     // tile08652 (railing)
+sprite   238 mdposzoff  999999     // tile06533 (railing plate)
+sprite    94 pitch      1          // tile06533 (railing plate)
+sprite    94 mdpivzoff  100000     // tile06533 (railing plate)
+sprite   244 mdposzoff  999999     // tile06533 (railing plate)
+sprite   243 pitch      1          // tile06533 (railing plate)
+sprite   243 mdpivzoff  100000     // tile06533 (railing plate)
+sprite   241 mdposzoff  999999     // tile06533 (railing plate)
+sprite   242 pitch      1          // tile06533 (railing plate)
+sprite   242 mdpivzoff  100000     // tile06533 (railing plate)
+sprite  4413 mdposzoff  999999     // tile06533 (railing plate)
+sprite  4414 pitch      1          // tile06533 (railing plate)
+sprite  4414 mdpivzoff  100000     // tile06533 (railing plate)
+sprite   239 mdposzoff  999999     // tile06533 (railing plate)
+sprite   240 pitch      1          // tile06533 (railing plate)
+sprite   240 mdpivzoff  100000     // tile06533 (railing plate)
+sprite  1328 angoff    -896        // tile06556 a_bucket_1
+sprite  1327 angoff    -512        // tile10962 a_togochinese
+sprite  2101 angoff     256        // tile00216 i_armorvest
+sprite  2213 angoff     0          // tile00241 i_bombrush
+sprite   546 pitch      1          // tile06527 (pipes)
+sprite   546 mdpivzoff  200000     // tile06527 (pipes)
+sprite   119 mdposzoff  999999     // tile06532 (railing)
+sprite   120 mdposzoff  999999     // tile06532 (railing)
+sprite   118 mdposzoff  999999     // tile06532 (railing)
+sprite   121 mdposzoff  999999     // tile06532 (railing)
+sprite   121 mdposzoff  999999     // tile06532 (railing)
+sprite   128 mdposzoff  999999     // tile06532 (railing)
+sprite   127 mdposzoff  999999     // tile06532 (railing)
+sprite   510 pitch      1          // tile06527 (pipes)
+sprite   510 mdpivzoff  200000     // tile06527 (pipes)
+sprite   509 pitch      1          // tile06527 (pipes)
+sprite   509 mdpivzoff  200000     // tile06527 (pipes)
+sprite   124 mdposzoff  999999     // tile06532 (railing)
+sprite   123 mdposzoff  999999     // tile06532 (railing)
+sprite   145 mdposzoff  999999     // tile06532 (railing)
+sprite   134 mdposzoff  999999     // tile06532 (railing)
+sprite   133 mdposzoff  999999     // tile06532 (railing)
+sprite   138 mdposzoff  999999     // tile06532 (railing)
+sprite   140 mdposzoff  999999     // tile06532 (railing)
+sprite   139 mdposzoff  999999     // tile06532 (railing)
+sprite   514 pitch      1          // tile06527 (pipes)
+sprite   514 mdpivzoff  200000     // tile06527 (pipes)
+sprite   515 pitch      1          // tile06527 (pipes)
+sprite   515 mdpivzoff  200000     // tile06527 (pipes)
+sprite   147 mdposzoff  999999     // tile06532 (railing)
+sprite   141 mdposzoff  999999     // tile06532 (railing)
+sprite   516 pitch      1          // tile06527 (pipes)
+sprite   516 mdpivzoff  200000     // tile06527 (pipes)
+sprite   517 pitch      1          // tile06527 (pipes)
+sprite   517 mdpivzoff  200000     // tile06527 (pipes)
+sprite   548 pitch      1          // tile06527 (pipes)
+sprite   548 mdpivzoff  200000     // tile06527 (pipes)
+sprite  2112 angoff     1024       // tile00213 i_medicomp
+sprite  2341 angoff     1024       // tile00215 i_bulletvest
+sprite  2341 pitch     -1          // tile00215 i_bulletvest
+sprite  2341 mdpivzoff  600000     // tile00215 i_bulletvest
+sprite  4396 angoff    -768        // tile00232 i_bowlingbomb_pickup
+sprite  4398 angoff     1024       // tile00232 i_bowlingbomb_pickup
+sprite  4399 angoff    -768        // tile00232 i_bowlingbomb_pickup
+sprite  4397 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite   143 angoff     0          // tile00217 i_accesscard [blue]
+sprite   863 pitch      1          // tile06527 (pipes)
+sprite   863 mdpivzoff  200000     // tile06527 (pipes)
