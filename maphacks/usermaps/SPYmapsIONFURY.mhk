@@ -193,7 +193,7 @@ sprite  2067 angoff    -512        // tile06569 a_trashcan
 sprite  2093 angoff     0          // tile00216 i_armorvest
 sprite  2264 angoff     1024       // tile00218 i_minigun_ammo
 sprite  2326 angoff     1024       // tile00213 i_medicomp
-sprite  2259 angoff    -512        // tile09902 (headless body)
+sprite  2259 angoff    -512        // tile09902 (headless male dummy)
 sprite  2173 angoff    -512        // tile00214 i_medkit
 sprite  2271 angoff     896        // tile00212 i_medpack
 sprite  2272 angoff    -896        // tile00212 i_medpack

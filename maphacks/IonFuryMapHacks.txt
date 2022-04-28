@@ -5,7 +5,7 @@
                    |                 (IFVP)                 |
                    |                by LeoD                 |
                    ==========================================
-                   |      Version: 0.0.89 (2021-11-07)      |
+                   |      Version: 0.0.107 (2022-04-26)     |
                    ==========================================
 
 =======================
@@ -127,6 +127,18 @@ Advertisement:
 
 7) CHANGELOG
 ============
+
+r0.0.107 (2022-04-26)
+---------------------
+  Map Title               File Name          Map Author                 Maphacks
+  ------------------------------------------------------------------------------
+  Zombie Fury             zombiefury.map     Truck Stop Santa Claus        LeoD
+  The Horrifying Zombie Mansion  T*H*Z*M*.map  DannyFromNewOrleans         LeoD
+
+  Ion Fury Maps:
+    Fan Service               z1a3.map       Voidpoint                     LeoD
+    Abandonment Issues        z2a1.map       Voidpoint                 Dzierzan
+
 
 r0.0.89 (2021-11-07)
 --------------------

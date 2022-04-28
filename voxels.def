@@ -1,6 +1,6 @@
 
-//echo "Ion Fury 2.0 Voxel Pack (version 0.0.99)"
-echo "Ion Fury 2.0 Voxel Pack - Repository Snapshot >= 0.0.99"
+//echo "Ion Fury 2.0 Voxel Pack (version 0.0.107)"
+echo "Ion Fury 2.0 Voxel Pack - Repository Snapshot >= 0.0.107"
 
 // Include the Ion Fury original game's voxels first
 // (verbatim copy of voxels.def from the Ion Fury 2.0 fury.grp)

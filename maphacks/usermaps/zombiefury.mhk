@@ -1,0 +1,157 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : Zombie Fury
+// Author   : Truck Stop Santa Claus
+// Filename : zombiefury.map
+// mapmd4   : c30c269bbe32ff499b24ae8a2a85b0bb // 2019-10-03
+
+// Curr.IFVP: r0.0.106
+
+sprite    68 angoff     1024       // tile00232 i_bowlingbomb_pickup
+sprite  1308 angoff     1024       // tile00232 i_bowlingbomb_pickup
+sprite    92 angoff     256        // tile00217 i_accesscard [blue]
+sprite   542 roll      -1          // tile08981 (street lamp pole)
+sprite   542 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   543 angoff    -512        // tile08992 (street lamp on)
+sprite   543 pitch     -1          // tile08992 (street lamp on)
+sprite   543 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   544 roll      -1          // tile08981 (street lamp pole)
+sprite   544 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   545 angoff    -512        // tile08992 (street lamp on)
+sprite   545 pitch     -1          // tile08992 (street lamp on)
+sprite   545 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   552 roll      -1          // tile08981 (street lamp pole)
+sprite   552 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   553 angoff    -512        // tile08992 (street lamp on)
+sprite   553 pitch     -1          // tile08992 (street lamp on)
+sprite   553 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite  1145 angoff    -512        // tile11390 a_civ_body_13
+sprite  1142 angoff    -768        // tile11390 a_civ_body_13
+sprite   572 roll      -1          // tile08981 (street lamp pole)
+sprite   572 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   573 angoff    -512        // tile08992 (street lamp on)
+sprite   573 pitch     -1          // tile08992 (street lamp on)
+sprite   573 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   568 roll      -1          // tile08981 (street lamp pole)
+sprite   568 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   569 angoff    -512        // tile08992 (street lamp on)
+sprite   569 pitch     -1          // tile08992 (street lamp on)
+sprite   569 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   564 roll      -1          // tile08981 (street lamp pole)
+sprite   564 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   565 angoff    -512        // tile08992 (street lamp on)
+sprite   565 pitch     -1          // tile08992 (street lamp on)
+sprite   565 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   672 angoff     0          // tile00220 i_plasmacrossbow
+sprite   668 angoff    -512        // tile10167 (ancient head sculpture)
+sprite   669 angoff     512        // tile10167 (ancient head sculpture)
+sprite   768 angoff     1024       // tile00232 i_bowlingbomb_pickup
+sprite   770 angoff    -768        // tile10168 (ancient lion head sculpture)
+sprite   771 angoff     768        // tile10168 (ancient lion head sculpture)
+sprite   772 angoff     256        // tile10168 (ancient lion head sculpture)
+sprite   548 roll       1          // tile08981 (street lamp pole)
+sprite   548 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   549 angoff     512        // tile08992 (street lamp on)
+sprite   549 pitch     -1          // tile08992 (street lamp on)
+sprite   549 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   556 roll       1          // tile08981 (street lamp pole)
+sprite   556 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   557 angoff     512        // tile08992 (street lamp on)
+sprite   557 pitch     -1          // tile08992 (street lamp on)
+sprite   557 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   560 roll      -1          // tile08981 (street lamp pole)
+sprite   560 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   561 angoff    -512        // tile08992 (street lamp on)
+sprite   561 pitch     -1          // tile08992 (street lamp on)
+sprite   561 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   554 roll       1          // tile08981 (street lamp pole)
+sprite   554 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   555 angoff     512        // tile08992 (street lamp on)
+sprite   555 pitch     -1          // tile08992 (street lamp on)
+sprite   555 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   562 roll       1          // tile08981 (street lamp pole)
+sprite   562 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   563 angoff     512        // tile08992 (street lamp on)
+sprite   563 pitch     -1          // tile08992 (street lamp on)
+sprite   563 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   558 roll       1          // tile08981 (street lamp pole)
+sprite   558 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   559 angoff     512        // tile08992 (street lamp on)
+sprite   559 pitch     -1          // tile08992 (street lamp on)
+sprite   559 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   852 angoff     256        // tile06569 a_trashcan
+sprite   570 roll      -1          // tile08981 (street lamp pole)
+sprite   570 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   571 angoff    -512        // tile08992 (street lamp on)
+sprite   571 pitch     -1          // tile08992 (street lamp on)
+sprite   571 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   574 roll      -1          // tile08981 (street lamp pole)
+sprite   574 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   575 angoff    -512        // tile08992 (street lamp on)
+sprite   575 pitch     -1          // tile08992 (street lamp on)
+sprite   575 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   566 roll      -1          // tile08981 (street lamp pole)
+sprite   566 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   567 angoff    -512        // tile08992 (street lamp on)
+sprite   567 pitch     -1          // tile08992 (street lamp on)
+sprite   567 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   540 roll       1          // tile08981 (street lamp pole)
+sprite   540 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   541 angoff     512        // tile08992 (street lamp on)
+sprite   541 pitch     -1          // tile08992 (street lamp on)
+sprite   541 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   550 roll       1          // tile08981 (street lamp pole)
+sprite   550 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   551 angoff     512        // tile08992 (street lamp on)
+sprite   551 pitch     -1          // tile08992 (street lamp on)
+sprite   551 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   546 roll       1          // tile08981 (street lamp pole)
+sprite   546 mdpivzoff  64000      // tile08981 (street lamp pole)
+sprite   547 angoff     512        // tile08992 (street lamp on)
+sprite   547 pitch     -1          // tile08992 (street lamp on)
+sprite   547 mdpivzoff  96000      // tile08992 (street lamp on)
+sprite   862 angoff     896        // tile06543 a_garbage
+sprite   594 angoff     768        // tile09950 a_beerglass_full
+sprite   595 angoff     512        // tile10957 a_frenchfries
+sprite   619 angoff     384        // tile09949 a_beerglass_empty
+sprite   620 angoff     1024       // tile09949 a_beerglass_empty
+sprite   621 angoff     512        // tile09949 a_beerglass_empty
+sprite   622 angoff    -768        // tile09949 a_beerglass_empty
+sprite   611 angoff    -512        // tile09949 a_beerglass_empty
+sprite   605 angoff     512        // tile06552 a_bottle_2
+sprite   607 angoff    -256        // tile06552 a_bottle_2
+sprite   612 angoff     1024       // tile09949 a_beerglass_empty
+sprite   604 angoff    -256        // tile06552 a_bottle_2
+sprite   609 angoff    -256        // tile06552 a_bottle_2
+sprite   612 angoff     768        // tile09949 a_beerglass_empty
+sprite   606 angoff     512        // tile06552 a_bottle_2
+sprite   608 angoff    -768        // tile09949 a_beerglass_empty
+sprite   603 angoff     256        // tile06552 a_bottle_2
+sprite   791 angoff     0          // tile00230 i_smg
+sprite   792 angoff     128        // tile12032 a_dave
+sprite   872 angoff     1024       // tile00213 i_medicomp
+sprite   871 angoff     1024       // tile00213 i_medicomp
+sprite   875 angoff    -768        // tile00232 i_bowlingbomb_pickup
+sprite  1166 angoff     768        // tile00232 i_bowlingbomb_pickup
+sprite   876 angoff     1024       // tile00230 i_smg
+sprite   879 angoff     1024       // tile00244 i_damagebooster
+sprite  1165 angoff     1024       // tile00211 i_loverboy_ammo
+sprite  1106 pitch     -1          // tile06540 a_fireext
+sprite  1106 mdpivzoff  50000      // tile06540 a_fireext
+sprite   633 angoff     1024       // tile00224 i_shotgun
+sprite   632 angoff     1024       // tile11371 a_gdf_body_5
+sprite  1096 angoff     1024       // tile00211 i_loverboy_ammo
+sprite  1293 angoff    -512        // tile00232 i_bowlingbomb_pickup
+sprite   928 angoff    -896        // tile11385 a_civ_body_8
+sprite  1073 angoff     0          // tile00217 i_accesscard [red]
+sprite   735 angoff     256        // tile00216 i_armorvest
+sprite   732 angoff     1024       // tile06585 a_handsoap (ogay)
+sprite   729 angoff    -512        // tile06585 a_handsoap (ogay)
+sprite   580 angoff    -128        // tile09904 (headless duke dummy)
+sprite   788 angoff     0          // tile00217 i_accesscard [yellow]
+sprite  1171 angoff     1024       // tile00230 i_smg
+sprite  1170 angoff     1024       // tile00232 i_bowlingbomb_pickup
+sprite  1205 angoff     512        // tile06555 a_coffeemug_1
+sprite  1227 pitch     -2          // tile06582 a_mop_1
+sprite  1227 roll      -1          // tile06582 a_mop_1
+sprite  1227 mdpivzoff  250000     // tile06582 a_mop_1

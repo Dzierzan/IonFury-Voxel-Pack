@@ -322,15 +322,15 @@ sprite  1421 mdpivzoff  250000     // tile10425 (wooden railing)
 sprite  1422 pitch      1          // tile10422 (wooden railing)
 sprite  1422 mdpivzoff  250000     // tile10422 (wooden railing)
 sprite  3436 angoff     512        // tile00218 i_minigun_ammo
-sprite  1522 mdposzoff  99999      // tile06551 a_bottle_1
-sprite  1514 mdposzoff  99999      // tile06552 a_bottle_2
+sprite  1522 mdposzoff  999999     // tile06551 a_bottle_1
+sprite  1514 mdposzoff  999999     // tile06552 a_bottle_2
 sprite  1529 pitch     -1          // tile06552 a_bottle_2
 sprite  1529 mdpivxoff  6000       // tile06552 a_bottle_2
-sprite  1519 mdposzoff  99999      // tile06551 a_bottle_1
-sprite  1534 mdposzoff  99999      // tile06551 a_bottle_1
+sprite  1519 mdposzoff  999999     // tile06551 a_bottle_1
+sprite  1534 mdposzoff  999999     // tile06551 a_bottle_1
 sprite  1526 pitch     -1          // tile06552 a_bottle_2
 sprite  1526 mdpivxoff  6000       // tile06552 a_bottle_2
-sprite  1525 mdposzoff  99999      // tile06552 a_bottle_2
+sprite  1525 mdposzoff  999999     // tile06552 a_bottle_2
 sprite  1982 angoff     1024       // tile10422 (wooden railing)
 sprite  1982 pitch      1          // tile10422 (wooden railing)
 sprite  1982 mdpivzoff  370000     // tile10422 (wooden railing)
