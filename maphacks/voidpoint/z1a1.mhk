@@ -208,9 +208,9 @@ sprite   532 angoff     1024       // tile00215 i_bulletvest
 sprite  1386 angoff     768        // tile06546 a_trashcan_dmg_1
 sprite  1385 angoff    -384        // tile06546 a_trashcan_dmg_1
 
-sprite  2264 angoff    -896        // tile02264 a_togocock
-sprite  2264 pitch      1          // tile02264 a_togocock
-sprite  2264 mdpivzoff  200000     // tile02264 a_togocock
+sprite  2264 angoff    -896        // tile10953 a_togocock
+sprite  2264 pitch      1          // tile10953 a_togocock
+sprite  2264 mdpivzoff  200000     // tile10953 a_togocock
 sprite  5639 angoff    -512        // tile00232 i_bowlingbomb_pickup
 sprite  5640 angoff    -256        // tile00232 i_bowlingbomb_pickup
 sprite  5641 angoff    -768        // tile00232 i_bowlingbomb_pickup
