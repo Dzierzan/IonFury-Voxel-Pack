@@ -269,3 +269,5 @@ sprite  3184 mdpivzoff  800000     // tile06557 a_broom_1
 sprite   477 angoff     256        // tile00214 i_medkit
 sprite   477 pitch     -1          // tile00214 i_medkit
 sprite   477 mdpivzoff  900000     // tile00214 i_medkit
+
+sprite  3875 mdposzoff  999999	   // tile11427 a_paper_horse
