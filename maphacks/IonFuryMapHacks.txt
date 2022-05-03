@@ -5,7 +5,7 @@
                    |                 (IFVP)                 |
                    |                by LeoD                 |
                    ==========================================
-                   |      Version: 0.0.107 (2022-04-26)     |
+                   |      Version: 0.0.109 (2022-05-02)     |
                    ==========================================
 
 =======================
@@ -114,6 +114,7 @@ Related Links:
   Maphack Wiki entry ............ https://wiki.eduke32.com/wiki/Maphack_Language
   Ion Fury Voxel Pack ........... https://github.com/Dzierzan/IonFury-Voxel-Pack
   Ion Fury (3DRealms) ........... https://3drealms.com/catalog/ion-maiden_56
+  Ion Fury Walkthrough & Guide .. https://www.neoseeker.com/ion-fury/walkthrough
 
 Advertisement:
 --------------
@@ -127,6 +128,14 @@ Advertisement:
 
 7) CHANGELOG
 ============
+
+r0.0.109 (2022-05-02)
+---------------------
+  Map Title               File Name          Map Author                 Maphacks
+  ------------------------------------------------------------------------------
+  Ion Fury Maps:
+    Cultural Divide           z1a4.map       Voidpoint                     LeoD
+
 
 r0.0.107 (2022-04-26)
 ---------------------

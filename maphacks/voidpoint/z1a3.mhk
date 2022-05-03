@@ -1,7 +1,7 @@
 // Ion Fury Maphacks by LeoD
 
 // Title    : Fan Service
-// Author   : Leonardo 'DavoX' Pellegrini"
+// Author   : Leonardo 'DavoX' Pellegrini
 // Filename : z1a3.map
 // mapmd4   : 2b45a4ecc543bb8c9892c266ccff92d7 // 2021-09-29 (fury.grp 2.0)
 
@@ -14,6 +14,12 @@ sprite  1309 mdpivzoff  100000     // tile06532 (railing)
 sprite  3990 angoff     0          // tile00224 i_shotgun
 sprite   502 pitch      1          // tile06527 (pipes)
 sprite   502 mdpivzoff  200000     // tile06527 (pipes)
+sprite   503 pitch      1          // tile06527 (pipes)
+sprite   503 mdpivzoff  200000     // tile06527 (pipes)
+sprite   505 pitch      1          // tile06527 (pipes)
+sprite   505 mdpivzoff  200000     // tile06527 (pipes)
+sprite   506 pitch      1          // tile06527 (pipes)
+sprite   506 mdpivzoff  200000     // tile06527 (pipes)
 sprite   765 pitch      1          // tile06527 (pipes)
 sprite   765 mdpivzoff  200000     // tile06527 (pipes)
 sprite   764 pitch      1          // tile06527 (pipes)
@@ -28,7 +34,7 @@ sprite  4048 mdpivzoff  100000     // tile08652 (railing)
 sprite  4053 mdposzoff  999999     // tile08652 (railing)
 sprite   233 pitch      1          // tile08652 (railing)
 sprite   233 mdpivzoff  100000     // tile08652 (railing)
-sprite    79 mdposzoff  999999     // tile08652 (railing)
+sprite   235 mdposzoff  999999     // tile08652 (railing)
 sprite   234 pitch      1          // tile08652 (railing)
 sprite   234 mdpivzoff  100000     // tile08652 (railing)
 sprite  4410 mdposzoff  999999     // tile06532 (railing)
@@ -49,30 +55,38 @@ sprite    94 mdpivzoff  100000     // tile06533 (railing plate)
 sprite   244 mdposzoff  999999     // tile06533 (railing plate)
 sprite   243 pitch      1          // tile06533 (railing plate)
 sprite   243 mdpivzoff  100000     // tile06533 (railing plate)
-sprite   241 mdposzoff  999999     // tile06533 (railing plate)
-sprite   242 pitch      1          // tile06533 (railing plate)
-sprite   242 mdpivzoff  100000     // tile06533 (railing plate)
-sprite  4413 mdposzoff  999999     // tile06533 (railing plate)
-sprite  4414 pitch      1          // tile06533 (railing plate)
-sprite  4414 mdpivzoff  100000     // tile06533 (railing plate)
-sprite   239 mdposzoff  999999     // tile06533 (railing plate)
-sprite   240 pitch      1          // tile06533 (railing plate)
-sprite   240 mdpivzoff  100000     // tile06533 (railing plate)
+sprite   242 mdposzoff  999999     // tile06533 (railing plate)
+sprite   241 pitch      1          // tile06533 (railing plate)
+sprite   241 mdpivzoff  100000     // tile06533 (railing plate)
+sprite  4414 mdposzoff  999999     // tile06533 (railing plate)
+sprite  4413 pitch      1          // tile06533 (railing plate)
+sprite  4413 mdpivzoff  100000     // tile06533 (railing plate)
+sprite   240 mdposzoff  999999     // tile06533 (railing plate)
+sprite   239 pitch      1          // tile06533 (railing plate)
+sprite   239 mdpivzoff  100000     // tile06533 (railing plate)
 sprite  1328 angoff    -896        // tile06556 a_bucket_1
 sprite  1327 angoff    -512        // tile10962 a_togochinese
 sprite  2101 angoff     256        // tile00216 i_armorvest
 sprite  2213 angoff     0          // tile00241 i_bombrush
 sprite   546 pitch      1          // tile06527 (pipes)
 sprite   546 mdpivzoff  200000     // tile06527 (pipes)
+sprite   547 pitch      1          // tile06527 (pipes)
+sprite   547 mdpivzoff  200000     // tile06527 (pipes)
+sprite   511 pitch      1          // tile06527 (pipes)
+sprite   511 mdpivzoff  200000     // tile06527 (pipes)
 sprite   119 mdposzoff  999999     // tile06532 (railing)
 sprite   120 mdposzoff  999999     // tile06532 (railing)
 sprite   118 mdposzoff  999999     // tile06532 (railing)
 sprite   121 mdposzoff  999999     // tile06532 (railing)
-sprite   121 mdposzoff  999999     // tile06532 (railing)
+sprite   122 mdposzoff  999999     // tile06532 (railing)
 sprite   128 mdposzoff  999999     // tile06532 (railing)
 sprite   127 mdposzoff  999999     // tile06532 (railing)
 sprite   510 pitch      1          // tile06527 (pipes)
 sprite   510 mdpivzoff  200000     // tile06527 (pipes)
+sprite   512 pitch      1          // tile06527 (pipes)
+sprite   512 mdpivzoff  200000     // tile06527 (pipes)
+sprite   513 pitch      1          // tile06527 (pipes)
+sprite   513 mdpivzoff  200000     // tile06527 (pipes)
 sprite   509 pitch      1          // tile06527 (pipes)
 sprite   509 mdpivzoff  200000     // tile06527 (pipes)
 sprite   124 mdposzoff  999999     // tile06532 (railing)
@@ -106,3 +120,189 @@ sprite  4397 angoff     512        // tile00232 i_bowlingbomb_pickup
 sprite   143 angoff     0          // tile00217 i_accesscard [blue]
 sprite   863 pitch      1          // tile06527 (pipes)
 sprite   863 mdpivzoff  200000     // tile06527 (pipes)
+sprite   876 pitch     -1          // tile06557 a_broom_1
+sprite   876 mdpivzoff  200000     // tile06557 a_broom_1
+sprite   875 angoff    -256        // tile06556 a_bucket_1
+sprite   868 angoff     512        // tile07930 a_jug_2
+sprite   869 angoff    -640        // tile06583 a_glasscleaner
+sprite   872 angoff    -512        // tile06564 a_papertowel
+sprite   874 angoff    -768        // tile07929 a_jug_1
+sprite   784 angoff    -384        // tile07929 a_jug_1
+sprite   783 angoff     640        // tile06564 a_papertowel
+sprite   781 angoff    -640        // tile06584 a_detergent
+sprite   779 angoff    -896        // tile06583 a_glasscleaner
+sprite   780 angoff     640        // tile06583 a_glasscleaner
+sprite   778 angoff     512        // tile07930 a_jug_2
+sprite   786 pitch     -1          // tile06557 a_broom_1
+sprite   786 mdpivzoff  200000     // tile06557 a_broom_1
+sprite  2133 angoff     1024       // tile00211 i_loverboy_ammo
+sprite   849 angoff    -768        // tile07929 a_jug_1
+sprite   849 pitch      1          // tile07929 a_jug_1
+sprite   849 roll      -1          // tile07929 a_jug_1
+sprite   849 mdpivzoff  100000     // tile07929 a_jug_1
+sprite   847 angoff    -640        // tile06584 a_detergent
+sprite   848 angoff    -768        // tile06564 a_papertowel
+sprite   848 pitch     -1          // tile06564 a_papertowel
+sprite   848 roll      -1          // tile06564 a_papertowel
+sprite   848 mdpivzoff  100000     // tile06564 a_papertowel
+sprite   844 angoff    -128        // tile06583 a_glasscleaner
+sprite   843 angoff    -768        // tile07930 a_jug_2
+sprite   841 roll      -1          // tile06564 a_papertowel
+sprite   841 mdpivzoff  50000      // tile06564 a_papertowel
+sprite   851 angoff    -512        // tile06557 a_broom_1
+sprite   851 pitch     -1          // tile06557 a_broom_1
+sprite   851 mdpivzoff  200000     // tile06557 a_broom_1
+sprite  1370 angoff    -512        // tile06553 a_soda_1
+sprite  2183 angoff     1024       // tile09918 trashbin
+sprite  2183 roll      -1          // tile09918 trashbin
+sprite  2183 mdpivzoff  100000     // tile09918 trashbin
+sprite  3941 angoff     0          // tile00213 i_medicomp
+sprite  2131 angoff     1024       // tile00213 i_medicomp
+sprite  1097 angoff     1024       // tile07934 a_redswingline (stapler)
+sprite  1093 pitch      1          // tile06540 a_fireext
+sprite  1093 mdpivzoff  50000      // tile06540 a_fireext
+sprite  1845 angoff     512        // tile06543 a_garbage
+sprite  1588 angoff    -768        // tile10962 a_togochinese
+//sprite  1595 notmd                 // tile06581 a_plate_stack
+sprite  1595 angoff    -512        // tile06581 a_plate_stack
+sprite  1595 pitch     -1          // tile06581 a_plate_stack
+sprite  1595 mdpivzoff  250000     // tile06581 a_plate_stack
+sprite  1590 angoff     256        // tile10962 a_togochinese
+sprite  1642 angoff     768        // tile06546 a_trashcan_dmg_1
+sprite  1844 angoff     768        // tile06543 a_garbage
+sprite  1645 angoff    -768        // tile06543 a_garbage
+sprite  1813 pitch      1          // tile06527 (pipes)
+sprite  1813 mdpivzoff  100000     // tile06527 (pipes)
+sprite  4406 angoff     768        // tile00213 i_medicomp
+sprite  1644 angoff     640        // tile06546 a_trashcan_dmg_1
+sprite  1644 pitch     -1          // tile06546 a_trashcan_dmg_1
+sprite  1644 mdpivzoff  450000     // tile06546 a_trashcan_dmg_1
+sprite  1643 pitch      1          // tile06546 a_trashcan_dmg_1
+sprite  1643 mdpivzoff  350000     // tile06546 a_trashcan_dmg_1
+sprite  2156 angoff     0          // tile00242 i_radar
+sprite   993 angoff    -256        // tile06543 a_garbage
+sprite  1822 pitch      1          // tile06527 (pipes)
+sprite  1822 mdpivzoff  200000     // tile06527 (pipes)
+sprite  1646 angoff     1024       // tile06543 a_garbage
+sprite  1799 pitch      1          // tile06527 (pipes)
+sprite  1799 mdpivzoff  100000     // tile06527 (pipes)
+sprite  1714 angoff     1024       // tile00213 i_medicomp
+sprite   391 angoff    -256        // tile00243 i_dkshoes
+sprite  2501 angoff     1024       // tile00213 i_medicomp
+sprite   994 angoff     768        // tile06543 a_garbage
+sprite  2525 angoff    -512        // tile00232 i_bowlingbomb_pickup
+sprite  2524 angoff     0          // tile00223 i_techvest
+sprite  1766 pitch      1          // tile06527 (pipes)
+sprite  1766 mdpivzoff  200000     // tile06527 (pipes)
+sprite  1803 pitch      1          // tile06527 (pipes)
+sprite  1803 mdpivzoff  200000     // tile06527 (pipes)
+sprite    30 pitch      1          // tile06540 a_fireext
+sprite    30 mdpivzoff  50000      // tile06540 a_fireext
+sprite  2495 angoff     0          // tile00217 i_accesscard [yellow]
+sprite  2497 angoff     192        // tile00213 i_medicomp
+sprite  3534 angoff    -256        // tile06776 (tile06770 (brick))
+sprite  3535 angoff     128        // tile06776 (tile06770 (brick))
+sprite  3536 angoff    -640        // tile06776 (tile06770 (brick))
+sprite  3529 angoff     384        // tile06550 a_coffeepot
+sprite  3530 angoff    -768        // tile06555 a_coffeemug_1
+sprite  3482 angoff     896        // tile05704 a_shovel
+sprite  3482 pitch     -1          // tile05704 a_shovel
+sprite  3482 mdpivzoff  200000     // tile05704 a_shovel
+sprite  3528 angoff    -128        // tile06557 a_broom_1
+sprite  3528 pitch     -1          // tile06557 a_broom_1
+sprite  3528 mdpivzoff  200000     // tile06557 a_broom_1
+//
+sprite  4002 angoff     1024       // tile00213 i_medicomp
+sprite  2685 angoff     512        // tile00227 i_smg_ammo
+sprite  4345 angoff     1024       // tile00212 i_medpack
+//
+sprite  4312 angoff    -256        // tile00230 i_smg
+sprite  4313 angoff    -512        // tile00232 i_bowlingbomb_pickup
+sprite  4315 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  4316 angoff     1024       // tile00232 i_bowlingbomb_pickup
+//
+sprite   968 mdposzoff  999999     // tile08652 (railing)
+sprite   969 pitch      1          // tile06532 (railing)
+sprite   969 mdpivzoff  100000     // tile06532 (railing)
+sprite   970 mdposzoff  999999     // tile08652 (railing)
+sprite   971 pitch      1          // tile06532 (railing)
+sprite   971 mdpivzoff  100000     // tile06532 (railing)
+sprite   972 pitch      1          // tile06527 (pipes)
+sprite   972 mdpivzoff  200000     // tile06527 (pipes)
+sprite   962 pitch      1          // tile06527 (pipes)
+sprite   962 mdpivzoff  200000     // tile06527 (pipes)
+sprite    38 mdposzoff  999999     // tile08652 (railing)
+sprite   890 mdposzoff  999999     // tile08652 (railing)
+sprite  2686 angoff     256        // tile00227 i_smg_ammo
+sprite  3700 angoff     1024       // tile00213 i_medicomp
+//
+sprite   361 angoff     1024       // tile00230 i_smg
+sprite  1388 pitch     -1          // tile06532 (railing)
+sprite  1388 mdpivzoff  150000     // tile06532 (railing)
+sprite  1391 pitch     -1          // tile06532 (railing)
+sprite  1391 mdpivzoff  150000     // tile06532 (railing)
+sprite  1390 pitch     -1          // tile06532 (railing)
+sprite  1390 mdpivzoff  150000     // tile06532 (railing)
+sprite  1386 pitch      1          // tile06532 (railing)
+sprite  1386 mdpivzoff  180000     // tile06532 (railing)
+sprite  1385 pitch      1          // tile06532 (railing)
+sprite  1385 mdpivzoff  180000     // tile06532 (railing)
+sprite  1389 pitch      1          // tile06532 (railing)
+sprite  1389 mdpivzoff  180000     // tile06532 (railing)
+sprite  1387 pitch      1          // tile06532 (railing)
+sprite  1387 mdpivzoff  180000     // tile06532 (railing)
+sprite  1393 pitch      1          // tile06532 (railing)
+sprite  1393 mdpivzoff  180000     // tile06532 (railing)
+sprite  1394 pitch      1          // tile06532 (railing)
+sprite  1394 mdpivzoff  180000     // tile06532 (railing)
+sprite  1392 pitch      1          // tile06532 (railing)
+sprite  1392 mdpivzoff  180000     // tile06532 (railing)
+//
+sprite  2292 angoff     1024       // tile00216 i_armorvest
+sprite  2296 angoff     128        // tile00220 i_plasmacrossbow
+sprite  2636 pitch      1          // tile06527 (pipes)
+sprite  2636 mdpivzoff  200000     // tile06527 (pipes)
+sprite  2637 pitch      1          // tile06527 (pipes)
+sprite  2637 mdpivzoff  200000     // tile06527 (pipes)
+//
+sprite  1116 angoff    -768        // tile06584 a_detergent
+sprite  1117 angoff     768        // tile06556 a_bucket_1
+sprite  4229 angoff    -256        // tile00227 i_smg_ammo
+sprite  1173 pitch     -1          // tile06557 a_broom_1
+sprite  1173 mdpivzoff  200000     // tile06557 a_broom_1
+sprite  1166 angoff    -128        // tile06583 a_glasscleaner
+sprite  1168 angoff     1024       // tile07930 a_jug_2
+sprite  1172 angoff    -768        // tile06564 a_papertowel
+sprite  1174 angoff    -768        // tile07929 a_jug_1
+sprite  1114 pitch     -1          // tile06557 a_broom_1
+sprite  1114 mdpivzoff  200000     // tile06557 a_broom_1
+sprite  1107 angoff    -896        // tile06583 a_glasscleaner
+sprite  1110 angoff     512        // tile06564 a_papertowel
+sprite  1112 angoff     512        // tile06583 a_glasscleaner
+sprite  4224 angoff    -512        // tile00227 i_smg_ammo
+sprite   327 angoff     512        // tile07929 a_jug_1
+sprite   326 angoff    -768        // tile06564 a_papertowel
+sprite   324 angoff     512        // tile06583 a_glasscleaner
+sprite   322 angoff     1024       // tile07930 a_jug_2
+sprite   328 pitch     -1          // tile06557 a_broom_1
+sprite   328 mdpivzoff  200000     // tile06557 a_broom_1
+sprite   339 angoff    -256        // tile07929 a_jug_1
+sprite   335 angoff     512        // tile06564 a_papertowel
+sprite   335 pitch     -1          // tile06564 a_papertowel
+sprite   335 roll       1          // tile06564 a_papertowel
+sprite   335 mdpivzoff  200000     // tile06564 a_papertowel
+sprite   332 pitch     -1          // tile07930 a_jug_2
+sprite   332 roll      -2          // tile07930 a_jug_2
+sprite   332 mdpivzoff  100000     // tile07930 a_jug_2
+sprite   331 angoff     512        // tile06583 a_glasscleaner
+sprite   334 angoff    -512        // tile06584 a_detergent
+sprite   334 roll       1          // tile06584 a_detergent
+sprite   334 mdpivzoff  200000     // tile06584 a_detergent
+sprite   330 angoff     896        // tile06583 a_glasscleaner
+sprite  4226 angoff     512        // tile00227 i_smg_ammo
+sprite   337 pitch     -1          // tile06557 a_broom_1
+sprite   337 mdpivzoff  200000     // tile06557 a_broom_1
+sprite   367 angoff    -512        // tile06556 a_bucket_1
+sprite  3782 angoff    -512        // tile10953 a_togocock
+sprite  4231 angoff     256        // tile00227 i_smg_ammo
+sprite  3829 angoff     0          // tile00231 i_grenadelauncher
