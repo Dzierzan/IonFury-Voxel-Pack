@@ -1,6 +1,15 @@
 
 // The Voxel Pack's contents definitions
 
+//Switches
+
+voxel "KVX/03663_ROPE_A.kvx"				{ tile 3663 } 				// Dzierzan	
+voxel "KVX/03664_ROPE_B.kvx"				{ tile 3664 } 				// Dzierzan	
+voxel "KVX/03665_ROPE_C.kvx"				{ tile 3665 } 				// Dzierzan	
+voxel "KVX/03666_ROPE_D.kvx"				{ tile 3666 } 				// Dzierzan	
+voxel "KVX/03667_ROPE_E.kvx"				{ tile 3667 } 				// Dzierzan	
+voxel "KVX/03668_ROPE_F.kvx"				{ tile 3668 } 				// Dzierzan	
+
 //Props
 
 voxel "KVX/05702_SHEARS.kvx"				{ tile 5702 } 				// Dzierzan	
