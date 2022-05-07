@@ -1,0 +1,102 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : Reformation Plaza
+// Author   : Leonardo 'DavoX' Pellegrini & Max 'oasiz' Ylitalo aka 'Dr. Effector'
+// Filename : z1a5.map
+// mapmd4   : f0cff0045e3a1d22b7dbc94e90f2b7ba // 2021-10-06 (fury.grp 2.0)
+
+// Curr.IFVP: r0.0.108
+
+sprite    89 angoff     0          // tile00224 i_shotgun
+sprite    98 angoff     1024       // tile00213 i_medicomp
+sprite  2218 angoff     512        // tile06800 i_bowlingbomb
+sprite  1168 angoff     512        // tile06556 a_bucket_1
+sprite  1168 pitch      1          // tile06556 a_bucket_1
+sprite  1168 mdpivzoff  600000     // tile06556 a_bucket_1
+sprite  1169 pitch      1          // tile06557 a_broom_1
+sprite  1169 roll       4          // tile06557 a_broom_1
+sprite  1169 mdpivzoff  100000     // tile06557 a_broom_1
+sprite  1290 angoff     1024       // tile00220 i_plasmacrossbow
+sprite  1298 angoff     1024       // tile00213 i_medicomp
+sprite  1149 angoff     512        // tile06543 a_garbage
+sprite  1147 angoff     128        // tile06569 a_trashcan
+sprite   108 angoff     1024       // tile00213 i_medicomp
+sprite  2320 angoff     1024       // tile00211 i_loverboy_ammo
+sprite  1284 angoff     1024       // tile00213 i_medicomp
+sprite  1179 angoff     1024       // tile07553 a_hydrant_1
+sprite  1178 angoff     1024       // tile07553 a_hydrant_1
+sprite  1286 angoff     1024       // tile00211 i_loverboy_ammo
+sprite  1129 angoff    -512        // tile06543 a_garbage
+sprite  1130 angoff     1024       // tile06543 a_garbage
+sprite  1134 angoff     384        // tile06569 a_trashcan
+sprite  1302 angoff     0          // tile05915 a_newrespawn [i_bombrush]
+sprite  1126 angoff     768        // tile06543 a_garbage
+sprite  1162 angoff    -384        // tile06569 a_trashcan
+sprite  2444 angoff     512        // tile11367 a_gdf_body_1
+sprite  2636 angoff    -128        // tile06583 a_glasscleaner
+sprite  2550 angoff     512        // tile06550 a_coffeepot
+sprite  2552 angoff    -256        // tile06581 a_plate_stack
+sprite  2552 pitch     -1          // tile06581 a_plate_stack
+sprite  2552 roll       1          // tile06581 a_plate_stack
+sprite  2552 mdpivzoff  200000     // tile06581 a_plate_stack
+sprite  2561 angoff    -256        // tile06561 a_shaker_full_1
+sprite  2561 pitch     -1          // tile06561 a_shaker_full_1
+sprite  2561 roll       5          // tile06561 a_shaker_full_1
+sprite  2561 mdpivzoff  100000     // tile06561 a_shaker_full_1
+sprite  2615 pitch     -1          // tile06581 a_plate_stack
+sprite  2615 mdpivzoff  200000     // tile06581 a_plate_stack
+sprite  2652 angoff     256        // tile06564 a_papertowel
+sprite  2620 pitch     -1          // tile06563 a_plate_dessert
+sprite  2620 mdpivzoff  200000     // tile06563 a_plate_dessert
+sprite  2604 angoff     640        // tile10952 a_bigthermos
+sprite  2621 angoff     896        // tile06564 a_papertowel
+sprite  2632 angoff     640        // tile06584 a_detergent
+sprite  2642 angoff    -256        // tile08780 a_canister_2
+sprite  2642 roll       1          // tile08780 a_canister_2
+sprite  2642 mdpivzoff  200000     // tile08780 a_canister_2
+sprite  2618 angoff     768        // tile06557 a_broom_1
+sprite  2618 pitch     -1          // tile06557 a_broom_1
+sprite  2618 mdpivzoff  200000     // tile06557 a_broom_1
+sprite  2634 angoff     768        // tile06556 a_bucket_1
+sprite  2635 angoff     640        // tile06583 a_glasscleaner
+sprite  2637 angoff    -256        // tile06585 a_handsoap (ogay)
+sprite  2633 pitch      1          // tile06584 a_detergent
+sprite  2633 roll      -1          // tile06584 a_detergent
+sprite  2633 mdpivzoff  150000     // tile06584 a_detergent
+sprite  2422 angoff     768        // tile09949 a_beerglass_empty
+sprite  2422 pitch     -1          // tile09949 a_beerglass_empty
+sprite  2422 roll       1          // tile09949 a_beerglass_empty
+sprite  2422 mdpivzoff  200000     // tile09949 a_beerglass_empty
+sprite  2462 angoff     384        // tile10962 a_togochinese
+sprite  2461 angoff    -128        // tile10962 a_togochinese
+sprite  2617 angoff    -256        // tile06557 a_broom_1
+sprite  2617 pitch     -1          // tile06557 a_broom_1
+sprite  2617 mdpivzoff  400000     // tile06557 a_broom_1
+sprite  2739 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite  2531 angoff     512        // tile06552 a_bottle_2
+sprite  2728 angoff     768        // tile00230 i_smg
+sprite  2730 angoff     1024       // tile00227 i_smg_ammo
+sprite  2736 angoff     1024       // tile00213 i_medicomp
+sprite  2725 angoff    -768        // tile00231 i_grenadelauncher
+sprite  2738 angoff    -768        // tile00232 i_bowlingbomb_pickup
+sprite  2737 angoff     768        // tile00232 i_bowlingbomb_pickup
+sprite  2520 angoff     896        // tile07929 a_jug_1
+sprite  2523 angoff    -640        // tile06556 a_bucket_1
+sprite  2644 angoff     1024       // tile07935 a_bong
+sprite  2644 pitch      1          // tile07935 a_bong
+sprite  2644 mdpivzoff  100000     // tile07935 a_bong
+sprite  2638 angoff     512        // tile06585 a_handsoap (ogay)
+sprite  2638 pitch      1          // tile06585 a_handsoap (ogay)
+sprite  2638 roll       4          // tile06585 a_handsoap (ogay)
+sprite  2638 mdpivzoff  100000     // tile06585 a_handsoap (ogay)
+sprite  2716 angoff     768        // tile06564 a_papertowel
+sprite  2716 roll       1          // tile06564 a_papertowel
+sprite  2716 mdpivzoff  100000     // tile06564 a_papertowel
+sprite  2664 angoff     512        // tile06583 a_glasscleaner
+sprite  2663 angoff     256        // tile06556 a_bucket_1
+sprite  2663 pitch      1          // tile06556 a_bucket_1
+sprite  2663 mdpivzoff  200000     // tile06556 a_bucket_1
+sprite  2590 angoff    -256        // tile09972 (faucet knob)
+sprite  2478 angoff     1024       // tile11512 a_deacon_dead
+sprite  2478 pitch      1          // tile11512 a_deacon_dead
+sprite  2478 mdpivzoff  800000     // tile11512 a_deacon_dead
