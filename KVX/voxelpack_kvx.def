@@ -76,6 +76,12 @@ voxel "KVX/08188_WEB.kvx"					{ tile 8188 } 				// Dzierzan
 voxel "KVX/08280_LADDER1.kvx"				{ tile 8280 } 				// fgsfds & Dzierzan
 voxel "KVX/08281_LADDER2.kvx"				{ tile 8281 } 				// fgsfds & Dzierzan
 voxel "KVX/08282_LADDER3.kvx"				{ tile 8282 } 				// fgsfds & Dzierzan
+voxel "KVX/08294_HORIZONTAL_LAMP_OFF.kvx"	{ tile 8294 } 				// Dzierzan
+voxel "KVX/08295_HORIZONTAL_LAMP_ON.kvx"	{ tile 8295 } 				// Dzierzan
+voxel "KVX/08296_HORIZONTAL_LAMP_DMG.kvx"	{ tile 8296 } 				// Dzierzan
+voxel "KVX/08297_HORIZONTAL_LAMP2_OFF.kvx"	{ tile 8297 } 				// Dzierzan
+voxel "KVX/08298_HORIZONTAL_LAMP2_ON.kvx"	{ tile 8298 } 				// Dzierzan
+voxel "KVX/08299_HORIZONTAL_LAMP2_DMG.kvx"	{ tile 8299 } 				// Dzierzan
 voxel "KVX/08316_LADDER1_SHORT.kvx"			{ tile 8316 } 				// fgsfds & Dzierzan
 voxel "KVX/08317_LADDER2_SHORT.kvx"			{ tile 8317 } 				// fgsfds & Dzierzan
 voxel "KVX/08318_LADDER3_SHORT.kvx"			{ tile 8318 } 				// fgsfds & Dzierzan
