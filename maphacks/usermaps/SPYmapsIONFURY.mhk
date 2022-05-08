@@ -94,7 +94,7 @@ sprite   662 angoff     128        // tile00223 i_techvest
 sprite   488 angoff     1024       // tile06564 a_papertowel
 sprite   502 angoff     768        // tile06553 a_soda_1
 sprite   586 angoff    -256        // tile09002 i_soda_stand
-sprite   585 angoff     384        // tile09071 (tile09069 a_soda_side)
+sprite   585 angoff     384        // tile09071 (tile09069 a_sodaside_1)
 sprite   516 angoff     1024       // tile06583 a_glasscleaner
 sprite   519 angoff    -512        // tile06585 a_handsoap (ogay)
 sprite   566 angoff    -768        // tile06555 a_coffeemug_1
