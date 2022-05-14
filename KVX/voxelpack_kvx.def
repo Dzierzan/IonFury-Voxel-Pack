@@ -26,6 +26,7 @@ voxel "KVX/06612_TOILETPAPER.kvx"			{ tile 6612 } 				// Dzierzan
 voxel "KVX/06446_CABLES.kvx"				{ tile 6446 } 				// Dzierzan
 voxel "KVX/06447_CABLES.kvx"				{ tile 6447 } 				// Dzierzan
 voxel "KVX/06448_POLE.kvx"					{ tile 6448 } 				// Dzierzan
+voxel "KVX/06466_HANDRAIL.kvx"				{ tile 6466 } 				// Dzierzan
 voxel "KVX/06523_CABLES.kvx"				{ tile 6523 } 				// Dzierzan
 voxel "KVX/06524_PIPES.kvx"					{ tile 6524 } 				// Dzierzan
 voxel "KVX/06525_PIPES.kvx"					{ tile 6525 } 				// Dzierzan
