@@ -121,6 +121,7 @@ voxel "KVX/09947_GLASS_EMPTY.kvx"			{ tile 9947 notrans } 		// Dzierzan
 voxel "KVX/09948_GLASS_FULL.kvx"			{ tile 9948 notrans } 		// Dzierzan
 voxel "KVX/09949_GLASS_EMPTY.kvx"			{ tile 9949 notrans } 		// Dzierzan
 voxel "KVX/09950_GLASS_FULL.kvx"			{ tile 9950 notrans } 		// Dzierzan
+voxel "KVX/09965_BLIMP.kvx"					{ tile 9965 } 				// Dzierzan
 voxel "KVX/09972_FAUCET_KNOB.kvx"			{ tile 9972 } 				// Dzierzan
 voxel "KVX/09973_FAUCET_KNOB.kvx"			{ tile 9973 } 				// Dzierzan
 voxel "KVX/10166_CROSS.kvx"					{ tile 10166 } 				// Dzierzan
