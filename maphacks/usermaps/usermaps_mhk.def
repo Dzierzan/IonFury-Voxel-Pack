@@ -3,6 +3,22 @@
 //
 
 mapinfo {
+  maptitle "Abandoned GDF Hangar (Knee Deep in the Fury)"
+  //author "KaseNash"
+  mapfile  "e1m1.map"
+  mapmd4   f040f3057de3beace494b759b5e8ef11 // 2021-07-07
+  mhkfile  "maphacks/usermaps/e1m1.mhk"
+}
+
+mapinfo {
+  maptitle "GDF Space Station: an Ion Fury map"
+  //author "Truck Stop Santa Claus"
+  mapfile  "spacestation.map"
+  mapmd4   40a3691fa8562de51aa2e336da0028e7 // 2021-09-10
+  mhkfile  "maphacks/usermaps/spacestation.mhk"
+}
+
+mapinfo {
   maptitle "Ion Piercer"
   //author "Olipro"
   mapfile  "ionpiercer-1.map"
@@ -27,11 +43,27 @@ mapinfo {
 }
 
 mapinfo {
+  maptitle "Snow Base 1.0"
+  //author "Truck Stop Santa Claus"
+  mapfile  "snowb.map"
+  mapmd4   9c799bd2255dd780ccafc07fa6abc5c4 // 2020-12-12
+  mhkfile  "maphacks/usermaps/snowb.mhk"
+}
+
+mapinfo {
   maptitle "SPYmaps Ion Fury"
   //author "Leon 'SPYmaps' Brinkmann"
   mapfile  "SPYmapsIONFURY.map"
   mapmd4   0fa64ef55db453be4d9769e861f1b8f3 // 2019-11-01
   mhkfile  "maphacks/usermaps/SPYmapsIONFURY.mhk"
+}
+
+mapinfo {
+  maptitle "SPYmaps Ion Fury 2"
+  //author "Leon 'SPYmaps' Brinkmann"
+  mapfile  "SPYmaps_Ion_Fury_2.map"
+  mapmd4   3be2b1a39296d3df293d2dab672711af // 2020-01-09
+  mhkfile  "maphacks/usermaps/SPYmaps_Ion_Fury_2.mhk"
 }
 
 mapinfo {
@@ -48,4 +80,12 @@ mapinfo {
   mapfile  "zombiefury.map"
   mapmd4   c30c269bbe32ff499b24ae8a2a85b0bb // 2019-10-03
   mhkfile  "maphacks/usermaps/zombiefury.mhk"
+}
+
+mapinfo {
+  //maptitle ""
+  //author ""
+  mapfile  "E1L1.map"
+  mapmd4   b9578e3c22afff781a9e46338fea5481 // 2019-08-24
+  mhkfile  "maphacks/usermaps/E1L1.mhk"
 }

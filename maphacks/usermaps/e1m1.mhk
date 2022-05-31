@@ -1,0 +1,31 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : Abandoned GDF Hangar (Knee Deep in the Fury)
+// Author   : KaseNash
+// Filename : e1m1.map
+// mapmd4   : f040f3057de3beace494b759b5e8ef11 // 2021-07-07
+
+// Curr.IFVP: r0.0.122
+
+sprite     1 angoff     512        // tile00215 i_bulletvest
+sprite    21 angoff    -512        // tile07819 a_barrel_2
+sprite    22 angoff     1024       // tile07819 a_barrel_2
+sprite   172 angoff     1024       // tile00224 i_shotgun
+sprite   183 angoff    -640        // tile09002 i_soda_stand
+sprite   187 angoff     640        // tile09002 i_soda_stand
+sprite   188 angoff     512        // tile09002 i_soda_stand
+sprite   180 angoff     1024       // tile07930 a_jug_2
+sprite   264 angoff    -640        // tile00214 i_medkit
+sprite   292 angoff    -512        // tile00212 i_medpack
+sprite   153 angoff     1024       // tile00213 i_medicomp
+sprite   222 angoff    -512        // tile05915 a_newrespawn [i_hazardsuit]
+sprite   268 angoff    -640        // tile00221 i_minigun
+sprite   128 angoff    -256        // tile11927 a_shotgunner_dead
+sprite   239 angoff    -256        // tile11927 a_shotgunner_dead
+sprite   126 angoff     0          // tile00217 i_accesscard [blue]
+sprite   254 angoff     256        // tile00218 i_minigun_ammo
+sprite   253 angoff    -768        // tile00218 i_minigun_ammo
+sprite    31 angoff     0          // tile00240 i_hazardsuit
+sprite   297 angoff     1024       // tile00212 i_medpack
+sprite   309 angoff    -640        // tile00215 i_bulletvest
+sprite   311 angoff     1024       // tile00220 i_plasmacrossbow

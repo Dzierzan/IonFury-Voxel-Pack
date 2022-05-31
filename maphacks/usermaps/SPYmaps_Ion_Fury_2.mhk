@@ -1,0 +1,33 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : SPYmaps Ion Fury 2
+// Author   : Leon 'SPYmaps' Brinkmann
+// Filename : SPYmapsIONFURY.map
+// mapmd4   : 3be2b1a39296d3df293d2dab672711af // 2020-01-09
+
+// Curr.IFVP: r0.0.122
+
+sprite   780 angoff     896        // tile06583 a_glasscleaner
+sprite   779 angoff    -384        // tile09082 a_bottleside_1
+sprite   794 angoff     1024       // tile00230 i_smg
+sprite   797 angoff     0          // tile00215 i_bulletvest
+sprite   243 pitch     -1          // tile07550 (pipes2)
+sprite   243 mdpivzoff  80000      // tile07550 (pipes2)
+sprite   244 pitch     -1          // tile07550 (pipes2)
+sprite   244 mdpivzoff  80000      // tile07550 (pipes2)
+
+sprite  1577 angoff     768        // tile00213 i_medicomp
+
+sprite  2074 angoff     0          // tile00242 i_radar
+sprite   340 angoff     1024       // tile06585 a_handsoap (ogay)
+sprite   341 angoff     512        // tile06585 a_handsoap (ogay)
+sprite   727 angoff     0          // tile00214 i_medkit
+sprite   297 angoff    -512        // tile06556 a_bucket_1
+sprite   298 angoff    -512        // tile06557 a_broom_1
+sprite   298 pitch     -1          // tile06557 a_broom_1
+sprite   298 mdpivzoff  400000     // tile06557 a_broom_1
+sprite   290 angoff    -512        // tile06612 a_toiletpaper
+sprite   291 angoff    -256        // tile06612 a_toiletpaper
+sprite   292 angoff    -768        // tile06612 a_toiletpaper
+sprite   295 angoff     512        // tile06585 a_handsoap (ogay)
+sprite   294 angoff    -256        // tile06584 a_detergent
