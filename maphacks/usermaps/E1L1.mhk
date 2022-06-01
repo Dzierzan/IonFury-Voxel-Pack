@@ -1,0 +1,58 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : 
+// Author   : 
+// Filename : E1L1.map
+// mapmd4   : b9578e3c22afff781a9e46338fea5481 // 2019-08-24
+
+// Curr.IFVP: r0.0.122
+
+sprite   689 angoff     0          // tile00214 i_medkit
+sprite   690 angoff    -512        // tile11378 a_civ_body_1
+sprite   767 pitch      1          // tile00224 i_shotgun
+sprite   767 roll       1          // tile00224 i_shotgun
+sprite   767 mdpivzoff  300000     // tile00224 i_shotgun
+sprite   777 pitch      1          // tile00225 i_shotgun_ammo
+sprite   777 mdpivzoff  500000     // tile00225 i_shotgun_ammo
+sprite   778 pitch      1          // tile00225 i_shotgun_ammo
+sprite   778 mdpivzoff  500000     // tile00225 i_shotgun_ammo
+sprite   806 angoff     1024       // tile00212 i_medpack
+sprite   807 angoff     1024       // tile00212 i_medpack
+sprite   818 pitch     -1          // tile00230 i_smg
+sprite   818 roll       2          // tile00230 i_smg
+sprite   818 mdpivzoff  100000     // tile00230 i_smg
+sprite   812 pitch      1          // tile00230 i_smg
+sprite   812 roll       2          // tile00230 i_smg
+sprite   812 mdpivzoff  100000     // tile00230 i_smg
+sprite   814 angoff    -512        // tile00227 i_smg_ammo
+sprite   817 angoff     512        // tile00227 i_smg_ammo
+sprite   816 angoff    -512        // tile00227 i_smg_ammo
+sprite   815 angoff    -512        // tile00227 i_smg_ammo
+sprite   813 angoff    -512        // tile00227 i_smg_ammo
+sprite   811 angoff    -512        // tile00213 i_medicomp
+sprite   623 angoff     512        // tile00217 i_accesscard [blue]
+sprite     0 angoff    -512        // tile07553 a_hydrant_1
+sprite   684 angoff    -512        // tile00243 i_dkshoes
+sprite   801 angoff    -768        // tile06800 i_bowlingbomb
+sprite   797 angoff    -512        // tile06800 i_bowlingbomb
+sprite   803 angoff    -256        // tile06800 i_bowlingbomb
+sprite   794 angoff    -768        // tile06800 i_bowlingbomb
+sprite   802 angoff    -512        // tile06800 i_bowlingbomb
+sprite   800 angoff    -256        // tile06800 i_bowlingbomb
+sprite   840 angoff     1024       // tile00213 i_medicomp
+sprite   685 angoff    -512        // tile00232 i_bowlingbomb_pickup
+sprite   688 angoff    -512        // tile00232 i_bowlingbomb_pickup
+sprite   686 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite   630 angoff     512        // tile00223 i_techvest
+sprite   841 angoff     1024       // tile00213 i_medicomp
+sprite    53 angoff    -512        // tile06553 a_soda_1
+sprite   837 angoff     1024       // tile00224 i_shotgun
+sprite   837 pitch      5          // tile00224 i_shotgun
+sprite   837 roll       1          // tile00224 i_shotgun
+sprite   837 mdpivzoff  100000     // tile00224 i_shotgun
+sprite   835 angoff     512        // tile00213 i_medicomp
+sprite   836 angoff    -512        // tile00213 i_medicomp
+sprite   744 angoff    -512        // tile00231 i_grenadelauncher
+sprite   739 angoff     0          // tile00216 i_armorvest
+sprite   751 angoff     0          // tile00217 i_accesscard [yellow]
+sprite    26 angoff     0          // tile00220 i_plasmacrossbow

@@ -1,0 +1,62 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : GDF Space Station: an Ion Fury map
+// Author   : Truck Stop Santa Claus
+// Filename : spacestation.map
+// mapmd4   : 40a3691fa8562de51aa2e336da0028e7 // 2021-09-10
+
+// Curr.IFVP: r0.0.122
+
+sprite   514 angoff     512        // tile00225 i_shotgun_ammo
+sprite   440 angoff    -512        // tile00232 i_bowlingbomb_pickup
+sprite   414 angoff    -256        // tile00228 i_armor_shard
+sprite   412 angoff     768        // tile00228 i_armor_shard
+sprite   411 angoff     512        // tile00228 i_armor_shard
+sprite   456 angoff     1024       // tile00212 i_medpack
+sprite   136 pitch      1          // tile09973 (faucet knob)
+sprite   136 roll      -1          // tile09973 (faucet knob)
+sprite   136 mdpivzoff  200000     // tile09973 (faucet knob)
+sprite   137 roll      -1          // tile09973 (faucet knob)
+sprite   137 mdpivzoff  200000     // tile09973 (faucet knob)
+sprite   399 angoff    -256        // tile00228 i_armor_shard
+sprite   385 angoff    -512        // tile00230 i_smg
+sprite   525 angoff    -512        // tile00227 i_smg_ammo
+sprite   279 angoff    -512        // tile11377 a_gdf_body_11
+sprite   278 angoff     1024       // tile00217 i_accesscard [blue]
+sprite   406 angoff     512        // tile00228 i_armor_shard
+sprite   403 angoff    -768        // tile00228 i_armor_shard
+sprite   407 angoff     384        // tile00228 i_armor_shard
+sprite   410 angoff    -512        // tile00228 i_armor_shard
+sprite   321 angoff     0          // tile00224 i_shotgun
+sprite   319 angoff     512        // tile11927 a_shotgunner_dead
+sprite   322 angoff    -896        // tile00213 i_medicomp
+sprite   116 roll      -1          // tile09973 (faucet knob)
+sprite   116 mdpivzoff  200000     // tile09973 (faucet knob)
+sprite   117 pitch      1          // tile09973 (faucet knob)
+sprite   117 roll      -1          // tile09973 (faucet knob)
+sprite   117 mdpivzoff  200000     // tile09973 (faucet knob)
+sprite   431 angoff     512        // tile00215 i_bulletvest
+sprite   423 angoff     512        // tile00224 i_shotgun
+sprite   276 angoff    -768        // tile11390 a_civ_body_13
+sprite   277 angoff    -256        // tile11443 a_civ_body_27
+sprite   275 angoff     1024       // tile00217 i_accesscard [red]
+sprite   275 pitch     -1          // tile00217 i_accesscard [red]
+sprite   275 mdpivzoff  500000     // tile00217 i_accesscard [red]
+sprite   453 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite   367 angoff     0          // tile00220 i_plasmacrossbow
+sprite   369 angoff     640        // tile00212 i_medpack
+sprite   452 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite   388 angoff     1024       // tile00217 i_accesscard [yellow]
+sprite   449 angoff    -512        // tile00216 i_armorvest
+sprite   447 angoff     1024       // tile00221 i_minigun
+sprite   451 angoff     896        // tile00213 i_medicomp
+sprite   287 roll      -1          // tile09973 (faucet knob)
+sprite   287 mdpivzoff  200000     // tile09973 (faucet knob)
+sprite   288 pitch      1          // tile09973 (faucet knob)
+sprite   288 roll      -1          // tile09973 (faucet knob)
+sprite   288 mdpivzoff  200000     // tile09973 (faucet knob)
+sprite   475 angoff    -256        // tile00225 i_shotgun_ammo
+sprite    58 angoff    -256        // tile11443 a_civ_body_27
+sprite   490 angoff    -512        // tile00230 i_smg
+sprite   550 angoff     1024       // tile06543 a_garbage
+sprite   552 angoff     1024       // tile06543 a_garbage
