@@ -63,6 +63,8 @@ voxel "KVX/06776_BRICK.kvx"					{ tile 6776 } 				// Dzierzan
 voxel "KVX/07549_PIPES1.kvx"				{ tile 7549 } 				// fgsfds
 voxel "KVX/07550_PIPES2.kvx"				{ tile 7550 } 				// fgsfds
 voxel "KVX/07551_CABLES.kvx"				{ tile 7551 } 				// Dzierzan
+voxel "KVX/07880_BARREL.kvx"				{ tile 7880 } 				// Dzierzan
+voxel "KVX/07885_BARREL_DESTROYED.kvx"		{ tile 7885 } 				// Dzierzan
 voxel "KVX/07928_FLASK.kvx"					{ tile 7928 notrans } 		// Dzierzan
 voxel "KVX/07929_PLASTIC_BOTTLE.kvx"		{ tile 7929 } 				// Dzierzan
 voxel "KVX/07930_PLASTIC_BOTTLE_LABEL.kvx"	{ tile 7930 } 				// Dzierzan
