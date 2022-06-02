@@ -98,6 +98,9 @@ voxel "KVX/08739_LAMP_OFF.kvx"				{ tile 8739 } 				// Dzierzan
 voxel "KVX/08740_LAMP_ON.kvx"				{ tile 8740 } 				// Dzierzan
 voxel "KVX/08826_JACKDANIELS_EMPTY.kvx"		{ tile 8826 notrans } 		// Dzierzan
 voxel "KVX/08977_STREETLAMP_POLE.kvx"		{ tile 8977 } 				// Dzierzan
+voxel "KVX/08978_STREETLAMP_OFF.kvx"		{ tile 8978 } 				// Dzierzan
+voxel "KVX/08979_STREETLAMP_ON.kvx"			{ tile 8979 } 				// Dzierzan
+voxel "KVX/08980_STREETLAMP_DAMAGED.kvx"	{ tile 8980 } 				// Dzierzan
 voxel "KVX/08981_STREETLAMP_POLE.kvx"		{ tile 8981 } 				// Dzierzan
 voxel "KVX/08982_STREETLAMP_OFF.kvx"		{ tile 8982 } 				// Dzierzan
 voxel "KVX/08983_STREETLAMP_ON.kvx"			{ tile 8983 } 				// Dzierzan
