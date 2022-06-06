@@ -147,6 +147,7 @@ voxel "KVX/10745_WOODEN_RAILING.kvx"		{ tile 10745 } 				// Dzierzan
 voxel "KVX/10746_WOODEN_RAILING.kvx"		{ tile 10746 } 				// Dzierzan
 voxel "KVX/10747_WOODEN_RAILING.kvx"		{ tile 10747 } 				// Dzierzan
 voxel "KVX/10748_WOODEN_RAILING.kvx"		{ tile 10748 } 				// Dzierzan
+voxel "KVX/10952_COFFEE_MACHINE.kvx"		{ tile 10952 } 				// Dzierzan
 voxel "KVX/10955_KETCHUP.kvx"				{ tile 10955 } 				// Dzierzan
 voxel "KVX/10963_KETCHUP_DARK.kvx"			{ tile 10963 } 				// Dzierzan
 voxel "KVX/10964_KETCHUP_BRIGHT.kvx"		{ tile 10964 } 				// Dzierzan
