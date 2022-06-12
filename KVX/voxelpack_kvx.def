@@ -72,10 +72,13 @@ voxel "KVX/07931_MEASURING_FLASK.kvx"		{ tile 7931 notrans } 		// Dzierzan
 voxel "KVX/07933_FLASK.kvx"					{ tile 7933 notrans } 		// Dzierzan
 voxel "KVX/07934_STAMPLER.kvx"				{ tile 7934 } 				// Dzierzan
 voxel "KVX/07935_BONG_GLASS.kvx"			{ tile 7935 notrans } 		// Dzierzan
+voxel "KVX/07993_CABLES.kvx"				{ tile 7993 } 				// Dzierzan
+voxel "KVX/07994_CABLES.kvx"				{ tile 7994 } 				// Dzierzan
 voxel "KVX/08163_LADDER1_END.kvx"			{ tile 8163 } 				// fgsfds & Dzierzan
 voxel "KVX/08164_LADDER2_END.kvx"			{ tile 8164 } 				// fgsfds & Dzierzan
 voxel "KVX/08165_LADDER3_END.kvx"			{ tile 8165 } 				// fgsfds & Dzierzan
 voxel "KVX/08188_WEB.kvx"					{ tile 8188 } 				// Dzierzan
+voxel "KVX/08217_CABLES.kvx"				{ tile 8217 } 				// Dzierzan
 voxel "KVX/08280_LADDER1.kvx"				{ tile 8280 } 				// fgsfds & Dzierzan
 voxel "KVX/08281_LADDER2.kvx"				{ tile 8281 } 				// fgsfds & Dzierzan
 voxel "KVX/08282_LADDER3.kvx"				{ tile 8282 } 				// fgsfds & Dzierzan
