@@ -126,6 +126,9 @@ voxel "KVX/09158_CHAIN.kvx"					{ tile 9158 } 				// Dzierzan
 voxel "KVX/09159_CHAIN.kvx"					{ tile 9159 } 				// Dzierzan
 voxel "KVX/09164_ROADBLOCK.kvx"				{ tile 9164 } 				// Dzierzan
 voxel "KVX/09272_FLUSH.kvx"					{ tile 9272 } 				// Dzierzan
+voxel "KVX/09393_CAR_SIDE_MIRROR.kvx"		{ tile 9393 } 				// Dzierzan
+voxel "KVX/09394_CAR_SIDE_MIRROR.kvx"		{ tile 9394 } 				// Dzierzan
+voxel "KVX/09397_CAR_SIDE_MIRROR.kvx"		{ tile 9397 } 				// Dzierzan
 voxel "KVX/09522_THIN_RAILING.kvx"			{ tile 9522 } 				// Dzierzan
 voxel "KVX/09527_THIN_RAILING.kvx"			{ tile 9527 } 				// Dzierzan
 voxel "KVX/09916_CAKE_A.kvx"				{ tile 9916 } 				// Dzierzan
