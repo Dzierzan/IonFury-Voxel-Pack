@@ -133,6 +133,7 @@ voxel "KVX/09522_THIN_RAILING.kvx"			{ tile 9522 } 				// Dzierzan
 voxel "KVX/09527_THIN_RAILING.kvx"			{ tile 9527 } 				// Dzierzan
 voxel "KVX/09916_CAKE_A.kvx"				{ tile 9916 } 				// Dzierzan
 voxel "KVX/09917_CAKE_B.kvx"				{ tile 9917 } 				// Dzierzan
+voxel "KVX/09918_TRASH_BIN.kvx"				{ tile 9918 } 				// Dzierzan
 voxel "KVX/09943_MARTINIGLASS_EMPTY.kvx"	{ tile 9943 notrans } 		// Dzierzan
 voxel "KVX/09944_MARTINIGLASS_FULL.kvx"		{ tile 9944 notrans } 		// Dzierzan
 voxel "KVX/09945_GLASS_EMPTY.kvx"			{ tile 9945 notrans } 		// Dzierzan
