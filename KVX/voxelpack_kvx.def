@@ -179,7 +179,6 @@ voxel "KVX/11072_METER_ON.kvx"				{ tile 11072 } 				// Dzierzan
 voxel "KVX/11073_METER_DAMAGED.kvx"			{ tile 11073 } 				// Dzierzan
 voxel "KVX/11077_PENDRIVE.kvx"				{ tile 11077 } 				// Dzierzan
 voxel "KVX/11081_CABLES.kvx"				{ tile 11081 } 				// Dzierzan
-voxel "KVX/11133_ELEVATOR_POWER_SIGN.kvx"	{ tile 11133 } 				// Dzierzan
 voxel "KVX/11168_RAILING_PLATE.kvx"			{ tile 11168 } 				// Dzierzan
 voxel "KVX/11169_RAILING_PLATE.kvx"			{ tile 11169 } 				// Dzierzan
 voxel "KVX/11170_RAILING_PLATE.kvx"			{ tile 11170 } 				// Dzierzan
@@ -191,6 +190,8 @@ voxel "KVX/11175_RAILING_SLOPE.kvx"			{ tile 11175 } 				// Dzierzan
 voxel "KVX/11176_RAILING_SLOPE.kvx"			{ tile 11176 } 				// Dzierzan
 voxel "KVX/11268_LAMP_ON.kvx"			    { tile 11268 } 				// Dzierzan
 voxel "KVX/11269_LAMP_OFF.kvx"			    { tile 11269 } 				// Dzierzan
+voxel "KVX/11270_LAMP_ON.kvx"			    { tile 11270 } 				// Dzierzan
+voxel "KVX/11271_LAMP_OFF.kvx"			    { tile 11271 } 				// Dzierzan
 voxel "KVX/11272_LAMP_OFF.kvx"				{ tile 11272 } 				// Dzierzan
 voxel "KVX/11273_LAMP_ON.kvx"				{ tile 11273 } 				// Dzierzan
 voxel "KVX/11291_KITCHEN_OBJECT.kvx"		{ tile 11291 } 				// Dzierzan
@@ -211,6 +212,7 @@ voxel "KVX/14114_BALLOON_HANDLE_3.kvx"		{ tile 14114 } 				// Dzierzan
 //Decals
 voxel "KVX/07996_ALARM_SWITCH.kvx"			{ tile 7996 } 				// Dzierzan
 voxel "KVX/11063_COIN_SLOT.kvx"				{ tile 11063 } 				// Dzierzan
+voxel "KVX/11133_ELEVATOR_POWER_SIGN.kvx"	{ tile 11133 } 				// Dzierzan
 
 //Animals
 voxel "KVX/09981_COCKROACH_A.kvx"			{ tile 9981 } 				// Dzierzan
