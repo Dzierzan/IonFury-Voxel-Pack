@@ -212,6 +212,7 @@ voxel "KVX/14114_BALLOON_HANDLE_3.kvx"		{ tile 14114 } 				// Dzierzan
 //Decals
 voxel "KVX/07996_ALARM_SWITCH.kvx"			{ tile 7996 } 				// Dzierzan
 voxel "KVX/11063_COIN_SLOT.kvx"				{ tile 11063 } 				// Dzierzan
+voxel "KVX/11068_OBJECT.kvx"				{ tile 11068 } 				// Dzierzan
 voxel "KVX/11133_ELEVATOR_POWER_SIGN.kvx"	{ tile 11133 } 				// Dzierzan
 
 //Animals
