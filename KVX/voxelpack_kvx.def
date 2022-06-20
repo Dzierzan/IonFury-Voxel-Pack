@@ -85,6 +85,7 @@ voxel "KVX/08217_CABLES.kvx"				{ tile 8217 } 				// Dzierzan
 voxel "KVX/08230_CABLE_ROUTE.kvx"			{ tile 8230 } 				// Dzierzan
 voxel "KVX/08231_CABLE_ROUTE.kvx"			{ tile 8231 } 				// Dzierzan
 voxel "KVX/08233_CABLES_ROUTE_DAMAGED.kvx"	{ tile 8233 } 				// Dzierzan
+voxel "KVX/08249_CABLES.kvx"				{ tile 8249 } 				// Dzierzan
 voxel "KVX/08280_LADDER1.kvx"				{ tile 8280 } 				// fgsfds & Dzierzan
 voxel "KVX/08281_LADDER2.kvx"				{ tile 8281 } 				// fgsfds & Dzierzan
 voxel "KVX/08282_LADDER3.kvx"				{ tile 8282 } 				// fgsfds & Dzierzan
