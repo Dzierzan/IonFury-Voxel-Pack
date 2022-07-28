@@ -99,6 +99,8 @@ voxel "KVX/08316_LADDER1_SHORT.kvx"			{ tile 8316 } 				// fgsfds & Dzierzan
 voxel "KVX/08317_LADDER2_SHORT.kvx"			{ tile 8317 } 				// fgsfds & Dzierzan
 voxel "KVX/08318_LADDER3_SHORT.kvx"			{ tile 8318 } 				// fgsfds & Dzierzan
 voxel "KVX/08599_HOOK.kvx"					{ tile 8599 } 				// Dzierzan
+voxel "KVX/08614_HYDRANT.kvx"				{ tile0 8614 tile1 8618 } 	// Dzierzan
+voxel "KVX/08619_HYDRANT_DESTROYED.kvx"		{ tile 8619 } 				// Dzierzan
 voxel "KVX/08652_RAILING.kvx"				{ tile 8652 } 				// Dzierzan
 voxel "KVX/08653_RAILING.kvx"				{ tile 8653 } 				// Dzierzan
 voxel "KVX/08654_RAILING.kvx"				{ tile 8654 } 				// Dzierzan
