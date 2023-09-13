@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    if: "!contains(github.event.head_commit.message, 'SKIP')"
+
+    steps:
+      - uses: actions/checkout@v3
+          
+      - name: Making ZIP
+        run: 7z a -m0=Copy -tzip voxels_fury_p${{ github.run_number }}.zip voxels.def voxelpack_art_license.txt README.md maphacks KVX
+         
+      - name: Delete Older Releases
+        uses: nikhilbadyal/ghaction-rm-releases@v0.0.5
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_PATTERN: 'preview*'
+          
+      - name: Creating new release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "voxels_fury_p${{ github.run_number }}.zip"
+          name: preview${{ github.run_number }}
+          tag: preview${{ github.run_number }}
+          prerelease: true
+          body: "This is a pre-release version of the Ion Fury Voxel Pack that includes all the latest additions and changes"
+
