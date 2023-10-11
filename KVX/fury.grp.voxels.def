@@ -233,3 +233,7 @@ voxel "voxels/3658_VALVE2_H.kvx"		{ tile 3658 }
 
 voxel "voxels/3659_SOCKET1.kvx"			{ tile 3659 }
 voxel "voxels/3660_SOCKET2.kvx"			{ tile 3660 }
+
+//Misc
+voxel "voxels/5926_SLOPE.kvx"		    { tile 5926 }
+voxel "voxels/5927_HALFSLOPE.kvx"		{ tile 5927 }

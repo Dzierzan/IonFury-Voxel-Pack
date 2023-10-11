@@ -11,6 +11,8 @@ mapinfo {
    //mapmd4   4477ff2b837eb70e70e7cad565fbb5a9 // 2019-09-18 (fury.grp 1.02)
    //mapmd4   d0e4c7ee82caa525f9f2bec45b9f1e4c // 2020-06-25 (fury.grp 1.1)
    mapmd4   1a9317669248008c2b7361427ecbdb21 // 2021-10-02 (fury.grp 2.0)
+   //mapmd4   7b0b80bc9a3eb257b17a7962483cc026 // 2023-09-30 (fury.grp 3.0)
+   //mapmd4   da9629b709f8390e7aa8f8d80b1d5daf // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z1a1.mhk"
 }
 mapinfo {
@@ -21,6 +23,8 @@ mapinfo {
    //mapmd4   f6efe59bce301d3df1923062f3fe2d69 // 2019-08-27 (fury.grp 1.02)
    //mapmd4   28da2fb99b3c4bba4a1d2af6db88bc62 // 2020-06-25 (fury.grp 1.1)
    mapmd4   85ae5a0f70c833d7a1bff58bfe4ebdaa // 2021-09-20 (fury.grp 2.0)
+   //mapmd4   084fc30b69a49c4e98b9bb9915385850 // 2023-09-30 (fury.grp 3.0)
+   //mapmd4   90d5fa8d31da4560061701f261d87ffb // 2023-10-05 (ar,fury.grp3.0.03)
    mhkfile  "maphacks/voidpoint/z1a2.mhk"
 }
 mapinfo {
@@ -31,6 +35,7 @@ mapinfo {
    //mapmd4   00c895f186efcb500e52b3505e8f3b44 // 2019-08-20 (fury.grp 1.02)
    //mapmd4   502950991e362f99a56c626b8d5fe9f7 // 2020-06-07 (fury.grp 1.1)
    mapmd4   2b45a4ecc543bb8c9892c266ccff92d7 // 2021-09-29 (fury.grp 2.0)
+   //mapmd4   dfca8ad2fda12e7d358262bfbf68dd6c // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z1a3.mhk"
 }
 mapinfo {
@@ -41,6 +46,8 @@ mapinfo {
    //mapmd4   7f1ee3585458fc2d7e3324aaba206077 // 2019-08-27 (fury.grp 1.02)
    //mapmd4   0cb1dc9cde790f3702c69098dc2bc6c6 // 2020-06-07 (fury.grp 1.1)
    mapmd4   11fdd1d7e8847fa0bb0b1de27c2ef998 // 2021-09-29 (fury.grp 2.0)
+   //mapmd4   03ea1943681d8ae8cd9bb93a14d593d9 // 2023-09-30 (fury.grp 3.0)
+   //mapmd4   9ac90b7f65c7bc72baba08d675853985 // 2023-09-04 (ar,fury.grp3.0.03)
    mhkfile  "maphacks/voidpoint/z1a4.mhk"
 }
 mapinfo {
@@ -51,6 +58,7 @@ mapinfo {
    //mapmd4   de2b2002962442acdc5dae342808f040 // 2019-08-27 (fury.grp 1.02)
    //mapmd4   54cae94b405c3af826e4c18722c71e6f // 2020-06-07 (fury.grp 1.1)
    mapmd4   f0cff0045e3a1d22b7dbc94e90f2b7ba // 2021-10-06 (fury.grp 2.0)
+   //mapmd4   363d6fa756790df6f81f588d0dbb371c // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z1a5.mhk"
 }
 
@@ -62,6 +70,7 @@ mapinfo {
    //mapmd4   a55fd2c815866226d2b7ed7f3a56e40f // 2019-08-27 (fury.grp 1.02)
    //mapmd4   7ac5cee80782621cb948ad150d333adc // 2020-05-25 (fury.grp 1.1)
    mapmd4   57320cd6840a29bf262836de7193d5d9 // 2021-10-06 (fury.grp 2.0)
+   //mapmd4   bb1d315b5819ac25e8ce17a9e9eb6c43 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z2a1.mhk"
 }
 mapinfo {
@@ -72,6 +81,7 @@ mapinfo {
    //mapmd4   f60056355705c9c432971d57a56c28e3 // 2019-08-19 (fury.grp 1.02)
    //mapmd4   3de566a97c0f1c2db41d22d67079a4bf // 2020-05-25 (fury.grp 1.1)
    mapmd4   72f70e4392907a17a534a2e06c8c5946 // 2021-09-29 (fury.grp 2.0)
+   //mapmd4   9816a0ddd9d27f9ec5c362633ef9aba0 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z2a2.mhk"
 }
 mapinfo {
@@ -81,6 +91,7 @@ mapinfo {
    //mapmd4   890fe0bdf942986432d9b8af568d99fb // 2019-08-14 (fury.grp 1.0/1.02)
    //mapmd4   1e247d134da5b79f3c2e01c02b4f1506 // 2020-05-25 (fury.grp 1.1)
    mapmd4   4f9ee16b584ee810cdc28d8f9feaeaec // 2021-09-20 (fury.grp 2.0)
+   //mapmd4   081d825e4613d084861fb03a21634896 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z2a3.mhk"
 }
 mapinfo {
@@ -91,6 +102,7 @@ mapinfo {
    //mapmd4   49f36af2538c15ba838a2737e935d627 // 2019-08-19 (fury.grp 1.02)
    //mapmd4   2aae539cafa8c350dd6d219deeda6dcf // 2020-05-25 (fury.grp 1.1)
    mapmd4   14ac5a37419ef9d4915c5dd31b595a3a // 2021-09-29 (fury.grp 2.0)
+   //mapmd4   a974d581a21ff9ec96cdf2b838807e3c // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z2a4.mhk"
 }
 mapinfo {
@@ -101,6 +113,7 @@ mapinfo {
    //mapmd4   3d201b9fdc52f987b6c1918496683530 // 2019-08-29 (fury.grp 1.02)
    //mapmd4   c88d64b37d6520fc8d397b0489b98836 // 2020-05-25 (fury.grp 1.1)
    mapmd4   cb59785f085ef4366fe13f5550e3d9db // 2021-09-20 (fury.grp 2.0)
+   //mapmd4   6acf465c80c86af141dcaf545c0ec7b4 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z2a5.mhk"
 }
 
@@ -112,6 +125,8 @@ mapinfo {
    //mapmd4   7cdd1100b81be8e8b89b08b533a8d326 // 2019-09-08 (fury.grp 1.02)
    //mapmd4   8de302415adcff3c33485bd3352af32d // 2020-06-18 (fury.grp 1.1)
    mapmd4   dd7daf9787e9a1c5496151de2a7972a2 // 2021-10-06 (fury.grp 2.0)
+   //mapmd4   6b1cb1b43c87f8df896993a3805c1caa // 2023-09-30 (fury.grp 3.0)
+   //mapmd4   5283dde0d53971cbddf5f03eac85a71b // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z3a1.mhk"
 }
 mapinfo {
@@ -122,6 +137,7 @@ mapinfo {
    //mapmd4   dee85827f42b0baed9f30d499914c2f3 // 2019-09-08 (fury.grp 1.02)
    //mapmd4   8016be3dcbc1806dca8a4154760d7f84 // 2020-05-25 (fury.grp 1.1)
    mapmd4   194f8cd328d9b626bbae3f3dee05f8f6 // 2021-09-28 (fury.grp 2.0)
+   //mapmd4   5f44a7774dcb26d556f057c6253f2ae0 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z3a2.mhk"
 }
 mapinfo {
@@ -132,6 +148,8 @@ mapinfo {
    //mapmd4   467fc40c94a25bc0e0aa6d0da0cb8ba0 // 2019-09-19 (fury.grp 1.02)
    //mapmd4   62a3eb828aa0e734b2cb9e6b4871c4d4 // 2020-05-25 (fury.grp 1.1)
    mapmd4   a8f099e708a66158c36074eed786c8a0 // 2021-09-28 (fury.grp 2.0)
+   //mapmd4   96f865cb477916f8aa6d6eced7e83196 // 2023-09-30 (fury.grp 3.0)
+   //mapmd4   91b5cadc9fdabbd05a26a3a199dfdc43 // 2023-10-04 (ar,fury.grp3.0.03)
    mhkfile  "maphacks/voidpoint/z3a3.mhk"
 }
 mapinfo {
@@ -142,6 +160,8 @@ mapinfo {
    //mapmd4   f646b9593b77ae4c26acc553664e1002 // 2019-09-18 (fury.grp 1.02)
    //mapmd4   00b1bf638db0aa1848ae81e83897713d // 2020-08-08 (fury.grp 1.1)
    mapmd4   d17115e2130076336c6b93c9eb3e6229 // 2021-09-28 (fury.grp 2.0)
+   //mapmd4   194f15286ec9fbd097d4b0ed317d7e7d // 2023-09-30 (fury.grp 3.0)
+   //mapmd4   96fba56dbfc26498809d6ab751937eae // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z3a4.mhk"
 }
 mapinfo {
@@ -152,6 +172,7 @@ mapinfo {
    //mapmd4   6794bbbd7c3ae91d66589ea89470954f // 2019-08-29 (fury.grp 1.02)
    //mapmd4   f41e5f69aaffd4f3b374fe315fa2aeb6 // 2020-06-13 (fury.grp 1.1)
    mapmd4   219cc46ff75675e4170eca1a66a2236b // 2021-09-29 (fury.grp 2.0)
+   //mapmd4   13a3610080bac8cb770cb6c27f2d28d1 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z3a5.mhk"
 }
 
@@ -162,6 +183,7 @@ mapinfo {
    //mapmd4   ec881a36ff1847b16053ddca4edaec6c // 2019-08-08 (fury.grp 1.0)
    //mapmd4   307b9fecb2239f26ac28f3a1e806c401 // 2019-08-21 (fury.grp 1.02/1.1)
    mapmd4   1da602882223d0b2690f1a7d9de07a21 // 2021-09-20 (fury.grp 2.0)
+   //mapmd4   79e61e0caf5dc11ccf24726d9ff42fa6 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z4a1.mhk"
 }
 mapinfo {
@@ -171,6 +193,8 @@ mapinfo {
    //mapmd4   746e668751e89e1580b920a9833c13a2 // 2019-08-13 (fury.grp 1.0)
    //mapmd4   7d991aa274759a143dfd54348879ac5e // 2019-08-29 (fury.grp 1.02/1.1)
    mapmd4   01dc9eb2282de7e562a40b910d8a9fa8 // 2021-09-28 (fury.grp 2.0)
+   //mapmd4   7f86311ce3f692a649f83c78a13c601e // 2023-09-30 (fury.grp 3.0)
+   //mapmd4   5dfb330f1033aa7df70a9073aecec6d7 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z4a2.mhk"
 }
 mapinfo {
@@ -181,6 +205,7 @@ mapinfo {
    //mapmd4   42df956c00232ccb629e1d2bcd725991 // 2019-08-23 (fury.grp 1.02/1.1)
    mapmd4   1aefc14ab333b6a821e2fd2834e088c0 // 2021-10-05 (fury.grp 2.0)
    //mapmd4   13f728cb512e2ea110a66968a53116dd // 2021-10-08 (temporary hotfix)
+   //mapmd4   a29d9be23b1805b0135c2b5c42936809 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z4a3.mhk"
 }
 mapinfo {
@@ -191,6 +216,8 @@ mapinfo {
    //mapmd4   64bb320e7155feba40dce39769b102d2 // 2019-08-23 (fury.grp 1.02/1.1)
    mapmd4   81d6ab25f28ed501ab9e316b6cbb949a // 2021-10-05 (fury.grp 2.0)
    //mapmd4   259e045c1ae7f3e0eaae5ae1c18ba0e0 // 2021-10-08 (temporary hotfix)
+   //mapmd4   ad4eb3d4aa1eb47ecb6cd882be638099 // 2023-09-30 (fury.grp 3.0)
+   //mapmd4   e425abab7bd6004b933e271969b1ccf2 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z4a4.mhk"
 }
 mapinfo {
@@ -200,6 +227,7 @@ mapinfo {
    //mapmd4   b64d0a49a7d10399504dcea864e7e09a // 2019-08-08 (fury.grp 1.0)
    //mapmd4   fb9975bdcc1e44a605b1da3515caa3a7 // 2019-08-20 (fury.grp 1.02/1.1)
    mapmd4   8bfd0e32119ec0e288beb2312b74cc0b // 2021-09-30 (fury.grp 2.0)
+   //mapmd4   d61067ec2c3e16c4662a16f9beb59f66 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z4a5.mhk"
 }
 
@@ -210,6 +238,7 @@ mapinfo {
    //mapmd4   79aec0a48794acc89a6cded54bd5a9d3 // 2019-08-14 (fury.grp 1.0)
    //mapmd4   14bc623d100b6d6b39bfcec7f04ffe33 // 2019-08-27 (fury.grp 1.02/1.1)
    mapmd4   5d2e7e5b11435f71786e665f4b941a6c // 2021-09-29 (fury.grp 2.0)
+   //mapmd4   ccc78d3da9096a5c7efb500d6a126d59 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z5a1.mhk"
 }
 mapinfo {
@@ -221,6 +250,7 @@ mapinfo {
    //mapmd4   b7cc2e7cd646e2475a77d961cd4c3aa1 // 2020-02-03 (fury.grp 1.1)
    mapmd4   9eec3fa513c55181fb55471cccc9eb09 // 2021-09-20 (fury.grp 2.0)
    //mapmd4   e9f7c6c0e55f5bd2d0f3a4f7ab274115 // 2021-10-08 (temporary hotfix)
+   //mapmd4   e8a88b04a22da540dc6f51d111add6ba // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z5a2.mhk"
 }
 mapinfo {
@@ -230,6 +260,7 @@ mapinfo {
    //mapmd4   2239a3509f568469ba99e7adc49aa6ad // 2019-08-14 (fury.grp 1.0)
    //mapmd4   9ce58c625306b6dca69f8653c87950fa // 2019-09-17 (fury.grp 1.02/1.1)
    mapmd4   2a8d8d897d050114b47039710d162fbd // 2021-09-28 (fury.grp 2.0)
+   //mapmd4   9007a631f6aa71d0d09cf1707aa9a101 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z5a3.mhk"
 }
 
@@ -241,6 +272,7 @@ mapinfo {
    //mapmd4   c35600599c3fb4bd5776ca3f75b9923a // 2019-08-21 (fury.grp 1.02)
    //mapmd4   7c159e7120e1e5373431d60b92cf750b // 2020-01-28 (fury.grp 1.1)
    mapmd4   7afe3f6cf981f6259b752325e6d91cdd // 2021-09-28 (fury.grp 2.0)
+   //mapmd4   f94e55b21db72ae04bf65768b2edaa7b // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z6a1.mhk"
 }
 mapinfo {
@@ -251,6 +283,7 @@ mapinfo {
    //mapmd4   c7b539b88bf9889a4b26533c851e034a // 2019-08-29 (fury.grp 1.02)
    //mapmd4   84c7167a0740250c7063c3a2db07298f // 2020-05-30 (fury.grp 1.1)
    mapmd4   fa132f05256c6bd0c25942f45d6ded17 // 2021-09-28 (fury.grp 2.0)
+   //mapmd4   d632e7ebbad625d100240a862e266736 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z6a2.mhk"
 }
 mapinfo {
@@ -260,6 +293,7 @@ mapinfo {
    //mapmd4   5c050be4ac00db3a5c03e5a430247916 // 2019-08-14 (fury.grp 1.0)
    //mapmd4   a4a7e8195a1743a14456a4e0cd2a415f // 2019-08-29 (fury.grp 1.02/1.1)
    mapmd4   31b9d2c67a7db6ff440d947cbb801d21 // 2021-09-28 (fury.grp 2.0)
+   //mapmd4   cbde351a2cdf2193d0513e66aafcbb57 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z6a3.mhk"
 }
 
@@ -270,6 +304,7 @@ mapinfo {
    //mapmd4   837c9dae5d5958921129fe933b39c19b // 2019-08-09 (fury.grp 1.0)
    //mapmd4   1b4b64569c8f7932dac3b957ca0eb950 // 2019-08-21 (fury.grp 1.02/1.1)
    mapmd4   64d11fe0f6b45c289bf38f9fac1e995d // 2021-10-01 (fury.grp 2.0)
+   //mapmd4   229e8fffec70690c41c8180b78dbc8d4 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z7a1.mhk"
 }
 mapinfo {
@@ -279,6 +314,7 @@ mapinfo {
    //mapmd4   5caf71bea85e7549b1943ea4b804e9a7 // 2019-08-08 (fury.grp 1.0)
    //mapmd4   14183e3936d96e7f46ded67cb31c17be // 2019-09-13 (fury.grp 1.02)
    //mapmd4   3b08800bc566351653156d2cc591aa6f // 2020-01-29 (fury.grp 1.1/2.0)
+   //mapmd4   04442ae049268dbffa93aae982fa1d87 // 2023-09-30 (ar, fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/z7a2.mhk"
 }
 
@@ -289,6 +325,7 @@ mapinfo {
    mapfile  "preview_0.map"
    //mapmd4   2eb7615cea90d69f4442bbabb492a5f4 // 2019-01-25 (maiden/fury.grp 1.*)
    mapmd4   17ed90294935d7d2182252a8cda20650 // 2021-09-28 (fury.grp 2.0)
+   //mapmd4   6114d4d94e4904400ba6403d205b0094 // 2023-09-30 (fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/preview_0.mhk"
 }
 mapinfo {
@@ -299,6 +336,7 @@ mapinfo {
    //mapmd4   9866e449bfc71c9fb3549d1d9a5cb5e4 // 2019-08-09 (fury.grp 1.0/1.02)
    //mapmd4   19c196e9c2004bf7439074be18b93eb7 // 2019-11-03 (fury.grp 1.1)
    mapmd4   385c7d077d60995ce92f931468697306 // 2021-09-28 (fury.grp 2.0)
+   //mapmd4   4534f872d539acf17107cccd1dba6e12 // 2023-09-30 (fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/preview_1.mhk"
 }
 mapinfo {
@@ -355,3 +393,118 @@ mapinfo {
    mapmd4   9685c37207cd429d20a622b89309478b // 2020-05-25 (fury.grp 1.1/2.0)
    mhkfile  "maphacks/voidpoint/arena1.mhk"
 }
+/*
+// Aftershock DLC
+mapinfo {
+   maptitle "Wasted Potential"
+   //author ""
+   mapfile  "01_city_1.map"
+   mapmd4   bb035405c3c68c6495ff60d640ba3e9f // 2023-10-02 (fury.grp 3.0)
+   mhkfile  "maphacks/voidpoint/01_city_1.mhk"
+}
+mapinfo {
+   maptitle "Urban Removal"
+   //author ""
+   mapfile  "02_city_2.map"
+   mapmd4   187756f6f5d1f38c51fbd5a6ca0e1882 // 2023-10-05 (fury.grp 3.0.03)
+   mhkfile  "maphacks/voidpoint/02_city_2.mhk"
+}
+mapinfo {
+   maptitle "Five Finger Discount"
+   //author ""
+   mapfile  "03_city_3.map"
+   mapmd4   f31bd42813881d0bfa46e7f1e771a901 // 2023-10-01 (fury.grp 3.0)
+   mhkfile  "maphacks/voidpoint/03_city_3.mhk"
+}
+mapinfo {
+   maptitle "Joyride"
+   //author ""
+   mapfile  "04_race_1.map"
+   mapmd4   f0b860cb121dba5e433ed2b1ef3b21ce // 2023-10-01 (fury.grp 3.0)
+   mhkfile  "maphacks/voidpoint/04_race_1.mhk"
+}
+mapinfo {
+   maptitle "Redline to the Skyline"
+   //author ""
+   mapfile  "05_race_2.map"
+   mapmd4   7a5a645f87378da0dfc99b2fecac0559 // 2023-10-05 (fury.grp 3.0.03)
+   mhkfile  "maphacks/voidpoint/05_race_2.mhk"
+}
+mapinfo {
+   maptitle "Full Tilt"
+   //author ""
+   mapfile  "06_race_3.map"
+   mapmd4   49440de98c817b46cea0962a16c9adf4 // 2023-10-01 (fury.grp 3.0)
+   mhkfile  "maphacks/voidpoint/06_race_3.mhk"
+}
+mapinfo {
+   maptitle "Costive Canal"
+   //author ""
+   mapfile  "07_canal_1.map"
+   mapmd4   30383b12ca1052c0070d4bc7abccf04b // 2023-10-04 (fury.grp 3.0.03)
+   mhkfile  "maphacks/voidpoint/07_canal_1.mhk"
+}
+mapinfo {
+   maptitle "Marina Massacre"
+   //author ""
+   mapfile  "08_canal_2.map"
+   mapmd4   e5206c543db115f2e71518ae8f26d5c0 // 2023-10-04 (fury.grp 3.0)
+   mhkfile  "maphacks/voidpoint/08_canal_2.mhk"
+}
+mapinfo {
+   maptitle "Wipeout"
+   //author ""
+   mapfile  "09_canal_3.map"
+   mapmd4   ce824796a570af23742f8dba3dca1249 // 2023-10-01 (fury.grp 3.0)
+   mhkfile  "maphacks/voidpoint/09_canal_3.mhk"
+}
+mapinfo {
+   maptitle "Not From These Parts"
+   //author ""
+   mapfile  "10_town_1.map"
+   mapmd4   61e55e8560a1c5bb81cbbb7e00768458 // 2023-10-05 (fury.grp 3.0.03)
+   mhkfile  "maphacks/voidpoint/10_town_1.mhk"
+}
+mapinfo {
+   maptitle "Rotten Underbelly"
+   //author ""
+   mapfile  "11_town_2.map"
+   mapmd4   d0eac3b4cc4d78a688cc0c3ca88cceb0 // 2023-10-04 (fury.grp 3.0.03)
+   mhkfile  "maphacks/voidpoint/11_town_2.mhk"
+}
+mapinfo {
+   maptitle "The Dishonorable"
+   //author ""
+   mapfile  "12_town_3.map"
+   mapmd4   7e54f070358ad8f12ddf33510b42cf00 // 2023-10-04 (fury.grp 3.0.03)
+   mhkfile  "maphacks/voidpoint/12_town_3.mhk"
+}
+mapinfo {
+   maptitle "Warm Reception"
+   //author ""
+   mapfile  "13_volcano_1.map"
+   mapmd4   d696701e67135942c4511c850b90b9e2 // 2023-10-04 (fury.grp 3.0.03)
+   mhkfile  "maphacks/voidpoint/13_volcano_1.mhk"
+}
+mapinfo {
+   maptitle "Like a Bitch in Heat"
+   //author ""
+   mapfile  "14_volcano_2.map"
+   mapmd4   14f63d0e3cbd74c1d8ca10c12e95181d // 2023-10-05 (fury.grp 3.0.03)
+   mhkfile  "maphacks/voidpoint/14_volcano_2.mhk"
+}
+mapinfo {
+   maptitle "Eruption Disruption"
+   //author ""
+   mapfile  "15_volcano_3.map"
+   mapmd4   3c337c41c42f47bf8df3f068f350e7de // 2023-10-05 (fury.grp 3.0.03)
+   mhkfile  "maphacks/voidpoint/15_volcano_3.mhk"
+}
+mapinfo {
+   maptitle "Finito"
+   //author ""
+   mapfile  "finito.map"
+   mapmd4   db5e9031c44c8848c2caac1ad7598adf // 2023-09-30 (fury.grp 3.0)
+   mhkfile  "maphacks/voidpoint/finito.mhk"
+}
+*/
