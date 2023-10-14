@@ -1,10 +1,11 @@
 
-//echo "Ion Fury 2.0 Voxel Pack (version 0.0.107)"
-echo "Ion Fury 2.0 Voxel Pack - Repository Snapshot >= 0.0.107"
+//echo "Ion Fury 3.0.03 Voxel Pack (version 0.0.154)"
+echo "Ion Fury 3.0.03 Voxel Pack - Repository Snapshot >= 0.0.154"
 
-// Include the Ion Fury original game's voxels first
-// (verbatim copy of voxels.def from the Ion Fury 2.0 fury.grp)
+// Include the Ion Fury (+Aftershock DLC) original game's voxels first
+// (verbatim copies of voxels.def + dlc_voxels.def from the Ion Fury fury.grp)
 include KVX/fury.grp.voxels.def
+include KVX/fury.grp.dlc_voxels.def
 
 // Voxel Pack KVX models
 include KVX/voxelpack_kvx.def

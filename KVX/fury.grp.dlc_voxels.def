@@ -1,0 +1,88 @@
+//Pickups
+
+voxel "voxels_dlc/16083_ROADRIPPER.kvx"         { tile0 16083 tile1 16091 }
+voxel "voxels_dlc/16485_GOLDENBOMB.kvx"         { tile0 16485 tile1 16499 }
+voxel "voxels_dlc/17200_COLLECTIBLE.kvx"        { tile 17200 }
+voxel "voxels_dlc/17201_WRECKER.kvx"            { tile 17201 }
+voxel "voxels_dlc/17202_GASMGL.kvx"             { tile 17202 }
+voxel "voxels_dlc/17203_CLUSTERSHOTGUN.kvx"     { tile 17203 }
+voxel "voxels_dlc/17204_GASGRENADES.kvx"        { tile 17204 }
+voxel "voxels_dlc/17205_CLUSTERGRENADES.kvx"    { tile 17205 }
+voxel "voxels_dlc/17207_HELMET.kvx"             { tile 17207 }
+voxel "voxels_dlc/17209_SURGE.kvx"              { tile 17209 }
+voxel "voxels_dlc/17210_GGUN.kvx"               { tile 17210 }
+voxel "voxels_dlc/17211_WRECKERAMMO.kvx"        { tile 17211 }
+voxel "voxels_dlc/17212_WRECKERAMMOPACK.kvx"    { tile 17212 }
+voxel "voxels_dlc/17214_NUVACHAIRITEM.kvx"      { tile 17214 }
+
+//Props
+voxel "voxels_dlc/15127_WRECKINGBALL.kvx"       { tile 15127 }
+voxel "voxels_dlc/15128_CHAIN.kvx"              { tile 15128 }
+voxel "voxels_dlc/15236_TRAFFICCONE.kvx"        { tile 15236 }
+voxel "voxels_dlc/16749_POOLCUE.kvx"            { tile 16750 }
+
+voxel "voxels_dlc/16750_POOLBALL.kvx"           { tile 16750 }
+voxel "voxels_dlc/16751_POOLBALL.kvx"           { tile 16751 }
+voxel "voxels_dlc/16752_POOLBALL.kvx"           { tile 16752 }
+voxel "voxels_dlc/16753_POOLBALL.kvx"           { tile 16753 }
+voxel "voxels_dlc/16754_POOLBALL.kvx"           { tile 16754 }
+voxel "voxels_dlc/16755_POOLBALL.kvx"           { tile 16755 }
+voxel "voxels_dlc/16756_POOLBALL.kvx"           { tile 16756 }
+voxel "voxels_dlc/16757_POOLBALL.kvx"           { tile 16757 }
+voxel "voxels_dlc/16758_POOLBALL.kvx"           { tile 16758 }
+voxel "voxels_dlc/16759_POOLBALL.kvx"           { tile 16759 }
+voxel "voxels_dlc/16760_POOLBALL.kvx"           { tile 16760 }
+voxel "voxels_dlc/16761_POOLBALL.kvx"           { tile 16761 }
+voxel "voxels_dlc/16762_POOLBALL.kvx"           { tile 16762 }
+voxel "voxels_dlc/16763_POOLBALL.kvx"           { tile 16763 }
+voxel "voxels_dlc/16764_POOLBALL.kvx"           { tile 16764 }
+voxel "voxels_dlc/16765_POOLBALL.kvx"           { tile 16765 }
+
+voxel "voxels_dlc/16766_POOLBALL.kvx"           { tile 16766 }
+voxel "voxels_dlc/16767_POOLBALL.kvx"           { tile 16767 }
+voxel "voxels_dlc/16768_POOLBALL.kvx"           { tile 16768 }
+voxel "voxels_dlc/16769_POOLBALL.kvx"           { tile 16769 }
+voxel "voxels_dlc/16770_POOLBALL.kvx"           { tile 16770 }
+voxel "voxels_dlc/16771_POOLBALL.kvx"           { tile 16771 }
+voxel "voxels_dlc/16772_POOLBALL.kvx"           { tile 16772 }
+voxel "voxels_dlc/16773_POOLBALL.kvx"           { tile 16773 }
+voxel "voxels_dlc/16774_POOLBALL.kvx"           { tile 16774 }
+voxel "voxels_dlc/16775_POOLBALL.kvx"           { tile 16775 }
+voxel "voxels_dlc/16776_POOLBALL.kvx"           { tile 16776 }
+voxel "voxels_dlc/16777_POOLBALL.kvx"           { tile 16777 }
+voxel "voxels_dlc/16778_POOLBALL.kvx"           { tile 16778 }
+voxel "voxels_dlc/16779_POOLBALL.kvx"           { tile 16779 }
+voxel "voxels_dlc/16780_POOLBALL.kvx"           { tile 16780 }
+voxel "voxels_dlc/16781_POOLBALL.kvx"           { tile 16781 }
+
+voxel "voxels_dlc/16782_POOLBALL.kvx"           { tile 16782 }
+voxel "voxels_dlc/16783_POOLBALL.kvx"           { tile 16783 }
+voxel "voxels_dlc/16784_POOLBALL.kvx"           { tile 16784 }
+voxel "voxels_dlc/16785_POOLBALL.kvx"           { tile 16785 }
+voxel "voxels_dlc/16786_POOLBALL.kvx"           { tile 16786 }
+voxel "voxels_dlc/16787_POOLBALL.kvx"           { tile 16787 }
+voxel "voxels_dlc/16788_POOLBALL.kvx"           { tile 16788 }
+voxel "voxels_dlc/16789_POOLBALL.kvx"           { tile 16789 }
+voxel "voxels_dlc/16790_POOLBALL.kvx"           { tile 16790 }
+voxel "voxels_dlc/16791_POOLBALL.kvx"           { tile 16791 }
+voxel "voxels_dlc/16792_POOLBALL.kvx"           { tile 16792 }
+voxel "voxels_dlc/16793_POOLBALL.kvx"           { tile 16793 }
+voxel "voxels_dlc/16794_POOLBALL.kvx"           { tile 16794 }
+voxel "voxels_dlc/16795_POOLBALL.kvx"           { tile 16795 }
+voxel "voxels_dlc/16796_POOLBALL.kvx"           { tile 16796 }
+voxel "voxels_dlc/16797_POOLBALL.kvx"           { tile 16797 }
+
+voxel "voxels_dlc/16798_POOLBALLWHITE.kvx"      { tile 16798 }
+
+voxel "voxels_dlc/17410_NUVACHAIR.kvx"          { tile0 17410 tile1 17418 notrans }
+
+voxel "voxels_dlc/17419_FLAMETRAPCLOSED.kvx"    { tile0 17419 tile1 17427 }
+voxel "voxels_dlc/17428_FLAMETRAPOPEN.kvx"      { tile0 17428 tile1 17436 }
+
+voxel "voxels_dlc/18475_KEG.kvx"                { tile 18475 }
+
+//Monsters
+
+voxel "voxels_dlc/16250_FRIENDBOT.kvx"          { tile0 16250 tile1 16258 }
+voxel "voxels_dlc/16259_FRIENDBOT.kvx"          { tile0 16259 tile1 16267 }
+voxel "voxels_dlc/16268_FRIENDBOTDAMAGED.kvx"   { tile0 16268 tile1 16276 }
