@@ -7,7 +7,7 @@ This repository contains custom voxels created for Ion Fury game developed by Vo
 # How to use it
 
 Clone the project or download the zip and put all the content in Ion Fury directory.
-If you don't have the Aftershock DLC, you can get rid (most) of the missing *.kvx error logfile messages by commenting out loading the dlc_voxels in "voxels.def".
+If you don't have the Aftershock DLC, you can get rid of (most of) the missing *.kvx error logfile messages by commenting out loading the dlc_voxels in "voxels.def".
 
 # Voxel artists
 
