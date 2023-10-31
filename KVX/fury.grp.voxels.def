@@ -72,6 +72,8 @@ voxel "voxels/7826_BARREL2_BRK_B.kvx"	{ tile 7826 }
 
 voxel "voxels/7885_BARREL_GIB.kvx"		{ tile 7885 }
 
+voxel "voxels/7880_BARREL3.kvx"			{ tile 7880 }
+
 voxel "voxels/7829_CANISTER.kvx"		{ tile 7829 }
 voxel "voxels/7830_CANISTER_BRK_A.kvx"	{ tile 7830 }
 voxel "voxels/7831_CANISTER_BRK_B.kvx"	{ tile 7831 }
@@ -79,8 +81,8 @@ voxel "voxels/7831_CANISTER_BRK_B.kvx"	{ tile 7831 }
 voxel "voxels/9983_WATERBRL.kvx"		{ tile 9983 }
 
 voxel "voxels/6569_TRASHCAN.kvx"		{ tile 6569 }
-voxel "voxels/6546_TRASHCAN_BRK_A.kvx"		{ tile 6546 }
-voxel "voxels/6547_TRASHCAN_BRK_B.kvx"		{ tile 6547 }
+voxel "voxels/6546_TRASHCAN_BRK_A.kvx"	{ tile 6546 }
+voxel "voxels/6547_TRASHCAN_BRK_B.kvx"	{ tile 6547 }
 voxel "voxels/9213_LID.kvx"				{ tile 9213 }
 voxel "voxels/9222_TRASHCAN_GIB.kvx"	{ tile 9222 }
 

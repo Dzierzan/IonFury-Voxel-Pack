@@ -9,6 +9,7 @@ voxel "voxels_dlc/17203_CLUSTERSHOTGUN.kvx"     { tile 17203 }
 voxel "voxels_dlc/17204_GASGRENADES.kvx"        { tile 17204 }
 voxel "voxels_dlc/17205_CLUSTERGRENADES.kvx"    { tile 17205 }
 voxel "voxels_dlc/17207_HELMET.kvx"             { tile 17207 }
+voxel "voxels_dlc/17208_VAMPIRE.kvx"            { tile 17208 }
 voxel "voxels_dlc/17209_SURGE.kvx"              { tile 17209 }
 voxel "voxels_dlc/17210_GGUN.kvx"               { tile 17210 }
 voxel "voxels_dlc/17211_WRECKERAMMO.kvx"        { tile 17211 }

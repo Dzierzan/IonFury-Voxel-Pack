@@ -13,6 +13,8 @@ mapinfo {
    mapmd4   1a9317669248008c2b7361427ecbdb21 // 2021-10-02 (fury.grp 2.0)
    //mapmd4   7b0b80bc9a3eb257b17a7962483cc026 // 2023-09-30 (fury.grp 3.0)
    //mapmd4   da9629b709f8390e7aa8f8d80b1d5daf // 2023-09-30 (ar, fury.grp 3.0)
+   //mapmd4   112a79dc41416d162223d5400b8482f8 // 2023-10-06 (fury.grp 3.0.09)
+   //mapmd4   a3f315b3f33a0ab50f7c10c61c80246e // 2023-10-06 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z1a1.mhk"
 }
 mapinfo {
@@ -82,6 +84,7 @@ mapinfo {
    //mapmd4   3de566a97c0f1c2db41d22d67079a4bf // 2020-05-25 (fury.grp 1.1)
    mapmd4   72f70e4392907a17a534a2e06c8c5946 // 2021-09-29 (fury.grp 2.0)
    //mapmd4   9816a0ddd9d27f9ec5c362633ef9aba0 // 2023-09-30 (ar, fury.grp 3.0)
+   //mapmd4   8564b2fbe81f9c0a02626a2fb85e2852 // 2023-10-06 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z2a2.mhk"
 }
 mapinfo {
@@ -92,6 +95,7 @@ mapinfo {
    //mapmd4   1e247d134da5b79f3c2e01c02b4f1506 // 2020-05-25 (fury.grp 1.1)
    mapmd4   4f9ee16b584ee810cdc28d8f9feaeaec // 2021-09-20 (fury.grp 2.0)
    //mapmd4   081d825e4613d084861fb03a21634896 // 2023-09-30 (ar, fury.grp 3.0)
+   //mapmd4   5c445aaf990dbbf43827fcccdc5cc80d // 2023-10-06 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z2a3.mhk"
 }
 mapinfo {
@@ -127,6 +131,7 @@ mapinfo {
    mapmd4   dd7daf9787e9a1c5496151de2a7972a2 // 2021-10-06 (fury.grp 2.0)
    //mapmd4   6b1cb1b43c87f8df896993a3805c1caa // 2023-09-30 (fury.grp 3.0)
    //mapmd4   5283dde0d53971cbddf5f03eac85a71b // 2023-09-30 (ar, fury.grp 3.0)
+   //mapmd4   0b0193240edf7afa2d4876ecd8b5ee1a // 2023-10-10 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z3a1.mhk"
 }
 mapinfo {
@@ -138,6 +143,7 @@ mapinfo {
    //mapmd4   8016be3dcbc1806dca8a4154760d7f84 // 2020-05-25 (fury.grp 1.1)
    mapmd4   194f8cd328d9b626bbae3f3dee05f8f6 // 2021-09-28 (fury.grp 2.0)
    //mapmd4   5f44a7774dcb26d556f057c6253f2ae0 // 2023-09-30 (ar, fury.grp 3.0)
+   //mapmd4   38f47016df93a60a82fb8989009ad939 // 2023-10-10 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z3a2.mhk"
 }
 mapinfo {
@@ -150,6 +156,7 @@ mapinfo {
    mapmd4   a8f099e708a66158c36074eed786c8a0 // 2021-09-28 (fury.grp 2.0)
    //mapmd4   96f865cb477916f8aa6d6eced7e83196 // 2023-09-30 (fury.grp 3.0)
    //mapmd4   91b5cadc9fdabbd05a26a3a199dfdc43 // 2023-10-04 (ar,fury.grp3.0.03)
+   //mapmd4   af943e7c444024022d590b093b17041d // 2023-10-06 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z3a3.mhk"
 }
 mapinfo {
@@ -195,6 +202,8 @@ mapinfo {
    mapmd4   01dc9eb2282de7e562a40b910d8a9fa8 // 2021-09-28 (fury.grp 2.0)
    //mapmd4   7f86311ce3f692a649f83c78a13c601e // 2023-09-30 (fury.grp 3.0)
    //mapmd4   5dfb330f1033aa7df70a9073aecec6d7 // 2023-09-30 (ar, fury.grp 3.0)
+   //mapmd4   2089e9ea3874abe7510eb535f362e12e // 2023-10-06 (fury.grp 3.0.09)
+   //mapmd4   d2bb33b13e7bba13c4cac089797beaaf // 2023-10-06 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z4a2.mhk"
 }
 mapinfo {
@@ -261,6 +270,8 @@ mapinfo {
    //mapmd4   9ce58c625306b6dca69f8653c87950fa // 2019-09-17 (fury.grp 1.02/1.1)
    mapmd4   2a8d8d897d050114b47039710d162fbd // 2021-09-28 (fury.grp 2.0)
    //mapmd4   9007a631f6aa71d0d09cf1707aa9a101 // 2023-09-30 (ar, fury.grp 3.0)
+   //mapmd4   de51b0930479c8a0274ae4438f081ebd // 2023-10-06 (fury.grp 3.0.09)
+   //mapmd4   ac42128ef5715b3329adb80f89cad112 // 2023-10-06 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z5a3.mhk"
 }
 
@@ -273,6 +284,8 @@ mapinfo {
    //mapmd4   7c159e7120e1e5373431d60b92cf750b // 2020-01-28 (fury.grp 1.1)
    mapmd4   7afe3f6cf981f6259b752325e6d91cdd // 2021-09-28 (fury.grp 2.0)
    //mapmd4   f94e55b21db72ae04bf65768b2edaa7b // 2023-09-30 (ar, fury.grp 3.0)
+   //mapmd4   8bc22cb560bcbd0953fc7bddb9ac183b // 2023-10-06 (fury.grp 3.0.09)
+   //mapmd4   cdeba5742b865cd2c381e2d4842f3779 // 2023-10-06 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z6a1.mhk"
 }
 mapinfo {
@@ -284,6 +297,7 @@ mapinfo {
    //mapmd4   84c7167a0740250c7063c3a2db07298f // 2020-05-30 (fury.grp 1.1)
    mapmd4   fa132f05256c6bd0c25942f45d6ded17 // 2021-09-28 (fury.grp 2.0)
    //mapmd4   d632e7ebbad625d100240a862e266736 // 2023-09-30 (ar, fury.grp 3.0)
+   //mapmd4   971cac21f62cdcdaef25ae3a578148b1 // 2023-10-06 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z6a2.mhk"
 }
 mapinfo {
@@ -315,6 +329,7 @@ mapinfo {
    //mapmd4   14183e3936d96e7f46ded67cb31c17be // 2019-09-13 (fury.grp 1.02)
    //mapmd4   3b08800bc566351653156d2cc591aa6f // 2020-01-29 (fury.grp 1.1/2.0)
    //mapmd4   04442ae049268dbffa93aae982fa1d87 // 2023-09-30 (ar, fury.grp 3.0)
+   //mapmd4   a783832d26980b33ff466b50e6bb7d9c // 2023-10-06 (ar,fury.grp3.0.09)
    mhkfile  "maphacks/voidpoint/z7a2.mhk"
 }
 
@@ -345,6 +360,7 @@ mapinfo {
    mapfile  "preview_2.map"
    //mapmd4   d02235d7c2a9b8b00f7c477ebe3b9cf2 // 2019-01-16 (maiden/fury.grp 1.*)
    mapmd4   dffdd69ebca17cb5d5770286909bcee6 // 2021-10-06 (fury.grp 2.0)
+   //mapmd4   b3ea3181bac6d037958f1e383b78b7c7 // 2023-10-08 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/preview_2.mhk"
 }
 mapinfo {
@@ -391,22 +407,25 @@ mapinfo {
    //mapmd4   7c9b32452d333b04227a67d84f113501 // 2019-06-07 (fury.grp 1.0)
    //mapmd4   ccb7eb8d79418e10885915b7184bd106 // 2019-09-02 (fury.grp 1.02)
    mapmd4   9685c37207cd429d20a622b89309478b // 2020-05-25 (fury.grp 1.1/2.0)
+   //mapmd4   31b73cb682c39c2719411697add5c99b // 2023-10-11 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/arena1.mhk"
 }
-/*
+
 // Aftershock DLC
 mapinfo {
    maptitle "Wasted Potential"
    //author ""
    mapfile  "01_city_1.map"
-   mapmd4   bb035405c3c68c6495ff60d640ba3e9f // 2023-10-02 (fury.grp 3.0)
+   //mapmd4   bb035405c3c68c6495ff60d640ba3e9f // 2023-10-02 (fury.grp 3.0)
+   mapmd4   542d3df32d330931414a2d5a38b8f317 // 2023-10-11 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/01_city_1.mhk"
 }
 mapinfo {
    maptitle "Urban Removal"
    //author ""
    mapfile  "02_city_2.map"
-   mapmd4   187756f6f5d1f38c51fbd5a6ca0e1882 // 2023-10-05 (fury.grp 3.0.03)
+   //mapmd4   187756f6f5d1f38c51fbd5a6ca0e1882 // 2023-10-05 (fury.grp 3.0.03)
+   mapmd4   261344cef9214d0b23b2474dec45fddc // 2023-10-10 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/02_city_2.mhk"
 }
 mapinfo {
@@ -427,28 +446,32 @@ mapinfo {
    maptitle "Redline to the Skyline"
    //author ""
    mapfile  "05_race_2.map"
-   mapmd4   7a5a645f87378da0dfc99b2fecac0559 // 2023-10-05 (fury.grp 3.0.03)
+   //mapmd4   7a5a645f87378da0dfc99b2fecac0559 // 2023-10-05 (fury.grp 3.0.03)
+   mapmd4   aa8b72bb677737a4110060a4cfd77691 // 2023-10-06 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/05_race_2.mhk"
 }
 mapinfo {
    maptitle "Full Tilt"
    //author ""
    mapfile  "06_race_3.map"
-   mapmd4   49440de98c817b46cea0962a16c9adf4 // 2023-10-01 (fury.grp 3.0)
+   //mapmd4   49440de98c817b46cea0962a16c9adf4 // 2023-10-01 (fury.grp 3.0)
+   mapmd4   068c10399120bc64e632fa60ca84857e // 2023-10-07 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/06_race_3.mhk"
 }
 mapinfo {
    maptitle "Costive Canal"
    //author ""
    mapfile  "07_canal_1.map"
-   mapmd4   30383b12ca1052c0070d4bc7abccf04b // 2023-10-04 (fury.grp 3.0.03)
+   //mapmd4   30383b12ca1052c0070d4bc7abccf04b // 2023-10-04 (fury.grp 3.0.03)
+   mapmd4   26e71fc7325371c36f3fe6a4c82b2d5e // 2023-10-07 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/07_canal_1.mhk"
 }
 mapinfo {
    maptitle "Marina Massacre"
    //author ""
    mapfile  "08_canal_2.map"
-   mapmd4   e5206c543db115f2e71518ae8f26d5c0 // 2023-10-04 (fury.grp 3.0)
+   //mapmd4   e5206c543db115f2e71518ae8f26d5c0 // 2023-10-04 (fury.grp 3.0)
+   mapmd4   d0f6497a934e4c6983d219d0173bf623 // 2023-10-17 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/08_canal_2.mhk"
 }
 mapinfo {
@@ -462,42 +485,48 @@ mapinfo {
    maptitle "Not From These Parts"
    //author ""
    mapfile  "10_town_1.map"
-   mapmd4   61e55e8560a1c5bb81cbbb7e00768458 // 2023-10-05 (fury.grp 3.0.03)
+   //mapmd4   61e55e8560a1c5bb81cbbb7e00768458 // 2023-10-05 (fury.grp 3.0.03)
+   mapmd4   862550c65ba018793d75754e094c8302 // 2023-10-08 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/10_town_1.mhk"
 }
 mapinfo {
    maptitle "Rotten Underbelly"
    //author ""
    mapfile  "11_town_2.map"
-   mapmd4   d0eac3b4cc4d78a688cc0c3ca88cceb0 // 2023-10-04 (fury.grp 3.0.03)
+   //mapmd4   d0eac3b4cc4d78a688cc0c3ca88cceb0 // 2023-10-04 (fury.grp 3.0.03)
+   mapmd4   6397183a074add83c158844ee0a36475 // 2023-10-08 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/11_town_2.mhk"
 }
 mapinfo {
    maptitle "The Dishonorable"
    //author ""
    mapfile  "12_town_3.map"
-   mapmd4   7e54f070358ad8f12ddf33510b42cf00 // 2023-10-04 (fury.grp 3.0.03)
+   //mapmd4   7e54f070358ad8f12ddf33510b42cf00 // 2023-10-04 (fury.grp 3.0.03)
+   mapmd4   3e78fee4b6aed5920e5a484708d66594 // 2023-10-11 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/12_town_3.mhk"
 }
 mapinfo {
    maptitle "Warm Reception"
    //author ""
    mapfile  "13_volcano_1.map"
-   mapmd4   d696701e67135942c4511c850b90b9e2 // 2023-10-04 (fury.grp 3.0.03)
+   //mapmd4   d696701e67135942c4511c850b90b9e2 // 2023-10-04 (fury.grp 3.0.03)
+   mapmd4   5f9d82012f5f5ae10472cbc8b00bb0df // 2023-10-09 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/13_volcano_1.mhk"
 }
 mapinfo {
    maptitle "Like a Bitch in Heat"
    //author ""
    mapfile  "14_volcano_2.map"
-   mapmd4   14f63d0e3cbd74c1d8ca10c12e95181d // 2023-10-05 (fury.grp 3.0.03)
+   //mapmd4   14f63d0e3cbd74c1d8ca10c12e95181d // 2023-10-05 (fury.grp 3.0.03)
+   mapmd4   be46e940dc9feb0ecc1a0ca21e96df22 // 2023-10-25 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/14_volcano_2.mhk"
 }
 mapinfo {
    maptitle "Eruption Disruption"
    //author ""
    mapfile  "15_volcano_3.map"
-   mapmd4   3c337c41c42f47bf8df3f068f350e7de // 2023-10-05 (fury.grp 3.0.03)
+   //mapmd4   3c337c41c42f47bf8df3f068f350e7de // 2023-10-05 (fury.grp 3.0.03)
+   mapmd4   cc2aae26d76a9eecc3b362995e1d26fc // 2023-10-09 (fury.grp 3.0.09)
    mhkfile  "maphacks/voidpoint/15_volcano_3.mhk"
 }
 mapinfo {
@@ -507,4 +536,3 @@ mapinfo {
    mapmd4   db5e9031c44c8848c2caac1ad7598adf // 2023-09-30 (fury.grp 3.0)
    mhkfile  "maphacks/voidpoint/finito.mhk"
 }
-*/
