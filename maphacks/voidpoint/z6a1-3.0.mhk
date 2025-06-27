@@ -1,0 +1,76 @@
+// Ion Fury Maphacks by LeoD
+
+// Title    : Hellmouth
+// Author   : Corentin 'MetHy (MetHunter)' Dallay aka 'Ness' & Vitaliy '_DNV_' Bondarenko
+// Filename : z6a1.map
+// mapmd4   : 8bc22cb560bcbd0953fc7bddb9ac183b // 2023-10-06 (fury.grp 3.0.09)
+
+//         <-> z6a1-2.0.mhk
+
+// Curr.IFVP: r0.0.89
+
+// 0-188 / 273-1557
+sprite  1258 angoff    -512        // tile00232 i_bowlingbomb_pickup
+sprite   973 angoff     1024       // tile00213 i_medicomp
+sprite   979 angoff    -512        // tile00232 i_bowlingbomb_pickup
+sprite   983 angoff     512        // tile07824 a_barrel_1
+sprite   981 angoff    -896        // tile00215 i_bulletvest
+sprite  1000 angoff     256        // tile00230 i_smg
+sprite   745 angoff     0          // tile00214 i_medkit
+sprite   361 angoff    -512        // tile06557 a_broom_1
+sprite   361 pitch     -1          // tile06557 a_broom_1
+sprite   361 mdpivzoff  250000     // tile06557 a_broom_1
+sprite   363 pitch      1          // tile06525 (pipes)
+sprite   363 mdpivzoff  200000     // tile06525 (pipes)
+sprite   364 pitch      1          // tile06525 (pipes)
+sprite   364 mdpivzoff  200000     // tile06525 (pipes)
+sprite  1029 angoff     0          // tile00241 i_bombrush
+sprite  1007 angoff     1024       // tile00212 i_medpack
+sprite   395 angoff     1024       // tile00213 i_medicomp
+sprite   397 angoff     0          // tile00231 i_grenadelauncher
+sprite   537 angoff    -512        // tile00214 i_medkit
+sprite   634 angoff     1024       // tile00212 i_medpack
+sprite   444 angoff     1024       // tile00213 i_medicomp
+sprite   522 pitch      1          // tile06525 (pipes)
+sprite   522 mdpivzoff  200000     // tile06525 (pipes)
+sprite   523 pitch      1          // tile06525 (pipes)
+sprite   523 mdpivzoff  200000     // tile06525 (pipes)
+sprite   604 angoff     768        // tile07824 a_barrel_1
+sprite   602 angoff     256        // tile07824 a_barrel_1
+sprite   513 pitch      1          // tile06540 a_fireext
+sprite   513 mdpivzoff  50000      // tile06540 a_fireext
+sprite   425 angoff     1024       // tile00211 i_loverboy_ammo
+sprite   955 angoff     512        // tile07824 a_barrel_1
+sprite  1049 angoff     1024       // tile00212 i_medpack
+sprite   284 pitch      1          // tile06540 a_fireext
+sprite   284 mdpivzoff  50000      // tile06540 a_fireext
+sprite   273 pitch      1          // tile06525 (pipes)
+sprite   273 mdpivzoff  200000     // tile06525 (pipes)
+sprite   274 pitch      1          // tile06525 (pipes)
+sprite   274 mdpivzoff  200000     // tile06525 (pipes)
+sprite   428 angoff     0          // tile00216 i_armorvest
+sprite   464 pitch      1          // tile06527 (pipes)
+sprite   464 mdpivzoff  200000     // tile06527 (pipes)
+sprite   465 pitch      1          // tile06527 (pipes)
+sprite   465 mdpivzoff  200000     // tile06527 (pipes)
+sprite   429 angoff     384        // tile00211 i_loverboy_ammo
+sprite  1344 angoff     640        // tile06612 a_toiletpaper
+sprite  1343 angoff     512        // tile06585 a_handsoap (ogay)
+sprite  1436 angoff     896        // tile00230 i_smg
+sprite   431 angoff     1024       // tile00212 i_medpack
+sprite   111 pitch      1          // tile06540 a_fireext
+sprite   111 mdpivzoff  50000      // tile06540 a_fireext
+sprite   785 angoff     1024       // tile00213 i_medicomp
+sprite   756 pitch      1          // tile06525 (pipes)
+sprite   756 mdpivzoff  200000     // tile06525 (pipes)
+sprite   769 pitch      1          // tile06525 (pipes)
+sprite   769 mdpivzoff  200000     // tile06525 (pipes)
+sprite   770 pitch      1          // tile06525 (pipes)
+sprite   770 mdpivzoff  200000     // tile06525 (pipes)
+sprite  1093 angoff     256        // tile11367 a_gdf_body_1
+sprite  1094 angoff     640        // tile00220 i_plasmacrossbow
+sprite   765 pitch      1          // tile06527 (pipes)
+sprite   765 mdpivzoff  200000     // tile06527 (pipes)
+sprite   766 pitch      1          // tile06527 (pipes)
+sprite   766 mdpivzoff  200000     // tile06527 (pipes)
+sprite  1505 angoff    -768        // tile09002 i_soda_stand
