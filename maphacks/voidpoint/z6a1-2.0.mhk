@@ -5,8 +5,11 @@
 // Filename : z6a1.map
 // mapmd4   : 7afe3f6cf981f6259b752325e6d91cdd // 2021-09-28 (fury.grp 2.0)
 
+//         <-> z6a1-3.0.mhk
+
 // Curr.IFVP: r0.0.89
 
+// 0-188 / 275-1559
 sprite  1260 angoff    -512        // tile00232 i_bowlingbomb_pickup
 sprite   975 angoff     1024       // tile00213 i_medicomp
 sprite   981 angoff    -512        // tile00232 i_bowlingbomb_pickup

@@ -1,0 +1,21 @@
+// Ion Fury Maphacks by Dzierzan
+
+// Title    : The Washington Institute
+// Author   : Max 'oasiz' Ylitalo aka 'Dr. Effector'
+// Filename : z3a1.map
+// mapmd4   : 6b1cb1b43c87f8df896993a3805c1caa // 2023-09-30 (fury.grp 3.0)
+
+//         <-> z3a1-2.0.mhk
+
+// Curr.IFVP: r0.0.125
+
+// 0-? / 2042-4521
+sprite  4521 angoff     512        // tile09965 (blimp)
+//
+sprite  2044 angoff     640        // tile00213 i_medicomp
+sprite  2044 roll       1          // tile00213 i_medicomp
+sprite  2044 mdpivzoff  300000     // tile00213 i_medicomp
+sprite  2045 angoff    -576        // tile00218 i_minigun_ammo
+sprite  2045 pitch      1          // tile00218 i_minigun_ammo
+sprite  2045 mdpivzoff  300000     // tile00218 i_minigun_ammo
+sprite  2042 angoff     256        // tile00211 i_loverboy_ammo

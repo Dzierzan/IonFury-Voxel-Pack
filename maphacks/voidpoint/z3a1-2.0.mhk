@@ -5,13 +5,17 @@
 // Filename : z3a1.map
 // mapmd4   : dd7daf9787e9a1c5496151de2a7972a2 // 2021-10-06 (fury.grp 2.0)
 
+//         <-> z3a1-3.0.mhk
+
 // Curr.IFVP: r0.0.125
 
+// 0-? / 2043-4522
 sprite  4522 angoff     512        // tile09965 (blimp)
 //
 sprite  2045 angoff     640        // tile00213 i_medicomp
 sprite  2045 roll       1          // tile00213 i_medicomp
 sprite  2045 mdpivzoff  300000     // tile00213 i_medicomp
-sprite  2046 angoff    -576        // tile00227 i_smg_ammo
-sprite  2046 pitch      1          // tile00227 i_smg_ammo
-sprite  2046 mdpivzoff  300000     // tile00227 i_smg_ammo
+sprite  2046 angoff    -576        // tile00218 i_minigun_ammo
+sprite  2046 pitch      1          // tile00218 i_minigun_ammo
+sprite  2046 mdpivzoff  300000     // tile00218 i_minigun_ammo
+sprite  2043 angoff     256        // tile00211 i_loverboy_ammo
