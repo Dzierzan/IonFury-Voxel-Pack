@@ -1,0 +1,65 @@
+// Ion Fury Voxel Pack Maphacks by LeoD
+
+// Title    : Hollywood Holocaust for Ion Fury
+// Author   : Jigglenomicon
+// Filename : E1L1_HH.MAP
+// mapmd4   : 64ff722cf880100ac699a070fdd12653 // 2022-06-11
+
+//         <-> Duke2Ion_E1L1.mhk
+
+// Curr.IFVP: r0.0.159
+
+// 47-50 / / 139-191 / / 584-587 / 597-603
+sprite   564 angoff     1024       // tile00211 i_loverboy_ammo
+sprite   572 angoff     640        // tile00243 i_dkshoes
+sprite   180 angoff    -512        // tile07553 a_hydrant_1
+sprite   665 away1                 // tile08842 (lapd graffiti)
+sprite   567 angoff     512        // tile00222 i_clusterpuck
+sprite   567 pitch      256        // tile00222 i_clusterpuck
+sprite   566 angoff     0          // tile00216 i_armorvest
+sprite   469 angoff     256        // tile00212 i_medpack
+sprite   667 angoff    -640        // tile00232 i_bowlingbomb_pickup
+sprite   569 angoff     0          // tile00231 i_grenadelauncher
+sprite    50 pitch      1          // tile00629 a_camera_2
+sprite    50 mdpivzoff  900000     // tile00629 a_camera_2
+sprite   412 angoff    -640        // tile07791 a_chair_1
+sprite   546 angoff     1024       // tile00211 i_loverboy_ammo
+sprite   139 angoff    -384        // tile06569 a_trashcan
+sprite    48 pitch      1          // tile00629 a_camera_2
+sprite    48 mdpivzoff  300000     // tile00629 a_camera_2
+sprite    47 pitch      1          // tile08247 (pole)
+sprite    47 mdpivzoff  300000     // tile08247 (pole)
+sprite   598 angoff     512        // tile00216 i_armorvest
+sprite   342 pitch     -1          // tile06569 a_trashcan
+sprite   342 mdpivzoff  200000     // tile06569 a_trashcan
+sprite   584 angoff     1024       // tile00212 i_medpack
+sprite   583 angoff     128        // tile06553 a_soda_1
+sprite   583 roll       1          // tile06553 a_soda_1
+sprite   583 mdpivzoff  300000     // tile06553 a_soda_1
+sprite   586 angoff     384        // tile06554 a_teacup_1
+sprite   587 angoff     0          // tile00224 i_shotgun
+sprite   597 angoff     1024       // tile00212 i_medpack
+sprite   273 pitch     -1          // tile06540 a_fireext
+sprite   273 mdpivzoff  200000     // tile06540 a_fireext
+sprite   600 pitch     -128        // tile00211 i_loverboy_ammo
+sprite   270 pitch      1          // tile06540 a_fireext
+sprite   270 mdpivzoff  280000     // tile06540 a_fireext
+sprite   596 angoff     768        // tile00225 i_shotgun_ammo
+sprite   595 angoff     960        // tile00244 i_damagebooster
+sprite   603 angoff     512        // tile00220 i_plasmacrossbow
+sprite   571 angoff     896        // tile00217 i_accesscard [blue]
+sprite   341 angoff     768        // tile06569 a_trashcan
+sprite   471 angoff    -512        // tile00211 i_loverboy_ammo
+sprite   470 angoff    -256        // tile00216 i_armorvest
+sprite   671 angoff     1024       // tile00230 i_smg
+sprite   672 angoff     768        // tile00227 i_smg_ammo
+sprite   673 angoff     256        // tile00227 i_smg_ammo
+sprite   658 angoff    -768        // tile00212 i_medpack
+sprite   345 pitch      1          // tile06540 a_fireext
+sprite   345 mdpivzoff  280000     // tile06540 a_fireext
+sprite   343 angoff    -256        // tile06569 a_trashcan
+sprite   599 angoff    -256        // tile00232 i_bowlingbomb_pickup
+sprite   353 angoff    -896        // tile08780 a_canister_2
+sprite   191 pitch     -1          // tile06540 a_fireext
+sprite   191 mdpivzoff  160000     // tile06540 a_fireext
+sprite   568 angoff     1024       // tile00221 i_minigun

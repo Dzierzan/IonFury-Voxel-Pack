@@ -1,0 +1,88 @@
+// Ion Fury Voxel Pack Maphacks by LeoD
+
+// Title    : GDF Training: 100 Meter Dash
+// Author   : FitterSpace
+// Filename : 100m.map
+// mapmd4   : e15343af1073023ba2bdaf5aec8d51b0 // 2020-11-01
+
+// Curr.IFVP: r0.0.159
+
+sprite  2681 notmd      0          // tile10959 (table napkin)
+sprite  2681 away1                 // tile10959 (table napkin)
+sprite  2684 roll      -1          // tile00216 i_armorvest
+sprite  2684 mdpivzoff  100000     // tile00216 i_armorvest
+sprite  2685 roll      -1          // tile00215 i_bulletvest
+sprite  2685 mdpivzoff  200000     // tile00215 i_bulletvest
+sprite  2359 roll      -1          // tile00214 i_medkit
+sprite  2359 mdpivzoff  300000     // tile00214 i_medkit
+sprite  2363 roll       1          // tile00231 i_grenadelauncher
+sprite  2363 pitch     -1          // tile00231 i_grenadelauncher
+sprite  2363 mdpivzoff  300000     // tile00231 i_grenadelauncher
+sprite  2369 roll      -1          // tile00226 i_grenadelauncher_ammo
+sprite  2369 mdpivzoff  340000     // tile00226 i_grenadelauncher_ammo
+sprite  2368 roll       1          // tile00226 i_grenadelauncher_ammo
+sprite  2368 mdpivzoff  340000     // tile00226 i_grenadelauncher_ammo
+sprite  2364 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  2364 mdpivzoff  340000     // tile00226 i_grenadelauncher_ammo
+sprite  2366 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  2366 roll      -1          // tile00226 i_grenadelauncher_ammo
+sprite  2366 mdpivzoff  340000     // tile00226 i_grenadelauncher_ammo
+sprite  2365 pitch      1          // tile00226 i_grenadelauncher_ammo
+sprite  2365 roll       1          // tile00226 i_grenadelauncher_ammo
+sprite  2365 mdpivzoff  340000     // tile00226 i_grenadelauncher_ammo
+sprite  2387 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2387 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2388 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2388 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2389 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2389 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2390 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2390 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2391 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2391 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2392 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2392 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2393 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2393 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2394 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2394 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2395 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2395 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2396 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2396 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2397 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2397 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2398 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2398 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2399 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2399 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2400 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2400 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2401 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2401 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2402 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2402 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2403 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2403 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2404 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2404 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2405 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2405 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2406 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2406 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2407 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2407 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2408 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2408 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2409 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2409 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2410 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2410 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2411 roll       1          // tile00232 i_bowlingbomb_pickup
+sprite  2411 mdpivzoff  150000     // tile00232 i_bowlingbomb_pickup
+sprite  2370 pitch     -1          // tile00221 i_minigun
+sprite  2370 mdpivzoff  300000     // tile00221 i_minigun
+sprite  2372 roll      -1          // tile00218 i_minigun_ammo
+sprite  2372 mdpivzoff  300000     // tile00218 i_minigun_ammo
+sprite  2371 roll       1          // tile00218 i_minigun_ammo
+sprite  2371 mdpivzoff  300000     // tile00218 i_minigun_ammo

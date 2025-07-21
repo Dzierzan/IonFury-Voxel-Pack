@@ -11,11 +11,50 @@ mapinfo {
 }
 
 mapinfo {
+  maptitle "Blue Hell!"
+  //author "Martin 'JacketAU' Down"
+  mapfile  "BlueHell!.map"
+  mapmd4   012d37704ccda317ca47c74dba319b87 // 2024-06-01
+  mhkfile  "maphacks/usermaps/BlueHell!.mhk"
+}
+
+mapinfo {
+  maptitle "DC Speedway"
+  //author "Truck Stop Santa Claus"
+  mapfile  "dcspeedway.map"
+  mapmd4   7b5b6cf0251faa39b0cc5c6797d7feaf // 2024-09-30
+  //mhkfile  "not applicable"
+}
+
+mapinfo {
   maptitle "GDF Space Station: an Ion Fury map"
   //author "Truck Stop Santa Claus"
   mapfile  "spacestation.map"
   mapmd4   40a3691fa8562de51aa2e336da0028e7 // 2021-09-10
   mhkfile  "maphacks/usermaps/spacestation.mhk"
+}
+
+mapinfo {
+  maptitle "GDF Training: 100 Meter Dash"
+  //author "FitterSpace"
+  mapfile  "100m.map"
+  mapmd4   e15343af1073023ba2bdaf5aec8d51b0 // 2020-11-01
+  mhkfile  "maphacks/usermaps/100m.mhk"
+}
+
+mapinfo {
+  maptitle "Hollywood Holocaust for Ion Fury"
+  //author "Jigglenomicon"
+  mapfile  "Duke2Ion_E1L1.map"
+  mapmd4   97561249647b9199534ba3b1ea6dbfd1 // 2022-06-02
+  mhkfile  "maphacks/usermaps/Duke2Ion_E1L1.mhk"
+}
+mapinfo {
+  maptitle "Hollywood Holocaust for Ion Fury"
+  //author "Jigglenomicon"
+  mapfile  "E1L1_HH.MAP"
+  mapmd4   64ff722cf880100ac699a070fdd12653 // 2022-06-11
+  mhkfile  "maphacks/usermaps/E1L1_HH.mhk"
 }
 
 mapinfo {
@@ -30,6 +69,7 @@ mapinfo {
   maptitle "JungleFury"
   //author "Truck Stop Santa Claus"
   mapfile  "junglefury.map"
+  mapmd4   b7b50ceecdf44267817029129d6c81f2 // 2019-12-30
   mapmd4   cde676804b948961683b1ee3ce0477d9 // 2020-01-05
   mhkfile  "maphacks/usermaps/junglefury.mhk"
 }
@@ -88,4 +128,103 @@ mapinfo {
   mapfile  "E1L1.map"
   mapmd4   b9578e3c22afff781a9e46338fea5481 // 2019-08-24
   mhkfile  "maphacks/usermaps/E1L1.mhk"
+}
+
+
+/********************************/
+/****** Not yet mackhacked ******/
+/********************************/
+
+mapinfo {
+  maptitle "Hong Kong"
+  //author "Olipro"
+  mapfile  "HongKong.map"
+  mapmd4   fd046b5109ce7aec02e406c360bf31e0 // 2019-09-23
+  //mhkfile  "maphacks/usermaps/HongKong.mhk"
+}
+
+mapinfo {
+  maptitle "L1 Lamefury"
+  //author "Ata Andrada"
+  mapfile  "L1LAMEFURY.map"
+  mapmd4   fe3289eaa6e0cc71b31cd6efd1531ffa // 2023-01-13
+  //mhkfile  "maphacks/usermaps/L1LAMEFURY-2023-01-13.mhk"
+}
+mapinfo {
+  maptitle "L1 Lamefury"
+  //author "Ata Andrada"
+  mapfile  "L1LAMEFURY.map"
+  mapmd4   c6b2aca20643c9b7443ec3f9bd74e943 // 2024-03-01
+  //mhkfile  "maphacks/usermaps/L1LAMEFURY-2024-03-01.mhk"
+}
+
+mapinfo {
+  maptitle "L2 Lamefury"
+  //author "Ata Andrada"
+  mapfile  "L2lamefury.map"
+  mapmd4   f149b26786bc233d9b5ddf5ae0c29848 // 2024-03-03
+  //mhkfile  "maphacks/usermaps/L2lamefury.mhk"
+}
+
+mapinfo {
+  //maptitle "LaRosca"
+  maptitle "New Menace"
+  //author "Ata Andrada"
+  mapfile  "larosca.map"
+  mapmd4   ecbadfc8f80d252350db83e5c4227a26 // 2023-01-15
+  //mhkfile  "maphacks/usermaps/larosca- 2023-01-15.mhk"
+}
+mapinfo {
+  maptitle "LaRosca"
+  //author "Ata Andrada"
+  mapfile  "larosca.map"
+  mapmd4   86ec1639550be62b2f529ed8c5233cda // 2024-02-27
+  //mhkfile  "maphacks/usermaps/larosca-2024-02-27.mhk"
+}
+
+mapinfo {
+  maptitle "Liberty Mayhem"
+  //author "Ata Andrada"
+  mapfile  "libertymayhem.map"
+  mapmd4   8f8b94687a6c2a5269229b5a4e571012 // 2024-02-27
+  //mhkfile  "maphacks/usermaps/libertymayhem.mhk"
+}
+
+mapinfo {
+  maptitle "Noir Fury"
+  //author "Truck Stop Santa Claus"
+  mapfile  "noirfury.map"
+  mapmd4   e0b8f8c9b4729092c93e4db1c753ca3c // 2020-05-25
+  //mhkfile  "maphacks/usermaps/noirfury.mhk"
+}
+
+mapinfo {
+  maptitle "Penal-ized"
+  //author "David Billing"
+  mapfile  "prison.map"
+  mapmd4   90f7d274f307a2c8ce45cca71886a2d2 // 2022-11-14
+  //mhkfile  "maphacks/usermaps/prison.mhk"
+}
+
+mapinfo {
+  maptitle "SPYmaps Ion Fury 3"
+  //author "Leon 'SPYmaps' Brinkmann"
+  mapfile  "SPYmapsIonFury3.map"
+  mapmd4   319c3f6820d2f94ae8cd21347e125183 // 2020-05-02
+  mhkfile  "maphacks/usermaps/SPYmapsIonFury3.mhk"
+}
+
+mapinfo {
+  maptitle "Vally of the King"
+  //author "Truck Stop Santa Claus"
+  mapfile  "vallyking.map"
+  mapmd4    1e7ff722e0b1bea53bcb19b9e070e3a1// 2020-02-26
+  //mhkfile  "maphacks/usermaps/vallyking-2020-02-26.mhk"
+}
+mapinfo {
+  maptitle "Vally of the King"
+  //author "Truck Stop Santa Claus"
+  mapfile  "vallyking.map"
+  mapmd4   dc2b542e93d1c4f3c9c8b094e47a3205 // 2020-03-02
+  //mhkfile  "maphacks/usermaps/vallyking-2020-03-02.mhk"
 }
