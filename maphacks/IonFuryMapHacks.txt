@@ -1,11 +1,11 @@
                    ==========================================
                    |           Ion Fury Maphacks            |
+                   |                by LeoD                 |
                    |                for the                 |
                    |          Ion Fury Voxel Pack           |
                    |                 (IFVP)                 |
-                   |                by LeoD                 |
                    ==========================================
-                   |      Version: 0.0.109 (2022-05-02)     |
+                   |      Version: 0.0.161 (2025-07-21)     |
                    ==========================================
 
 =======================
@@ -113,7 +113,7 @@ Related Links:
   RHash checksum generator ...... https://sourceforge.net/projects/rhash
   Maphack Wiki entry ............ https://wiki.eduke32.com/wiki/Maphack_Language
   Ion Fury Voxel Pack ........... https://github.com/Dzierzan/IonFury-Voxel-Pack
-  Ion Fury (3DRealms) ........... https://3drealms.com/catalog/ion-maiden_56
+  Ion Fury (3DRealms) ........... https://3drealms.com/games/ion-fury
   Ion Fury Walkthrough & Guide .. https://www.neoseeker.com/ion-fury/walkthrough
 
 Advertisement:
@@ -128,6 +128,18 @@ Advertisement:
 
 7) CHANGELOG
 ============
+
+r0.0.161 (2025-07-21)
+---------------------
+  Map Title               File Name          Map Author                 Maphacks
+  ------------------------------------------------------------------------------
+  Blue Hell!              BlueHell!.map      Martin 'JacketAU' Down        LeoD
+  GDF Training: 100 Meter Dash    100m.map   FitterSpace                   LeoD
+  Hollywood Holocaust for Ion Fury E1L1_HH.MAP   Jigglenomicon             LeoD
+
+  Ion Fury Maps:
+    Alphabet Soup             z2a2.map       Voidpoint                     LeoD
+
 
 r0.0.109 (2022-05-02)
 ---------------------
