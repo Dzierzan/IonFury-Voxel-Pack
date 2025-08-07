@@ -1,0 +1,73 @@
+// Ion Fury Voxel Pack Maphacks by LeoD
+
+// Title    : Blue Hell!
+// Author   : Martin 'JacketAU' Down
+// Filename : BlueHell!.map"
+// mapmd4   : 012d37704ccda317ca47c74dba319b87 // 2024-06-01
+
+// Curr.IFVP: r0.0.159
+
+sprite    84 angoff    -512        // tile09935 i_pizza_1
+sprite    85 angoff     768        // tile09935 i_pizza_1
+sprite    97 angoff     768        // tile00215 i_bulletvest
+sprite   313 pitch      1          // tile06540 a_fireext
+sprite   313 mdpivzoff  280000     // tile06540 a_fireext
+sprite    25 angoff    -512        // tile06554 a_teacup_1
+sprite   354 pitch      1          // tile06540 a_fireext
+sprite   354 mdpivzoff  280000     // tile06540 a_fireext
+sprite   353 angoff     192        // tile06557 a_broom_1
+sprite   353 pitch     -1          // tile06557 a_broom_1
+sprite   353 mdpivzoff  400000     // tile06557 a_broom_1
+sprite    38 angoff    -256        // tile06546 a_trashcan_dmg_1
+sprite    35 angoff    -512        // tile17203 i_shotgun_cluster
+sprite    37 pitch      1          // tile06540 a_fireext
+sprite    37 mdpivzoff  280000     // tile06540 a_fireext
+sprite   458 pitch      1          // tile06540 a_fireext
+sprite   458 mdpivzoff  280000     // tile06540 a_fireext
+sprite   464 angoff     256        // tile06546 a_trashcan_dmg_1
+sprite   465 angoff    -896        // tile06546 a_trashcan_dmg_1
+sprite   448 angoff    -768        // tile00232 i_bowlingbomb_pickup
+sprite   508 angoff    -832        // tile00223 i_techvest
+sprite   509 angoff     1024       // tile00220 i_plasmacrossbow
+sprite   498 angoff     512        // tile00227 i_smg_ammo
+sprite   497 angoff     512        // tile00230 i_smg
+sprite   331 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite   332 angoff     1024       // tile00232 i_bowlingbomb_pickup
+sprite   329 angoff     768        // tile00232 i_bowlingbomb_pickup
+sprite   463 pitch      1          // tile06540 a_fireext
+sprite   463 mdpivzoff  280000     // tile06540 a_fireext
+sprite   958 angoff     0          // tile17214 i_inflatable_chair
+sprite   516 pitch      1          // tile06540 a_fireext
+sprite   516 mdpivzoff  360000     // tile06540 a_fireext
+sprite   954 angoff     1024       // tile00227 i_smg_ammo
+sprite   955 angoff    -768        // tile00227 i_smg_ammo
+sprite   957 angoff    -256        // tile00227 i_smg_ammo
+sprite   957 pitch     -1          // tile00227 i_smg_ammo
+sprite   957 mdpivzoff  800000     // tile00227 i_smg_ammo
+sprite   532 pitch     -1          // tile06540 a_fireext
+sprite   532 mdpivzoff  360000     // tile06540 a_fireext
+sprite   552 angoff     1024       // tile17202 i_grenadelauncher_gas
+sprite   870 angoff     512        // tile06546 a_trashcan_dmg_1
+sprite   871 angoff     768        // tile06546 a_trashcan_dmg_1
+sprite   964 angoff    -128        // tile00225 i_shotgun_ammo
+sprite   747 pitch     -1          // tile07551 (3 cables)
+sprite   747 roll       3          // tile07551 (3 cables)
+sprite   747 mdpivyoff  20000      // tile06448 (3 cables)
+sprite   747 mdpivzoff  300000     // tile06448 (3 cables)
+sprite   572 angoff     256        // tile07553 a_hydrant_1
+sprite   875 angoff     896        // tile06546 a_trashcan_dmg_1
+sprite   849 angoff     512        // tile00218 i_minigun_ammo
+sprite   850 angoff     512        // tile00218 i_minigun_ammo
+sprite   785 angoff     768        // tile00232 i_bowlingbomb_pickup
+sprite   786 angoff    -512        // tile00232 i_bowlingbomb_pickup
+sprite   784 angoff     1024       // tile00232 i_bowlingbomb_pickup
+sprite   783 angoff     512        // tile00232 i_bowlingbomb_pickup
+sprite   787 angoff    -384        // tile00232 i_bowlingbomb_pickup
+sprite   779 angoff    -576        // tile00221 i_minigun
+sprite   781 angoff    -256        // tile00244 i_damagebooster
+sprite   782 angoff    -512        // tile00223 i_techvest
+sprite   951 angoff     0          // tile00217 i_accesscard [red]
+sprite   797 angoff     1024       // tile00230 i_smg
+sprite   795 angoff     1024       // tile00227 i_smg_ammo
+sprite   792 angoff     768        // tile00232 i_bowlingbomb_pickup
+sprite   791 angoff     1024       // tile00232 i_bowlingbomb_pickup
