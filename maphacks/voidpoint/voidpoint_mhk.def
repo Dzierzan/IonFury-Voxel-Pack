@@ -273,7 +273,7 @@ mapinfo {
    mapfile  "z3a4.map"
    //mapmd4   194f15286ec9fbd097d4b0ed317d7e7d // 2023-09-30 (fury.grp 3.0)
    mapmd4   96fba56dbfc26498809d6ab751937eae // 2023-09-30 (ar, fury.grp 3.0)
-   mhkfile  "maphacks/voidpoint/z3a4.mhk"
+   mhkfile  "maphacks/voidpoint/z3a4-arrange.mhk"
 }
 
 mapinfo {
@@ -284,7 +284,7 @@ mapinfo {
    //mapmd4   6794bbbd7c3ae91d66589ea89470954f // 2019-08-29 (fury.grp 1.02)
    //mapmd4   f41e5f69aaffd4f3b374fe315fa2aeb6 // 2020-06-13 (fury.grp 1.1)
    mapmd4   219cc46ff75675e4170eca1a66a2236b // 2021-09-29 (fury.grp 2.0, 3.0)
-   mhkfile  "maphacks/voidpoint/z3a5-arrange.mhk"
+   mhkfile  "maphacks/voidpoint/z3a5.mhk"
 }
 mapinfo {
    maptitle "Grand Slam" // LV_X
